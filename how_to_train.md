@@ -1,10 +1,3 @@
----
-title: How to train a new language model from scratch using Transformers and Tokenizers
-thumbnail: /blog/assets/01_how-to-train/how-to-train_blogpost.png
-authors:
-- user: julien-c
----
-
 # How to train a new language model from scratch using Transformers and Tokenizers
 
 
