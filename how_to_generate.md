@@ -1,13 +1,3 @@
----
-title: "How to generate text: using different decoding methods for language generation with Transformers"
-thumbnail: /blog/assets/02_how-to-generate/thumbnail.png
-authors:
-- user: patrickvonplaten
----
-
-# How to generate text: using different decoding methods for language generation with Transformers
-
-
 <a target="_blank" href="https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/02_how_to_generate.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
