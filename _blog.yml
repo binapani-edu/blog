@@ -1,6 +1,6 @@
 - local: how-to-train
   title: How to train a new language model from scratch using Transformers and Tokenizers
-  thumbnail: /assets/01_how-to-train/dummy.jpg
+  thumbnail: /blog/assets/01_how-to-train/dummy.jpg
   author: julien-c
   date: February 14, 2020
   tags:
@@ -10,7 +10,7 @@
 - local: how-to-generate
   title: "How to generate text: using different decoding methods for language generation with Transformers"
   author: patrickvonplaten
-  thumbnail: /assets/02_how-to-generate/dummy.jpg
+  thumbnail: /blog/assets/02_how-to-generate/dummy.jpg
   date: March, 2020
   tags:
     - guide
