@@ -1,6 +1,6 @@
 - local: how-to-train
   title: How to Train a New Language Model from Scratch Using Transformers and Tokenizers
-  thumbnail: /blog/assets/01_how-to-train/dummy.jpg
+  thumbnail: /blogs/how-to-train/assets/dummy.jpg
   description: "A step-by-step guide on training a language model from scratch using Hugging Face Transformers and Tokenizers. Learn about dataset preparation, tokenization, model selection, and fine-tuning techniques."
   authors: 
     - name: patrickvonplaten
@@ -30,7 +30,7 @@
       url: https://github.com/huggingface
     - name: alephnaught
       url: https://github.com/alephnaught
-  thumbnail: /blog/assets/02_how-to-generate/dummy.jpg
+  thumbnail: /blogs/how-to-generate/assets/dummy.jpg
   description: "Explore various decoding strategies such as greedy search, beam search, nucleus sampling, and contrastive decoding to generate high-quality text with Transformer-based models."
   created_date: March, 2020
   updated_date: March 7, 2023
