@@ -3,10 +3,14 @@
   thumbnail: /blog/assets/01_how-to-train/dummy.jpg
   description: "A step-by-step guide on training a language model from scratch using Hugging Face Transformers and Tokenizers. Learn about dataset preparation, tokenization, model selection, and fine-tuning techniques."
   authors: 
-    - [patrickvonplaten](https://github.com/patrickvonplaten)
-    - [thomwolf](https://github.com/thomwolf)
-    - [alephnaught](https://github.com/alephnaught)
-    - [huggingface](https://github.com/huggingface)
+    - name: patrickvonplaten
+      url: https://github.com/patrickvonplaten
+    - name: thomwolf
+      url: https://github.com/thomwolf
+    - name: alephnaught
+      url: https://github.com/alephnaught
+    - name: huggingface
+      url: https://github.com/huggingface
   created_date: February 14, 2020
   updated_date: March 7, 2023
   tags:
@@ -16,11 +20,16 @@
 - local: how-to-generate
   title: "How to Generate Text: Using Different Decoding Methods for Language Generation with Transformers"
   authors: 
-    - [patrickvonplaten](https://github.com/patrickvonplaten)
-    - [julien-c](https://github.com/julien-c)
-    - [thomwolf](https://github.com/thomwolf)
-    - [huggingface](https://github.com/huggingface)
-    - [alephnaught](https://github.com/alephnaught)
+    - name: patrickvonplaten
+      url: https://github.com/patrickvonplaten
+    - name: julien-c
+      url: https://github.com/julien-c
+    - name: thomwolf
+      url: https://github.com/thomwolf
+    - name: huggingface
+      url: https://github.com/huggingface
+    - name: alephnaught
+      url: https://github.com/alephnaught
   thumbnail: /blog/assets/02_how-to-generate/dummy.jpg
   description: "Explore various decoding strategies such as greedy search, beam search, nucleus sampling, and contrastive decoding to generate high-quality text with Transformer-based models."
   created_date: March, 2020
@@ -28,5 +37,3 @@
   tags:
     - guide
     - nlp
-
-
