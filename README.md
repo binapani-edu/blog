@@ -8,14 +8,65 @@ repo for Binapani blog posts
 
 1. **Fork the repository**: Create your own copy of the repo to work on.
 2. **Clone the repository**: Clone your fork to your local machine.
-3. **Create a branch**: Create a new branch for your contribution.
+3. **Create a branch**: Create a branch with the format `YourName/BlogTitle` (e.g., `john/my-awesome-blog`).
+
+### Blog Structure
+
+1. **Create a folder**: Create a folder for your blog post with the format `/blogs/your-blog-slug/`.
+   - Use short, descriptive slugs in kebab-case (lowercase with hyphens)
+   - This slug will become part of the blog's URL on the website (so keep it short, unique and descriptive)
+
+2. **Add content file**: Create a `content.md` file inside your blog folder.
+
+3. **Add assets**: Create an `/assets/` subfolder for all images.
+
+4. **Final structure**: Your blog folder should look something like this:
+   ```
+   /blogs/your-blog-slug/
+     content.md
+     /assets/
+       thumbnail.jpg
+       other-images.png
+   ```
 
 ### Writing Blog Posts
 
 1. **Format**: Write posts in Markdown format.
-2. **Structure**: Include a title, date, author, and tags at the top of your post.
-3. **Images**: Store images in the `assets` folder and reference them with relative paths.
-4. **Code snippets**: Use proper Markdown code blocks with language specification.
+
+2. **Blog Header**: Start your `content.md` with a descriptive title:
+   ```markdown
+   # Your Blog Title
+
+   Your content here...
+   ```
+
+3. **Images**: 
+   - Store all images in the `assets` folder 
+   - Reference them with relative paths: `![Alt text](./assets/image.jpg)`
+   - **Optimize your images** before adding them to keep the repository lightweight:
+     - Use compression tools like [TinyPNG](https://tinypng.com/) or [ILoveIMG](https://www.iloveimg.com/compress-image)
+     - Aim for a maximum file size of 300KB per image when possible
+     - Create thumbnails with dimensions 1300x650 for consistency
+
+4. **Code snippets**: Use proper Markdown code blocks with language specification:
+   ```markdown
+   ```python
+   def example():
+       return "Hello World"
+   ```
+   ```
+
+5. **Captioning Figures**: You can add captions to images using HTML or tables:
+   ```markdown
+   | ![Description](./assets/image.jpg) |
+   |:--:|
+   | *Figure 1: Description of the figure* |
+   ```
+
+6. **LaTeX Support**: For mathematical formulas, use LaTeX notation:
+   ```markdown
+   \\( E = mc^2 \\)
+   ```
 
 ### Blog Configuration (REQUIRED)
 
@@ -49,28 +100,27 @@ Your PR might be rejected if this step is missing.
    - `updated`: Last modification date (same as created for new blog, different for PRs editing an existing blog)
    - `tags`: Relevant categories for your post (helps with discoverability)
 
-3. **Example structure**:
-   ```
-   /blogs/your-blog-slug/
-     content.md
-     /assets/
-       thumbnail.jpg
-       other-images.png
-   ```
-
 ### Submitting Changes
 
-1. **Commit your changes**: Make meaningful commit messages.
+1. **Commit your changes**: Make meaningful commit messages that describe your changes. (use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/))
 2. **Push to your fork**: Upload your changes to your GitHub repository.
-3. **Submit a Pull Request**: Create a PR against the main repository.
-4. **Code review**: Wait for a review from the maintainers.
+3. **Submit a Pull Request**: Create a PR against the main repository with the title format "New Blog: Your Blog Title". (or "Edit Blog: Your Blog Title" for PRs editing an existing blog)
+4. **PR Description**: In your PR description, include:
+   - A brief summary of your blog post
+   - A checklist confirming you've:
+     - [ ] Added your blog post content
+     - [ ] Optimized all images
+     - [ ] Updated the `_blog.yml` file
+5. **Code review**: Wait for a review from the maintainers.
 
 ### Style Guide
 
 - Use clear, concise language
 - Include relevant images and diagrams where helpful
-- Properly format code examples
+- Properly format code examples with syntax highlighting
 - Ensure proper citation for any external resources
+- Break up long paragraphs for better readability
+- Use headers to organize your content logically
 
 ### Need Help?
 
