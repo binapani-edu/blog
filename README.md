@@ -1,6 +1,6 @@
 # Blog
 
-repo for Binapani blog posts
+repo for [Binapani blog posts](https://binapani.com/blog)
 
 ## Contribution Guidelines
 
@@ -127,3 +127,7 @@ Your PR might be rejected if this step is missing.
 If you have questions or need assistance, please open an issue with the "question" label.
 
 Thank you for contributing to the Binapani blog!
+
+## 
+
+On successful submission of your blog post, your blog post/article will be published on the website: [https://binapani.com/blog](https://binapani.com/blog).
