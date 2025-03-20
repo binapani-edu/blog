@@ -1,0 +1,16 @@
+- slug: sample-blog
+  title: Blog Title
+  thumbnail: /blogs/sample-blog/assets/thumbnail.jpg
+  description: "Blog Description"
+  authors:
+    - name: mratanusarkar
+      profile: https://github.com/mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/34891206?v=4
+    - name: ujjwalkirtibpa
+      profile: https://github.com/ujjwalkirtibpa
+      avatar: null
+  created: March 20, 2025
+  updated: March 20, 2025
+  tags:
+    - sample
+    - demo
