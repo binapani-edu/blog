@@ -58,8 +58,8 @@ Your blog's structure should look something like this:
         ├── content.md
         └── assets/
             ├── thumbnail.jpg
-            ├── helpful-diagram.png
-            └── code-output-screenshot.jpg
+            ├── helpful-diagram.svg
+            └── other-images.png
 ```
 
 ## Crafting Your Blog Post
@@ -123,6 +123,7 @@ Teaching a concept that requires math? Binapani supports LaTeX notation:
 ```
 
 This renders as a beautifully formatted equation on the published blog.
+For more details on writing LaTeX in Markdown, you can refer to the [GitHub LaTeX Guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions).
 
 ### Citations and References
 
