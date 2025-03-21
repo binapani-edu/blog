@@ -175,7 +175,7 @@ Ready to share your knowledge with the world? Here's how:
 
 2. **Push to Your Fork**: Send your local changes to your GitHub repository.
 
-3. **Open a Pull Request (PR)**: Submit your work to the main Binapani repository with a title like "`New Blog: Your Blog Title`" or "`Edit Blog: Your Blog Title`" for PRs editing an existing blog.
+3. **Open a Pull Request (PR)**: Submit your work to the main Binapani repository with a title like "`[new blog] Your Blog Title`" or "`[edit blog] Your Blog Title`" for PRs editing an existing blog.
 
 4. **Describe Your Contribution**: In your PR description, include:
    - A brief summary of what readers will learn from your blog
