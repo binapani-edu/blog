@@ -49,11 +49,22 @@ repo for [Binapani blog posts](https://binapani.com/blog)
      - Create thumbnails with dimensions 1300x650 for consistency
 
 4. **Code snippets**: Use proper Markdown code blocks with language specification:
-   ```markdown
+   
+   To create a code block with syntax highlighting,
+   use three backticks followed by the language name, then your code, and close with three backticks:
+
+   <pre>
    ```python
    def example():
        return "Hello World"
    ```
+   </pre>
+
+   This will render as:
+
+   ```python
+   def example():
+       return "Hello World"
    ```
 
 5. **Captioning Figures**: You can add captions to images using HTML or tables:
