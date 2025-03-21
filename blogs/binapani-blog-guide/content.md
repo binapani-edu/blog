@@ -167,6 +167,19 @@ Here are the detailed explanations for the fields:
 
 This information helps categorize your blog, makes it discoverable, and provides attribution for your hard work.
 
+## Important Disclaimer for Contributors
+
+**✋ Please Note:** When submitting your blog, remember that you should ONLY modify:
+
+1. Files within your own blog slug folder (`/blogs/your-blog-slug/*`)
+2. The specific section in `_blog.yml` that corresponds to your blog
+
+For **new blog posts**, add your entry at the **end** of the `_blog.yml` file unless specifically instructed otherwise by maintainers.
+
+For **existing blog edits**, only modify the specific `_blog.yml` entry for your blog slug.
+
+PRs that modify other blogs' content or unrelated parts of the configuration may be rejected. This helps maintain the integrity of the repository and ensures that other contributors' work isn't accidentally modified.
+
 ## Submitting Your Masterpiece
 
 Ready to share your knowledge with the world? Here's how:
