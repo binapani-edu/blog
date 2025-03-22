@@ -111,11 +111,24 @@ Your PR might be rejected if this step is missing.
    - `updated`: Last modification date (same as created for new blog, different for PRs editing an existing blog)
    - `tags`: Relevant categories for your post (helps with discoverability)
 
+### Important Disclaimer for Contributors
+
+**✋ Please Note:** When submitting a PR, ensure you had only modified:
+
+1. Files within your own blog slug folder (`/blogs/your-blog-slug/*`)
+2. The specific section in `_blog.yml` that corresponds to your blog
+
+For **new blog posts**, add your entry at the **end** of the `_blog.yml` file unless specifically instructed otherwise by maintainers.
+
+For **existing blog edits**, only modify the specific `_blog.yml` entry for your blog slug.
+
+PRs that modify other blogs' content or unrelated parts of the configuration may be rejected.
+
 ### Submitting Changes
 
 1. **Commit your changes**: Make meaningful commit messages that describe your changes. (use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/))
 2. **Push to your fork**: Upload your changes to your GitHub repository.
-3. **Submit a Pull Request**: Create a PR against the main repository with the title format "New Blog: Your Blog Title". (or "Edit Blog: Your Blog Title" for PRs editing an existing blog)
+3. **Submit a Pull Request**: Create a PR against the main repository with the title format "`[new blog] Your Blog Title`". (or "`[edit blog] Your Blog Title`" for PRs editing an existing blog)
 4. **PR Description**: In your PR description, include:
    - A brief summary of your blog post
    - A checklist confirming you've:

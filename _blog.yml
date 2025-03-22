@@ -1,16 +1,14 @@
-- slug: sample-blog
-  title: Blog Title
-  thumbnail: /blogs/sample-blog/assets/thumbnail.jpg
-  description: "Blog Description"
+- slug: binapani-blog-guide
+  title: "Writing Blogs for Binapani: A Complete Guide"
+  thumbnail: /blogs/binapani-blog-guide/assets/thumbnail.jpg
+  description: "A step-by-step guide on writing, formatting, and publishing blogs for Binapani, including metadata setup, PR process, and technical steps with plenty of helpful tips along the way."
   authors:
     - name: mratanusarkar
       profile: https://github.com/mratanusarkar
       avatar: https://avatars.githubusercontent.com/u/34891206?v=4
-    - name: ujjwalkirtibpa
-      profile: https://github.com/ujjwalkirtibpa
-      avatar: null
-  created: March 20, 2025
-  updated: March 20, 2025
+  created: March 22, 2025
+  updated: March 22, 2025
   tags:
-    - sample
-    - demo
+    - binapani
+    - guide
+    - tutorial
