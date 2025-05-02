@@ -76,15 +76,17 @@ Despite facing challenges such as privacy concerns, the spread of misinformation
 
 ### Twitter (2006)
 
-Launched in 2006 by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams, Twitter quickly revolutionized how people communicate and share information online. Originally conceived as a platform for sharing short, status updates in real-time, Twitter initially allowed users to post 140-character messages called "tweets" (later expanded to 280 characters in 2017).
+Originally launched in July 2006 under the name "Twttr" (six months later it was renamed to Twitter), the microblogging platform was co-founded by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. It pioneered real-time short text-based updates through 140-character messages (later expanded to 280 characters in 2017), enabling users to broadcast brief thoughts globally.
 
-Users could follow others, and tweets would appear in a feed, creating a dynamic, ongoing conversation. Key features included hashtags, which enabled the categorization and tracking of topics, retweets to share others' posts, and mentions to interact with other users directly.
+Users could follow others, and tweets would appear in a feed, creating a dynamic, ongoing conversation. Key features included hashtags (first proposed by Chris Messina in 2007), which enabled the categorization and tracking of topics, retweets to share and amplify others' posts, and mentions to tag and interact with other users directly.
 
 Twitter became a hub for real-time news, pop culture, political discourse, and social movements, allowing users to share opinions, make announcements, and even organize events instantly. Its simplicity and accessibility made it popular among celebrities, journalists, and everyday users. By 2012, Twitter had more than 100 million users producing 340 million daily tweets.
 
 Over time, Twitter grew into a critical tool for businesses, influencers, activists, real-time news, and political discourse, offering a direct line of communication to global audiences allowing users to share opinions, make announcements, and even organize events. While the platform faced challenges such as combating harassment, misinformation, and user growth, Twitter's impact on communication, particularly in shaping public opinion and sharing news, remains undeniable. Its simplicity and accessibility made it popular among celebrities, journalists, governments, and everyday users.
 
-Elon Musk acquired Twitter in October 2022, and it was subsequently rebranded as X in July 2023. The rebranding also included a change of the website URL from twitter.com to x.com in May 2024.
+Following Elon Musk's $44 billion acquisition in 2022, the platform underwent a radical transformation, replacing its bird logo with an X in July 2023 and migrating its domain to X.com by May 2024, completing Musk's vision for an 'everything app'.
+
+On March 31, 2023, Twitter open-sourced portions of its recommendation algorithm code as promised by Elon. It turns out the algorithm employs a three-step process: candidate sourcing, ranking via a 48-million-parameter neural network, and filtering, to curate a personalized 'For You' feed blending tweets from both followed accounts with relevant content discovered through real-time graph analysis.
 
 ## 2010s – The Visual Era
 
@@ -92,11 +94,13 @@ The 2010s were all about images, videos and media.
 
 ### Instagram (2010)
 
+Co-founded by Stanford graduates Kevin Systrom and Mike Krieger in 2010, Instagram emerged from their failed location-checkin app "Burbn" to dominate mobile photography through retro-inspired filters.
+
 This photo-sharing app brought visual storytelling to the forefront, allowing users to share their lives through stunning images.
 
-Launched in 2010 by Kevin Systrom and Mike Krieger, Instagram is a photo and video-sharing platform known for its visual content. Users can share posts with filters, use hashtags, and interact through stories and direct messages.
+Meta's $1 billion acquisition in 2012 fueled Instagram's evolution into a multimedia commerce hub via features including ephemeral Stories (2016), long-form IGTV (2018), and in-app checkout for shoppable posts.
 
-Acquired by Facebook (Meta) in 2012, Instagram introduced features like Reels, IGTV, and shopping, becoming a hub for influencers, brands, and content creators. With over 1 billion active users, Instagram remains a leading platform for visual content and social influence.
+With over 1 billion active users, Instagram remains a leading platform for visual content and social influence.
 
 ### Snapchat (2011)
 
