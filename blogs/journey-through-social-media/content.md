@@ -104,11 +104,13 @@ With over 1 billion active users, Instagram remains a leading platform for visua
 
 ### Snapchat (2011)
 
-Snapchat revolutionized communication with its disappearing stories, making short-lived messages and moments an essential part of digital interaction.
+Emerging from a Stanford University project, Snapchat initially launched as "Picaboo" in iOS App Store in July 2011 under co-founders Evan Spiegel, Bobby Murphy, and Reggie Brown. Renamed Snapchat after trademark conflicts, the multimedia messaging app was known for its disappearing messages and innovative use of filters. Core innovations included self-destructing photos/videos after being viewed, Stories (24-hour disappearing content), Lenses (augmented reality filters), and Discover (news and entertainment content).
 
-Originally launched as "Picaboo" in the iOS App Store in July 2011 by Evan Spiegel, Bobby Murphy, and Reggie Brown, the app was renamed Snapchat later that year. It's a multimedia messaging app known for its disappearing messages and innovative use of filters. Initially focused on sending photos and videos that self-destructed after being viewed, Snapchat evolved to include features like Stories (24-hour content), Lenses (augmented reality filters), and Discover (news and entertainment content).
+Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a $158 million settlement. However, this didn't stop the app from becoming a massive success. From from 25 images/second in 2012 to 400 million daily snaps by late 2013, outpacing Facebook's photo uploads at the time. Snapchat crossed the one million users threshold by the end of 2012 and grew to 34.8 million daily active users by the end of 2013.
 
-In 2012, Snapchat crossed the one million users threshold, and by the end of 2013, Snapchat users were sending over 400 million snaps per day. It became popular among younger audiences due to its fun and temporary nature. Over time, Snapchat introduced new features like Snap Map, Memories, and Spotlight (short-form videos), as well as a marketplace for AR lenses. Despite facing competition from platforms like Instagram and TikTok, Snapchat remains a significant social media platform, particularly known for its creativity, privacy features, and strong engagement with its Gen Z user base.
+Snapchat revolutionized communication with its disappearing stories, making short-lived messages and moments an essential part of digital interaction, fostering authenticity and spontaneity. Beyond its signature vanishing media, Snapchat expanded into AR-driven face filters (2015), geotagged Stories (2013), and Discover's publisher partnerships (2015). The 2017 Snap Map feature sparked privacy debates despite its Ghost Mode opt-out. Later innovations included Memories (2016) for content archiving, Spotlight (2020) for TikTok-style clips, and Lens Studio (2017) enabling third-party AR filter creation.
+
+Despite facing competition from platforms like Instagram and TikTok, Snapchat remains a significant social media platform, particularly known for its creativity, privacy features, and strong engagement with its Gen Z user base.
 
 ## 2020s – Short Videos and Reels Take Over
 
@@ -116,18 +118,26 @@ In the 2020s, social media platforms like TikTok, Instagram Reels, and YouTube S
 
 ### TikTok
 
-TikTok has a more complex timeline than most social platforms. ByteDance launched Douyin (TikTok's Chinese version) in 2016, and TikTok was launched internationally in September 2017. ByteDance acquired Musical.ly for $1 billion in November 2017 and merged it with TikTok in August 2018, creating the global phenomenon we know today. The platform's algorithm-driven content discovery and short-form video format have made it extraordinarily popular across age groups.
+The timeline for TikTok is complicated. ByteDance launched Douyin (TikTok's Chinese version) in China during September 2016, later introducing TikTok globally in September 2017. ByteDance then went ahead acquiring Musical.ly for $1 billion in November 2017 and merged it with TikTok in August 2018, adding its 100 million users into TikTok's user base.
+
+On top of this, TikTok leveraged algorithm-driven content recommendations and short-form video format to fuel viral growth, creating the global phenomenon we know today. This short-form video format have made it extraordinarily popular across age groups, and among content creators as well as content consumers.
+
+With this format, now anyone can become a content creator and share their content with the world. And for the content consumers, it's a great way to discover new content and be entertained. Although this has sparked a lot of debates about the impact of this format on the society, and introduced what is known as "Reel culture" and "Doom Scrolling", it's undeniable that it has changed the way we consume content and the way we have increased our "screen time" online.
+
+TikTok also sparked a lot of controversies, from privacy concerns to the spread of misinformation, and even the banning of the app in some countries.
 
 ### Instagram Reels and YouTube Shorts
 
-In direct response to TikTok's growing popularity, Instagram launched Reels in August 2020, bringing similar short-form video capabilities to its platform. 
+Meta's Instagram countered TikTok's rise by launching Reels in August 2020, offering 15-second multi-clip videos with licensed music and AR effects.
 
-YouTube Shorts was first released in India in September 2020 following India's ban of TikTok, then expanded to the United States in March 2021 and globally in July 2021, further demonstrating how the short-form video format had become the dominant social media trend.
+Capitalizing on India's 2020 TikTok ban, YouTube introduced Shorts in September 2020. Then expanded to United States in March 2021, and later expanded to 100+ countries by July 2021. The feature reached 6.5 billion daily views within months. This demonstrates how the short-video format has become the dominant format for social media platforms, and how it has become the default way for people to consume content currently.
 
 With the growing popularity and user engagement with hours and hours of endless scrolling over reels, this reel culture and short video format has been adopted by other platforms like Facebook, Snapchat, and even LinkedIn recently! Some news platforms like the New York Times and the Washington Post have also adopted this format to keep up with the trend.
 
 ### The Digital Revolution Continues
 
-From the early days of simple online profiles to the fast-paced world of short-form video and real-time interaction, social media has undergone a remarkable transformation. What started as a way to connect with friends has evolved into a global stage for expression, influence, activism, and storytelling.
+From the early days of simple online profiles to the fast-paced world of short-form video and real-time interaction, social media has undergone a remarkable transformation.
+
+What started as a way to connect with friends has evolved into a global stage for expression, influence, activism, and storytelling.
 
 With each new platform, we've redefined how we share our lives, build communities, and shape the culture around us. As we continue this digital journey, one thing is certain — social media isn't just evolving; it's reshaping the way we experience the world.
