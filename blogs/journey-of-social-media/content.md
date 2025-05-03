@@ -194,132 +194,68 @@ With each new platform, we've redefined how we share our lives, build communitie
 
 ## References
 
-<a id="1"></a>[1] [SixDegrees.com - Wikipedia](https://en.wikipedia.org/wiki/SixDegrees.com)
-
-<a id="2"></a>[2] [The father of social networking - with Andrew Weinreich](https://mixergy.com/interviews/andrew-weinreich-sixdegrees/)
-
-<a id="3"></a>[3] [SixDegrees.com - The Start of Social Media - Medium](https://medium.com/@emijones/sixdegrees-com-the-start-of-social-media-86e287d46e9e)
-
-<a id="4"></a>[4] [Then and now: a history of social networking sites - CBS News](https://www.cbsnews.com/pictures/then-and-now-a-history-of-social-networking-sites/)
-
-<a id="5"></a>[5] [How Friendster Died: The Untold Story - The Runway Ventures](https://www.therunway.ventures/p/friendster)
-
-<a id="6"></a>[6] [Before Facebook there was… Friendster? - Harvard Digital Initiative](https://d3.harvard.edu/platform-digit/submission/before-facebook-there-was-friendster-yes-thats-right/)
-
-<a id="7"></a>[7] [How Friendster died (The Untold Story) - The Runway Ventures](https://www.therunway.ventures/p/friendster)
-
-<a id="8"></a>[8] [Wallflower at the Web Party - New York Times](https://web.archive.org/web/20070608182205/http://www.nytimes.com:80/2006/10/15/business/yourmoney/15friend.html)
-
-<a id="9"></a>[9] [How Friendster lost chance for a jackpot - NY Times](https://www.nytimes.com/2006/10/15/business/worldbusiness/15iht-friend.3160940.html)
-
-<a id="10"></a>[10] [Myspace - Wikipedia](https://en.wikipedia.org/wiki/Myspace)
-
-<a id="11"></a>[11] [Tom Anderson - Wikipedia](https://en.wikipedia.org/wiki/Tom_Anderson)
-
-<a id="12"></a>[12] [MySpace cowboys - CNN Money](https://money.cnn.com/magazines/fortune/fortune_archive/2006/09/04/8384727/index.htm)
-
-<a id="13"></a>[13] [Digital Lifestyles - MySpace to hit 100 million accounts](https://digital-lifestyles.info/2006/08/08/myspace-to-hit-100-million-accounts/)
-
-<a id="14"></a>[14] [News Corp. to Acquire Owner of MySpace.com - NY Times](https://www.nytimes.com/2005/07/18/business/news-corp-to-acquire-owner-of-myspacecom.html)
-
-<a id="15"></a>[15] [Google signs $900m News Corp deal - BBC News](http://news.bbc.co.uk/1/hi/business/5254642.stm)
-
-<a id="16"></a>[16] [News Corp. Sells Myspace to Specific Media for $35 Million - NY Times](https://archive.nytimes.com/mediadecoder.blogs.nytimes.com/2011/06/29/news-corp-sells-myspace-to-specific-media-for-35-million/)
-
-<a id="17"></a>[17] [Interview: Tom Anderson, MySpace's co-founder - The Guardian](https://www.theguardian.com/media/2008/jun/23/myspace.tomanderson)
-
-<a id="18"></a>[18] [LinkedIn - Wikipedia](https://en.wikipedia.org/wiki/LinkedIn)
-
-<a id="19"></a>[19] [From Professional Networking to Global Impact: The Evolution of LinkedIn](https://www.linkedin.com/pulse/from-professional-networking-global-impact-evolution-linkedin-ashfaq-uu31c)
-
-<a id="20"></a>[20] [Launching LinkedIn Learning](https://www.linkedin.com/business/learning/blog/new-courses/launching-linkedin-learning)
-
-<a id="21"></a>[21] [LinkedIn: The 1# Platform for Professional Networking and Career Growth](https://www.linkedin.com/pulse/why-linkedin-1-platform-professional-networking-career-rajeev-ranjan-shabc)
-
-<a id="22"></a>[22] [Microsoft to acquire LinkedIn](https://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/)
-
-<a id="23"></a>[23] [LinkedIn Up To 900 Million Members, Reports Record Engagement](https://www.socialmediatoday.com/news/LinkedIn-Up-To-900-Million-Members-Record-Engagement/641215/)
-
-<a id="24"></a>[24] [Google pledges $900 million for MySpace honors - CNET](https://www.cnet.com/tech/services-and-software/google-pledges-900-million-for-myspace-honors/)
-
-<a id="25"></a>[25] [Google & MySpace In $900 Million Deal On Search & Contextual Ads - Search Engine Watch](https://www.searchenginewatch.com/2006/08/07/google-myspace-in-900-million-deal-on-search-contextual-ads/)
-
-<a id="26"></a>[26] [The guys behind MySpace.com - USA TODAY](https://usatoday30.usatoday.com/money/companies/management/2006-02-12-myspace-usat_x.htm)
-
-<a id="27"></a>[27] [Why Facebook Beat MySpace - Forbes](https://www.forbes.com/sites/chunkamui/2011/01/12/why-facebook-beat-myspace-and-why-myspaces-revised-strategy-will-probably-fail/)
-
-<a id="28"></a>[28] [History of Facebook - Wikipedia](https://en.wikipedia.org/wiki/History_of_Facebook)
-
-<a id="29"></a>[29] [Feed (Facebook) - Wikipedia](https://en.wikipedia.org/wiki/Feed_%28Facebook%29)
-
-<a id="30"></a>[30] [Facebook Page - Wikipedia](https://en.wikipedia.org/wiki/Facebook_Page)
-
-<a id="31"></a>[31] [Facebook Company Is Now Meta - Facebook Newsroom](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
-
-<a id="32"></a>[32] [Twitter - Wikipedia](https://en.wikipedia.org/wiki/Twitter)
-
-<a id="33"></a>[33] [Twitter officially expands its character count to 280 starting today - TechCrunch](https://techcrunch.com/2017/11/07/twitter-officially-expands-its-character-count-to-280-starting-today/)
-
-<a id="34"></a>[34] [How Chris Messina got Twitter to use the hashtag - CNBC](https://www.cnbc.com/2020/01/09/how-chris-messina-got-twitter-to-use-the-hashtag.html)
-
-<a id="35"></a>[35] [Twitter hits 100 million active users - Search Engine Land](https://searchengineland.com/twitter-hits-100-million-active-users-92243)
-
-<a id="36"></a>[36] [Elon Musk completes $44 billion acquisition of Twitter - Reuters](https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/)
-
-<a id="37"></a>[37] [Elon Musk rebrands Twitter to X, replaces iconic bird logo - CNBC](https://www.cnbc.com/2023/07/24/elon-musk-rebrands-twitter-to-x-replaces-iconic-bird-logo.html)
-
-<a id="38"></a>[38] [Twitter completes transition to X.com domain, confirms Elon Musk - CNBC TV18](https://www.cnbctv18.com/technology/twitter-completes-transition-to-x-com-domain-confirms-elon-musk-19413605.htm)
-
-<a id="39"></a>[39] [The Story of Instagram: The Rise of the #1 Photo-Sharing App - Investopedia](https://www.investopedia.com/articles/investing/102615/story-instagram-rise-1-photo0sharing-app.asp)
-
-<a id="40"></a>[40] [Facebook to Acquire Instagram - Meta Newsroom](https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/)
-
-<a id="41"></a>[41] [Introducing Instagram Stories - Instagram Blog](https://about.instagram.com/blog/announcements/introducing-instagram-stories)
-
-<a id="42"></a>[42] [Instagram expands shopping on IGTV, plans test of shopping on Reels - TechCrunch](https://techcrunch.com/2020/10/05/instagram-expands-shopping-on-igtv-plans-test-of-shopping-on-reels/)
-
-<a id="43"></a>[43] [Instagram - Wikipedia](https://en.wikipedia.org/wiki/Instagram)
-
-<a id="44"></a>[44] [Snapchat - Wikipedia](https://en.wikipedia.org/wiki/Snapchat)
-
-<a id="45"></a>[45] [Snapchat settles lawsuit with ousted co-founder Reggie Brown - Business Insider](https://www.businessinsider.com/snapchat-settles-the-lawsuit-with-the-ousted-co-founder-and-fraternity-brother-reggie-brown-2014-9)
-
-<a id="46"></a>[46] [Snapchat reportedly sees more daily photos than Facebook - TechCrunch](https://techcrunch.com/2013/11/19/snapchat-reportedly-sees-more-daily-photos-than-facebook/)
-
-<a id="47"></a>[47] [Timeline of Snapchat - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Snapchat)
-
-<a id="48"></a>[48] [Snapchat Discover - Meltwater](https://www.meltwater.com/en/blog/snapchat-discover)
-
-<a id="49"></a>[49] [Snapchat Snap Map: First Look - CNBC](https://www.cnbc.com/2017/06/21/snapchat-snap-map-first-look.html)
-
-<a id="50"></a>[50] [Snapchat will let you store snaps and share them later with new 'Memories' feature - WXYZ](https://www.wxyz.com/news/snapchat-will-let-you-store-snaps-and-share-them-later-with-new-memories-feature)
-
-<a id="51"></a>[51] [Snapchat launches a TikTok-like feed called Spotlight - TechCrunch](https://techcrunch.com/2020/11/23/snapchat-launches-a-tiktok-like-feed-called-spotlight-kick-started-by-paying-creators/)
-
-<a id="52"></a>[52] [Introducing Lens Studio 2.0 - Snapchat](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360043021151-Introducing-Lens-Studio-2-0)
-
-<a id="53"></a>[53] [Snapchat Statistics - Backlinko](https://backlinko.com/snapchat-users)
-
-<a id="54"></a>[54] [TikTok - Wikipedia](https://en.wikipedia.org/wiki/TikTok)
-
-<a id="55"></a>[55] [Musical.ly Is Going Away: Users to Be Shifted to TikTok - Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/musically-owner-bytedance-merges-app-tiktok-1131630/)
-
-<a id="56"></a>[56] [Musical.ly, TikTok merge to create global platform - TechCrunch](https://techcrunch.com/2018/08/02/musically-tiktok/)
-
-<a id="57"></a>[57] [What Is TikTok? - Investopedia](https://www.investopedia.com/what-is-tiktok-4588933)
-
-<a id="58"></a>[58] [TikTok - TechTarget Definition](https://www.techtarget.com/whatis/definition/TikTok)
-
-<a id="59"></a>[59] [Instagram officially launches Reels, attempt to take down TikTok - GSMArena](https://www.gsmarena.com/instagram_officially_launches_reels_in_attempt_to_take_down_tiktok-news-44637.php)
-
-<a id="60"></a>[60] [Instagram Reels launches to take on TikTok with 15-second videos - The Verge](https://www.theverge.com/2020/8/5/21354117/instagram-reels-tiktok-vine-short-videos-stories-explore-music-effects-filters)
-
-<a id="61"></a>[61] [YouTube Shorts launched in India, hopes to fill spot vacated by TikTok ban - India Today](https://www.indiatoday.in/technology/news/story/youtube-shorts-launched-in-india-hopes-to-fill-spot-vacated-by-tiktok-ban-1721807-2020-09-14)
-
-<a id="62"></a>[62] [YouTube Shorts, global roll out, TikTok, short-form video - The Verge](https://www.theverge.com/2021/7/13/22575063/youtube-shorts-global-roll-out-tiktok-short-form-video)
-
-<a id="63"></a>[63] [TikTok rival short-form videos app YouTube Shorts hits 6.5 bn daily views - Business Standard](https://www.business-standard.com/article/technology/tiktok-rival-short-form-videos-app-youtube-shorts-hits-6-5-bn-daily-views-121042800365_1.html)
-
-<a id="64"></a>[64] [After TikTok, Instagram Reels; LinkedIn users to experience short video feature soon - India.com](https://www.india.com/technology/after-tiktok-instagram-reels-linkedin-users-to-experience-short-video-feature-soon-6819571/)
-
-<a id="65"></a>[65] [Inside The Washington Post TikTok strategy - Milk Karten](https://www.milkkarten.net/p/inside-the-washington-post-tiktok)
+- <a id="1"></a>[1] [SixDegrees.com - Wikipedia](https://en.wikipedia.org/wiki/SixDegrees.com)
+- <a id="2"></a>[2] [The father of social networking - with Andrew Weinreich](https://mixergy.com/interviews/andrew-weinreich-sixdegrees/)
+- <a id="3"></a>[3] [SixDegrees.com - The Start of Social Media - Medium](https://medium.com/@emijones/sixdegrees-com-the-start-of-social-media-86e287d46e9e)
+- <a id="4"></a>[4] [Then and now: a history of social networking sites - CBS News](https://www.cbsnews.com/pictures/then-and-now-a-history-of-social-networking-sites/)
+- <a id="5"></a>[5] [How Friendster Died: The Untold Story - The Runway Ventures](https://www.therunway.ventures/p/friendster)
+- <a id="6"></a>[6] [Before Facebook there was… Friendster? - Harvard Digital Initiative](https://d3.harvard.edu/platform-digit/submission/before-facebook-there-was-friendster-yes-thats-right/)
+- <a id="7"></a>[7] [How Friendster died (The Untold Story) - The Runway Ventures](https://www.therunway.ventures/p/friendster)
+- <a id="8"></a>[8] [Wallflower at the Web Party - New York Times](https://web.archive.org/web/20070608182205/http://www.nytimes.com:80/2006/10/15/business/yourmoney/15friend.html)
+- <a id="9"></a>[9] [How Friendster lost chance for a jackpot - NY Times](https://www.nytimes.com/2006/10/15/business/worldbusiness/15iht-friend.3160940.html)
+- <a id="10"></a>[10] [Myspace - Wikipedia](https://en.wikipedia.org/wiki/Myspace)
+- <a id="11"></a>[11] [Tom Anderson - Wikipedia](https://en.wikipedia.org/wiki/Tom_Anderson)
+- <a id="12"></a>[12] [MySpace cowboys - CNN Money](https://money.cnn.com/magazines/fortune/fortune_archive/2006/09/04/8384727/index.htm)
+- <a id="13"></a>[13] [Digital Lifestyles - MySpace to hit 100 million accounts](https://digital-lifestyles.info/2006/08/08/myspace-to-hit-100-million-accounts/)
+- <a id="14"></a>[14] [News Corp. to Acquire Owner of MySpace.com - NY Times](https://www.nytimes.com/2005/07/18/business/news-corp-to-acquire-owner-of-myspacecom.html)
+- <a id="15"></a>[15] [Google signs $900m News Corp deal - BBC News](http://news.bbc.co.uk/1/hi/business/5254642.stm)
+- <a id="16"></a>[16] [News Corp. Sells Myspace to Specific Media for $35 Million - NY Times](https://archive.nytimes.com/mediadecoder.blogs.nytimes.com/2011/06/29/news-corp-sells-myspace-to-specific-media-for-35-million/)
+- <a id="17"></a>[17] [Interview: Tom Anderson, MySpace's co-founder - The Guardian](https://www.theguardian.com/media/2008/jun/23/myspace.tomanderson)
+- <a id="18"></a>[18] [LinkedIn - Wikipedia](https://en.wikipedia.org/wiki/LinkedIn)
+- <a id="19"></a>[19] [From Professional Networking to Global Impact: The Evolution of LinkedIn](https://www.linkedin.com/pulse/from-professional-networking-global-impact-evolution-linkedin-ashfaq-uu31c)
+- <a id="20"></a>[20] [Launching LinkedIn Learning](https://www.linkedin.com/business/learning/blog/new-courses/launching-linkedin-learning)
+- <a id="21"></a>[21] [LinkedIn: The 1# Platform for Professional Networking and Career Growth](https://www.linkedin.com/pulse/why-linkedin-1-platform-professional-networking-career-rajeev-ranjan-shabc)
+- <a id="22"></a>[22] [Microsoft to acquire LinkedIn](https://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/)
+- <a id="23"></a>[23] [LinkedIn Up To 900 Million Members, Reports Record Engagement](https://www.socialmediatoday.com/news/LinkedIn-Up-To-900-Million-Members-Record-Engagement/641215/)
+- <a id="24"></a>[24] [Google pledges $900 million for MySpace honors - CNET](https://www.cnet.com/tech/services-and-software/google-pledges-900-million-for-myspace-honors/)
+- <a id="25"></a>[25] [Google & MySpace In $900 Million Deal On Search & Contextual Ads - Search Engine Watch](https://www.searchenginewatch.com/2006/08/07/google-myspace-in-900-million-deal-on-search-contextual-ads/)
+- <a id="26"></a>[26] [The guys behind MySpace.com - USA TODAY](https://usatoday30.usatoday.com/money/companies/management/2006-02-12-myspace-usat_x.htm)
+- <a id="27"></a>[27] [Why Facebook Beat MySpace - Forbes](https://www.forbes.com/sites/chunkamui/2011/01/12/why-facebook-beat-myspace-and-why-myspaces-revised-strategy-will-probably-fail/)
+- <a id="28"></a>[28] [History of Facebook - Wikipedia](https://en.wikipedia.org/wiki/History_of_Facebook)
+- <a id="29"></a>[29] [Feed (Facebook) - Wikipedia](https://en.wikipedia.org/wiki/Feed_%28Facebook%29)
+- <a id="30"></a>[30] [Facebook Page - Wikipedia](https://en.wikipedia.org/wiki/Facebook_Page)
+- <a id="31"></a>[31] [Facebook Company Is Now Meta - Facebook Newsroom](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
+- <a id="32"></a>[32] [Twitter - Wikipedia](https://en.wikipedia.org/wiki/Twitter)
+- <a id="33"></a>[33] [Twitter officially expands its character count to 280 starting today - TechCrunch](https://techcrunch.com/2017/11/07/twitter-officially-expands-its-character-count-to-280-starting-today/)
+- <a id="34"></a>[34] [How Chris Messina got Twitter to use the hashtag - CNBC](https://www.cnbc.com/2020/01/09/how-chris-messina-got-twitter-to-use-the-hashtag.html)
+- <a id="35"></a>[35] [Twitter hits 100 million active users - Search Engine Land](https://searchengineland.com/twitter-hits-100-million-active-users-92243)
+- <a id="36"></a>[36] [Elon Musk completes $44 billion acquisition of Twitter - Reuters](https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/)
+- <a id="37"></a>[37] [Elon Musk rebrands Twitter to X, replaces iconic bird logo - CNBC](https://www.cnbc.com/2023/07/24/elon-musk-rebrands-twitter-to-x-replaces-iconic-bird-logo.html)
+- <a id="38"></a>[38] [Twitter completes transition to X.com domain, confirms Elon Musk - CNBC TV18](https://www.cnbctv18.com/technology/twitter-completes-transition-to-x-com-domain-confirms-elon-musk-19413605.htm)
+- <a id="39"></a>[39] [The Story of Instagram: The Rise of the #1 Photo-Sharing App - Investopedia](https://www.investopedia.com/articles/investing/102615/story-instagram-rise-1-photo0sharing-app.asp)
+- <a id="40"></a>[40] [Facebook to Acquire Instagram - Meta Newsroom](https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/)
+- <a id="41"></a>[41] [Introducing Instagram Stories - Instagram Blog](https://about.instagram.com/blog/announcements/introducing-instagram-stories)
+- <a id="42"></a>[42] [Instagram expands shopping on IGTV, plans test of shopping on Reels - TechCrunch](https://techcrunch.com/2020/10/05/instagram-expands-shopping-on-igtv-plans-test-of-shopping-on-reels/)
+- <a id="43"></a>[43] [Instagram - Wikipedia](https://en.wikipedia.org/wiki/Instagram)
+- <a id="44"></a>[44] [Snapchat - Wikipedia](https://en.wikipedia.org/wiki/Snapchat)
+- <a id="45"></a>[45] [Snapchat settles lawsuit with ousted co-founder Reggie Brown - Business Insider](https://www.businessinsider.com/snapchat-settles-the-lawsuit-with-the-ousted-co-founder-and-fraternity-brother-reggie-brown-2014-9)
+- <a id="46"></a>[46] [Snapchat reportedly sees more daily photos than Facebook - TechCrunch](https://techcrunch.com/2013/11/19/snapchat-reportedly-sees-more-daily-photos-than-facebook/)
+- <a id="47"></a>[47] [Timeline of Snapchat - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Snapchat)
+- <a id="48"></a>[48] [Snapchat Discover - Meltwater](https://www.meltwater.com/en/blog/snapchat-discover)
+- <a id="49"></a>[49] [Snapchat Snap Map: First Look - CNBC](https://www.cnbc.com/2017/06/21/snapchat-snap-map-first-look.html)
+- <a id="50"></a>[50] [Snapchat will let you store snaps and share them later with new 'Memories' feature - WXYZ](https://www.wxyz.com/news/snapchat-will-let-you-store-snaps-and-share-them-later-with-new-memories-feature)
+- <a id="51"></a>[51] [Snapchat launches a TikTok-like feed called Spotlight - TechCrunch](https://techcrunch.com/2020/11/23/snapchat-launches-a-tiktok-like-feed-called-spotlight-kick-started-by-paying-creators/)
+- <a id="52"></a>[52] [Introducing Lens Studio 2.0 - Snapchat](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360043021151-Introducing-Lens-Studio-2-0)
+- <a id="53"></a>[53] [Snapchat Statistics - Backlinko](https://backlinko.com/snapchat-users)
+- <a id="54"></a>[54] [TikTok - Wikipedia](https://en.wikipedia.org/wiki/TikTok)
+- <a id="55"></a>[55] [Musical.ly Is Going Away: Users to Be Shifted to TikTok - Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/musically-owner-bytedance-merges-app-tiktok-1131630/)
+- <a id="56"></a>[56] [Musical.ly, TikTok merge to create global platform - TechCrunch](https://techcrunch.com/2018/08/02/musically-tiktok/)
+- <a id="57"></a>[57] [What Is TikTok? - Investopedia](https://www.investopedia.com/what-is-tiktok-4588933)
+- <a id="58"></a>[58] [TikTok - TechTarget Definition](https://www.techtarget.com/whatis/definition/TikTok)
+- <a id="59"></a>[59] [Instagram officially launches Reels, attempt to take down TikTok - GSMArena](https://www.gsmarena.com/instagram_officially_launches_reels_in_attempt_to_take_down_tiktok-news-44637.php)
+- <a id="60"></a>[60] [Instagram Reels launches to take on TikTok with 15-second videos - The Verge](https://www.theverge.com/2020/8/5/21354117/instagram-reels-tiktok-vine-short-videos-stories-explore-music-effects-filters)
+- <a id="61"></a>[61] [YouTube Shorts launched in India, hopes to fill spot vacated by TikTok ban - India Today](https://www.indiatoday.in/technology/news/story/youtube-shorts-launched-in-india-hopes-to-fill-spot-vacated-by-tiktok-ban-1721807-2020-09-14)
+- <a id="62"></a>[62] [YouTube Shorts, global roll out, TikTok, short-form video - The Verge](https://www.theverge.com/2021/7/13/22575063/youtube-shorts-global-roll-out-tiktok-short-form-video)
+- <a id="63"></a>[63] [TikTok rival short-form videos app YouTube Shorts hits 6.5 bn daily views - Business Standard](https://www.business-standard.com/article/technology/tiktok-rival-short-form-videos-app-youtube-shorts-hits-6-5-bn-daily-views-121042800365_1.html)
+- <a id="64"></a>[64] [After TikTok, Instagram Reels; LinkedIn users to experience short video feature soon - India.com](https://www.india.com/technology/after-tiktok-instagram-reels-linkedin-users-to-experience-short-video-feature-soon-6819571/)
+- <a id="65"></a>[65] [Inside The Washington Post TikTok strategy - Milk Karten](https://www.milkkarten.net/p/inside-the-washington-post-tiktok)
