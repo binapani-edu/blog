@@ -10,7 +10,7 @@ Social media as we know it today didn't happen overnight. It's been a journey of
 
 Founded by **Andrew Weinreich** in 1997, **SixDegrees.com** pioneered online social networking by introducing user profiles, friend lists, connections, and view friends' networks. It was the **first true social networking site**, establishing a new paradigm for digital interaction that would later influence major platforms like Facebook and LinkedIn.[[1]](#1)
 
-The platform's name referenced the popular *"six degrees of separation"* concept, emphasizing the possibility of worldwide connections through just a handful of personal links.[[2]](#2) Although revolutionary, SixDegrees faced challenges attracting sustained user interest and generating sufficient income, ultimately shutting down operations in December 2000.[[3]](#3)
+The platform's name referenced the popular *"six degrees of separation"* concept, emphasizing the possibility of worldwide connections through just a handful of personal links.[[2]](#2) Although revolutionary, SixDegrees faced challenges attracting sustained user interest and generating sufficient income, ultimately shutting down operations in December 2000.[[3]](#3)[[7]](#7)
 
 Though SixDegrees was **ahead of its time**, it showed that people wanted to connect with each other online in a social networked way. It proved that creating online communities was a viable concept, even though the society were not fully ready for such a platform in the late 1990s.
 
@@ -39,7 +39,7 @@ Friendster was unique for its focus on **real identities and social relationship
 
 While it was a **trendsetter** and directly inspired platforms like MySpace and Facebook, Friendster's downfall stemmed from server instability, technical glitches, poor user experience, and rivals outperforming it in usability and scalability.[[8]](#8)
 
-After its decline as a social network, Friendster relaunched as a social gaming platform in June 2011, reaching over **115 million registered users**. However, the platform eventually suspended all services in 2015, citing "the evolving landscape in our challenging industry" and lack of user engagement.[[9]](#9)
+After its decline as a social network, Friendster relaunched as a social gaming platform in June 2011, reaching over **115 million registered users**.[[5]](#5) However, the platform eventually suspended all services in 2015, citing "the evolving landscape in our challenging industry" and lack of user engagement.[[9]](#9)
 
 ### MySpace (2003)
 
@@ -47,7 +47,7 @@ After its decline as a social network, Friendster relaunched as a social gaming 
 
 Launched in August 2003 by **Tom Anderson** and **Chris DeWolfe**, MySpace quickly became the world's most popular social networking site in the mid-2000s.[[11]](#11)[[26]](#26)
 
-Its signature **'Top 8' friends list**, blogging tools, and embedded music players attracted artists and musicians seeking visibility and promoting their work. Its music integration helped launch artists like **Arctic Monkeys**, whose fans created a viral MySpace community sharing bootleg tracks, and **Lily Allen**, who used the platform to directly upload demos that became chart-topping hits. This demonstrated MySpace's unique capacity to **bypass traditional industry gatekeepers**.[[12]](#12) By August 2006, MySpace had over **100 million registered users**, surpassing Google as the most visited website in the U.S.[[13]](#13)
+Its signature **'Top 8' friends list**, blogging tools, and embedded music players attracted artists and musicians seeking visibility and promoting their work.[[67]](#67) Its music integration helped launch artists like **Arctic Monkeys**, whose fans created a viral MySpace community sharing bootleg tracks, and **Lily Allen**, who used the platform to directly upload demos that became chart-topping hits.[[68]](#68)[[77]](#77) This demonstrated MySpace's unique capacity to **bypass traditional industry gatekeepers**.[[12]](#12) By August 2006, MySpace had over **100 million registered users**, surpassing Google as the most visited website in the U.S.[[13]](#13)
 
 Its high level of personalization and focus on music set it apart, making it a cultural and technological milestone and it was acquired by News Corporation for **580 million dollars**.[[14]](#14) The acquisition of MySpace provided significant revenue through a deal with Google worth **900 million dollars**, a three-year search and advertising partnership that effectively recouped News Corp's initial investment.[[15]](#15)[[24]](#24)[[25]](#25)[[12]](#12)
 
@@ -72,7 +72,7 @@ Core functionalities encompassed:
 - Professional communities
 - Content-sharing tools
 
-The introduction of **LinkedIn Learning** further bolstered its educational offerings through career-oriented courses.[[20]](#20)
+The introduction of **LinkedIn Learning** further bolstered its educational offerings through career-oriented courses.[[20]](#20)[[73]](#73)
 
 By prioritizing workplace relevance, LinkedIn became indispensable for talent acquisition teams, businesses, enterprises, organizations and career aspirants, reshaping digital-era recruitment methodologies.[[21]](#21)
 
@@ -95,7 +95,7 @@ Its **2006 News Feed innovation**, aggregating real-time peer updates transforme
 
 Facebook also introduced the concept of **"Pages"** for businesses, celebrities, and public figures, allowing them to interact with fans directly.[[30]](#30)
 
-Over the years, strategic acquisitions including **Instagram (2012)**, **WhatsApp (2014)**, and **Oculus VR (2014)** diversified Facebook's ecosystem, expanding its influence in the social media landscape.[[28]](#28) The October 28, 2021 rebranding to **Meta** reflected company's vision and its ambitions beyond traditional social media into immersive virtual worlds termed as the *metaverse*.[[31]](#31)
+Over the years, strategic acquisitions including **Instagram (2012)**, **WhatsApp (2014)**, and **Oculus VR (2014)** diversified Facebook's ecosystem, expanding its influence in the social media landscape.[[28]](#28)[[69]](#69) The October 28, 2021 rebranding to **Meta** reflected company's vision and its ambitions beyond traditional social media into immersive virtual worlds termed as the *metaverse*.[[31]](#31)
 
 Despite facing challenges such as privacy concerns, the spread of misinformation, and competition from newer platforms, Facebook has stayed at the forefront of global social networking, with **billions of active users** worldwide.
 
@@ -170,7 +170,7 @@ In the 2020s, social media platforms like **TikTok**, **Instagram Reels**, and *
 
 The timeline for [TikTok](https://tiktok.com) is complicated. **ByteDance** launched **Douyin** (TikTok's Chinese version) in China during September 2016, later introducing TikTok globally in September 2017.[[54]](#54) ByteDance then went ahead acquiring **Musical.ly** for **\$1 billion** in November 2017 and merged it with TikTok in August 2018, adding its 100 million users into TikTok's user base.[[55]](#55)[[56]](#56)
 
-On top of this, TikTok leveraged **algorithm-driven content recommendations** and **short-form video format** to fuel viral growth, creating the global phenomenon we know today.[[57]](#57) This short-form video format have made it extraordinarily popular across age groups, and among content creators as well as content consumers.
+On top of this, TikTok leveraged **algorithm-driven content recommendations** and **short-form video format** to fuel viral growth, creating the global phenomenon we know today.[[57]](#57)[[72]](#72) This short-form video format have made it extraordinarily popular across age groups, and among content creators as well as content consumers.
 
 With this format, now anyone can become a content creator and share their content with the world. And for the content consumers, it's a great way to discover new content and be entertained. Although this has sparked a lot of debates about the impact of this format on the society, and introduced what is known as **"Reel culture"** and **"Doom Scrolling"**, it's undeniable that it has changed the way we consume content and the way we have increased our "screen time" online.
 
@@ -203,7 +203,7 @@ With each new platform, we've redefined how we share our lives, build communitie
 - <a id="4"></a>[4] [Then and now: a history of social networking sites - CBS News](https://www.cbsnews.com/pictures/then-and-now-a-history-of-social-networking-sites/)
 - <a id="5"></a>[5] [How Friendster Died: The Untold Story - The Runway Ventures](https://www.therunway.ventures/p/friendster)
 - <a id="6"></a>[6] [Before Facebook there was… Friendster? - Harvard Digital Initiative](https://d3.harvard.edu/platform-digit/submission/before-facebook-there-was-friendster-yes-thats-right/)
-- <a id="7"></a>[7] [How Friendster died (The Untold Story) - The Runway Ventures](https://www.therunway.ventures/p/friendster)
+- <a id="7"></a>[7] [Why Six Degrees Failed as a Social Media Platform](https://akshatsinghbisht.com/why-six-degrees-failed-as-a-social-media-platform/)
 - <a id="8"></a>[8] [Wallflower at the Web Party - New York Times](https://web.archive.org/web/20070608182205/http://www.nytimes.com:80/2006/10/15/business/yourmoney/15friend.html)
 - <a id="9"></a>[9] [How Friendster lost chance for a jackpot - NY Times](https://www.nytimes.com/2006/10/15/business/worldbusiness/15iht-friend.3160940.html)
 - <a id="10"></a>[10] [Myspace - Wikipedia](https://en.wikipedia.org/wiki/Myspace)
@@ -262,5 +262,17 @@ With each new platform, we've redefined how we share our lives, build communitie
 - <a id="63"></a>[63] [TikTok rival short-form videos app YouTube Shorts hits 6.5 bn daily views - Business Standard](https://www.business-standard.com/article/technology/tiktok-rival-short-form-videos-app-youtube-shorts-hits-6-5-bn-daily-views-121042800365_1.html)
 - <a id="64"></a>[64] [After TikTok, Instagram Reels; LinkedIn users to experience short video feature soon - India.com](https://www.india.com/technology/after-tiktok-instagram-reels-linkedin-users-to-experience-short-video-feature-soon-6819571/)
 - <a id="65"></a>[65] [Inside The Washington Post TikTok strategy - Milk Karten](https://www.milkkarten.net/p/inside-the-washington-post-tiktok)
+- <a id="66"></a>[66] [Entrepreneur who built and sold the first social network for $125 million explains how he did it](https://ehandbook.com/entrepreneur-who-built-and-sold-the-first-social-network-for-125-million-explains-how-he-did-it-64df1addf655)
+- <a id="67"></a>[67] [MySpace Top 8 Friends: What Was That All About?](https://www.usmagazine.com/entertainment/news/myspace-top-8-friends-what-was-that-all-about/)
+- <a id="68"></a>[68] [Making it big on MySpace: The Arctic Monkeys story](https://aismartmarketing.com/making-it-big-on-myspace-the-arctic-monkeys-story/)
+- <a id="69"></a>[69] [WhatsApp: Best Facebook Purchase Ever?](https://www.investopedia.com/articles/investing/032515/whatsapp-best-facebook-purchase-ever.asp)
+- <a id="70"></a>[70] [Facebook bought Instagram because it was scared of Twitter and Google](https://www.cnbc.com/2019/09/24/facebook-bought-instagram-because-it-was-scared-of-twitter-and-google.html)
+- <a id="71"></a>[71] [TikTok reveals US, global user growth numbers for first time](https://www.cnbc.com/2020/08/24/tiktok-reveals-us-global-user-growth-numbers-for-first-time.html)
+- <a id="72"></a>[72] [TikTok User Statistics (2023)](https://backlinko.com/tiktok-users)
+- <a id="73"></a>[73] [LinkedIn Learning: What It Is, How It Works, Pricing & Features](https://www.socialpilot.co/social-media-terms/linkedin-learning)
+- <a id="74"></a>[74] [YouTube Shorts gets 6.9 billion views daily, launches in US after successful India launch](https://trak.in/tags/business/2021/03/21/youtube-shorts-gets-6-9-billion-views-daily-launches-in-us-after-successful-india-launch/)
+- <a id="75"></a>[75] [Instagram Statistics (2023)](https://www.businessofapps.com/data/instagram-statistics/)
+- <a id="76"></a>[76] [Bands & Fans: Understanding the dynamics between MySpace bands and their audiences](https://www.danah.org/papers/BandsAndFans.pdf)
+- <a id="77"></a>[77] [MySpace acts who found success on the Official Charts](https://www.officialcharts.com/chart-news/myspace-acts-who-found-success-on-the-official-charts__25882/)
 
 </details>
