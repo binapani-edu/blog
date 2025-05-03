@@ -24,7 +24,7 @@ The early 2000s saw the rise of social networking sites that catered to differen
 
 One of the earliest platforms to combine social interaction with entertainment and fun spaces, Friendster emphasized connecting people based on mutual friends.
 
-Founded in 2003 by Jonathan Abrams and initially based in Mountain View, California, Friendster rapidly gained traction as a popular social networking platform, allowing users to create detailed profiles, connect with friends, and discover new people through mutual connections.
+Founded in 2002 (launched in 2003) by Jonathan Abrams and initially based in Mountain View, California, Friendster rapidly gained traction as a popular social networking platform, allowing users to create detailed profiles, connect with friends, and discover new people through mutual connections.
 
 Its core functionalities included creating detailed and personalized user profiles, friend lists based on real-life connections, discovering new people through mutual connections, public endorsements called "testimonials", private messaging, and topic-driven groups and interest-based communities. Friendster was unique for its focus on real identities and social relationships, encouraging connections through a "circle of friends" approach.
 
@@ -38,11 +38,11 @@ MySpace sparked a wave of digital self-expression by allowing extensive profile 
 
 Launched in August 2003 by Tom Anderson and Chris DeWolfe, MySpace quickly became the world's most popular social networking site in the mid-2000s.
 
-Its signature 'Top 8' friends list, blogging tools, and embedded music players attracted artists and musicians seeking visibility and promoting their work. It's music integration helped launch artists like Arctic Monkeys and Lily Allen. By August 2006, MySpace had over 100 million users, surpassing Google as the most visited website in the U.S.
+Its signature 'Top 8' friends list, blogging tools, and embedded music players attracted artists and musicians seeking visibility and promoting their work. Its music integration helped launch artists like Arctic Monkeys, whose fans created a viral MySpace community sharing bootleg tracks, and Lily Allen, who used the platform to directly upload demos that became chart-topping hits. This demonstrated MySpace's unique capacity to bypass traditional industry gatekeepers. By August 2006, MySpace had over 100 million registered users, surpassing Google as the most visited website in the U.S.
 
-Its high level of personalization and focus on music set it apart, making it a cultural and technological milestone and it was acquired by News Corporation for $580 million. The acquisition of MySpace proved initially profitable, as Rupert Murdoch nearly doubled his investment through a later deal with Google worth $900 million.
+Its high level of personalization and focus on music set it apart, making it a cultural and technological milestone and it was acquired by News Corporation for $580 million. The acquisition of MySpace provided significant revenue through a deal with Google worth $900 million - a three-year search and advertising partnership that effectively recouped News Corp's initial investment.
 
-However, post-2008 its dominance was rapidly eroded with the rise of Facebook, offering minimalist interface, cleaner design, better user experience, and enhanced privacy features. By the early 2010s, MySpace had rebranded as a music-focused platform but never regained its former position.
+However, post-2008 its dominance was rapidly eroded with the rise of Facebook, offering minimalist interface, cleaner design, better user experience, and enhanced privacy features. By the early 2010s, MySpace had rebranded as a music-focused platform but never regained its former position. News Corp later sold MySpace to Specific Media for $35 million in 2011.
 
 Despite its fall, MySpace paved the way for future social media platforms by showing the power of online communities, user-generated content, and personalized digital identities, making it a cultural and technological milestone in the development of social networking, before Facebook eventually overtook it.
 
@@ -80,7 +80,7 @@ Originally launched in July 2006 under the name "Twttr" (six months later it was
 
 Users could follow others, and tweets would appear in a feed, creating a dynamic, ongoing conversation. Key features included hashtags (first proposed by Chris Messina in 2007), which enabled the categorization and tracking of topics, retweets to share and amplify others' posts, and mentions to tag and interact with other users directly.
 
-Twitter became a hub for real-time news, pop culture, political discourse, and social movements, allowing users to share opinions, make announcements, and even organize events instantly. Its simplicity and accessibility made it popular among celebrities, journalists, and everyday users. By 2012, Twitter had more than 100 million users producing 340 million daily tweets.
+Twitter became a hub for real-time news, pop culture, political discourse, and social movements, allowing users to share opinions, make announcements, and even organize events instantly. Its simplicity and accessibility made it popular among celebrities, journalists, and everyday users. By September 2011, Twitter had more than 100 million users producing 340 million daily tweets.
 
 Over time, Twitter grew into a critical tool for businesses, influencers, activists, real-time news, and political discourse, offering a direct line of communication to global audiences allowing users to share opinions, make announcements, and even organize events. While the platform faced challenges such as combating harassment, misinformation, and user growth, Twitter's impact on communication, particularly in shaping public opinion and sharing news, remains undeniable. Its simplicity and accessibility made it popular among celebrities, journalists, governments, and everyday users.
 
@@ -106,7 +106,7 @@ With over 1 billion active users, Instagram remains a leading platform for visua
 
 Emerging from a Stanford University project, Snapchat initially launched as "Picaboo" in iOS App Store in July 2011 under co-founders Evan Spiegel, Bobby Murphy, and Reggie Brown. Renamed Snapchat after trademark conflicts, the multimedia messaging app was known for its disappearing messages and innovative use of filters. Core innovations included self-destructing photos/videos after being viewed, Stories (24-hour disappearing content), Lenses (augmented reality filters), and Discover (news and entertainment content).
 
-Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a $158 million settlement. However, this didn't stop the app from becoming a massive success. From from 25 images/second in 2012 to 400 million daily snaps by late 2013, outpacing Facebook's photo uploads at the time. Snapchat crossed the one million users threshold by the end of 2012 and grew to 34.8 million daily active users by the end of 2013.
+Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a $157.5 million settlement. However, this didn't stop the app from becoming a massive success. From from 25 images/second in 2012 to 400 million daily snaps by late 2013, outpacing Facebook's photo uploads at the time. Snapchat crossed the one million users threshold by the end of 2012 and grew to 34.8 million daily active users by the end of 2013.
 
 Snapchat revolutionized communication with its disappearing stories, making short-lived messages and moments an essential part of digital interaction, fostering authenticity and spontaneity. Beyond its signature vanishing media, Snapchat expanded into AR-driven face filters (2015), geotagged Stories (2013), and Discover's publisher partnerships (2015). The 2017 Snap Map feature sparked privacy debates despite its Ghost Mode opt-out. Later innovations included Memories (2016) for content archiving, Spotlight (2020) for TikTok-style clips, and Lens Studio (2017) enabling third-party AR filter creation.
 
@@ -128,11 +128,11 @@ TikTok also sparked a lot of controversies, from privacy concerns to the spread 
 
 ### Instagram Reels and YouTube Shorts
 
-Meta's Instagram countered TikTok's rise by launching Reels in August 2020, offering 15-second multi-clip videos with licensed music and AR effects.
+Meta's Instagram countered TikTok's rise by launching Reels globally on August 5, 2020 across 50+ countries, offering 15-second multi-clip videos with licensed music and AR effects.
 
-Capitalizing on India's 2020 TikTok ban, YouTube introduced Shorts in September 2020. Then expanded to United States in March 2021, and later expanded to 100+ countries by July 2021. The feature reached 6.5 billion daily views within months. This demonstrates how the short-video format has become the dominant format for social media platforms, and how it has become the default way for people to consume content currently.
+Capitalizing on India's 2020 TikTok ban, YouTube introduced Shorts in September 2020 as a beta in India. The platform then expanded to United States in March 2021, and later rolled out to 100+ countries by July 2021. The feature quickly gained popularity, reaching 6.5 billion daily views by March 2021 according to Alphabet CEO Sundar Pichai. While TikTok later expanded to 3-minute videos in 2021, YouTube Shorts initially maintained its 60-second limit until 2024.
 
-With the growing popularity and user engagement with hours and hours of endless scrolling over reels, this reel culture and short video format has been adopted by other platforms like Facebook, Snapchat, and even LinkedIn recently! Some news platforms like the New York Times and the Washington Post have also adopted this format to keep up with the trend.
+This demonstrates how the short-video format has become the dominant format for social media platforms, and how it has become the default way for people to consume content currently. With the growing popularity and user engagement through endless scrolling, this short video format has been adopted by other platforms like Facebook, Snapchat, and even LinkedIn recently, which has expanded its vertical video capabilities for professional content. Some news platforms like the New York Times and the Washington Post have also adopted this format to keep up with the trend.
 
 ### The Digital Revolution Continues
 
