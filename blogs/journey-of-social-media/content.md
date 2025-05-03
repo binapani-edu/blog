@@ -8,6 +8,18 @@ Social media as we know it today didn't happen overnight. It's been a journey of
 
 ### Six Degrees (1997)
 
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/fullscreen/sixdegrees-1998.png"
+        alt="Six Degrees website - 1998"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        Six Degrees Website - 1998 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/sixdegrees-1998" target="_blank">Web Design Museum</a>
+    </p>
+</div>
+
 Founded by **Andrew Weinreich** in 1997, **SixDegrees.com** pioneered online social networking by introducing user profiles, friend lists, connections, and view friends' networks. It was the **first true social networking site**, establishing a new paradigm for digital interaction that would later influence major platforms like Facebook and LinkedIn.[[1]](#1)
 
 The platform's name referenced the popular *"six degrees of separation"* concept, emphasizing the possibility of worldwide connections through just a handful of personal links.[[2]](#2) Although revolutionary, SixDegrees faced challenges attracting sustained user interest and generating sufficient income, ultimately shutting down operations in December 2000.[[3]](#3)[[7]](#7)
@@ -21,6 +33,18 @@ Ultimately, SixDegrees served as a **crucial precursor** to today's social media
 The early 2000s saw the rise of social networking sites that catered to different needs.
 
 ### Friendster (2002-2003)
+
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/fullscreen/friendster-2004.png"
+        alt="Friendster's main page - 2024"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        Friendster's main page - 2004 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/friendster-2004" target="_blank">Web Design Museum</a>
+    </p>
+</div>
 
 One of the earliest platforms to combine social interaction with entertainment and fun spaces, **Friendster** emphasized connecting people based on mutual friends.[[4]](#4)
 
@@ -43,6 +67,18 @@ After its decline as a social network, Friendster relaunched as a social gaming 
 
 ### MySpace (2003)
 
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/timeline/myspace/myspace-2007.png"
+        alt="MySpace home page - 2007"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        MySpace home page - 2007 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/myspace-2007" target="_blank">Web Design Museum</a>
+    </p>
+</div>
+
 **MySpace** sparked a wave of digital self-expression by allowing extensive profile customization with personal information and photos, users integrated blogs, ability to share music, fostering unprecedented creativity and freedom. MySpace also included messaging, comments, and groups, fostering a sense of community.[[10]](#10)
 
 Launched in August 2003 by **Tom Anderson** and **Chris DeWolfe**, MySpace quickly became the world's most popular social networking site in the mid-2000s.[[11]](#11)[[26]](#26)
@@ -56,6 +92,18 @@ However, post-2008 its dominance was rapidly eroded with the rise of Facebook, o
 Despite its fall, MySpace paved the way for future social media platforms by showing the power of online communities, user-generated content, and personalized digital identities, making it a **cultural and technological milestone** in the development of social networking, before Facebook eventually overtook it.[[17]](#17)
 
 ### LinkedIn (2003)
+
+<div style="text-align: center;">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/en/9/91/LinkedIn_homepage.png"
+        alt="LinkedIn login page - 2024"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        LinkedIn login page - 2024 | 
+        Source: <a href="https://en.wikipedia.org/wiki/LinkedIn" target="_blank">Wikipedia</a>
+    </p>
+</div>
 
 Professional networking made its debut, turning the digital world into a place for **career development** and **business connections**.
 
@@ -80,6 +128,18 @@ Microsoft's 2016 acquisition for **\$26.2 billion** accelerated LinkedIn's expan
 
 ### Facebook (2004)
 
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/timeline/facebook/facebook-2010.png"
+        alt="Facebook login page - 2010"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        Facebook login page - 2010 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/facebook-in-2010" target="_blank">Web Design Museum</a>
+    </p>
+</div>
+
 **The Giant Emerges!**
 
 Initially named "TheFacebook", the platform debuted in 2004 as a **Harvard-exclusive network** co-founded by **Mark Zuckerberg**, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. Later in 2005 after purchase of the domain facebook.com, it was renamed to [Facebook](https://facebook.com) and slowly expanded to other universities and eventually to the general public.[[28]](#28)
@@ -100,6 +160,18 @@ Over the years, strategic acquisitions including **Instagram (2012)**, **WhatsAp
 Despite facing challenges such as privacy concerns, the spread of misinformation, and competition from newer platforms, Facebook has stayed at the forefront of global social networking, with **billions of active users** worldwide.
 
 ### Twitter (2006)
+
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/timeline/twitter/twitter-2019.jpg"
+        alt="Twitter home page - 2019"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        Twitter home page - 2019 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/twitter-in-2019" target="_blank">Web Design Museum</a>
+    </p>
+</div>
 
 Originally launched in July 2006 under the name **"Twttr"** (six months later it was renamed to Twitter), the microblogging platform was co-founded by **Jack Dorsey**, Noah Glass, Biz Stone, and Evan Williams.[[32]](#32) It pioneered real-time short text-based updates through **140-character messages** (later expanded to **280 characters** in 2017[[33]](#33)), enabling users to broadcast brief thoughts globally.
 
@@ -123,6 +195,18 @@ The 2010s were all about **images**, **videos** and **media**.
 
 ### Instagram (2010)
 
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/timeline/instagram/instagram-2013.jpg"
+        alt="Instagram home page - 2013"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        Instagram home page - 2013 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/instagram-in-2013" target="_blank">Web Design Museum</a>
+    </p>
+</div>
+
 Co-founded by Stanford graduates **Kevin Systrom** and **Mike Krieger** in 2010, [Instagram](https://instagram.com) emerged from their failed location-checkin app "Burbn" to dominate mobile photography through retro-inspired filters.[[39]](#39)
 
 This photo-sharing app brought **visual storytelling** to the forefront, allowing users to share their lives through stunning images.
@@ -136,6 +220,18 @@ Meta's **\$1 billion acquisition** in 2012[[40]](#40) fueled Instagram's evoluti
 With over **1 billion active users**[[43]](#43), Instagram remains a leading platform for visual content and social influence.
 
 ### Snapchat (2011)
+
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/fullscreen/2012/snapchat-2012.jpg"
+        alt="Snapchat website - 2012"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        Snapchat website - 2012 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/snapchat-in-2012" target="_blank">Web Design Museum</a>
+    </p>
+</div>
 
 Emerging from a Stanford University project, [Snapchat](https://snap.com) initially launched as **"Picaboo"** in iOS App Store in July 2011 under co-founders **Evan Spiegel**, **Bobby Murphy**, and **Reggie Brown**.[[44]](#44) Renamed Snapchat after trademark conflicts, the multimedia messaging app was known for its **disappearing messages** and innovative use of filters.
 
@@ -168,6 +264,18 @@ In the 2020s, social media platforms like **TikTok**, **Instagram Reels**, and *
 
 ### TikTok
 
+<div style="text-align: center;">
+    <img
+        src="https://www.webdesignmuseum.org/uploaded/fullscreen/2017/tiktok-2017.jpg"
+        alt="TikTok website - 2017"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        TikTok website - 2017 | 
+        Source: <a href="https://www.webdesignmuseum.org/gallery/tiktok-in-2017" target="_blank">Web Design Museum</a>
+    </p>
+</div>
+
 The timeline for [TikTok](https://tiktok.com) is complicated. **ByteDance** launched **Douyin** (TikTok's Chinese version) in China during September 2016, later introducing TikTok globally in September 2017.[[54]](#54) ByteDance then went ahead acquiring **Musical.ly** for **\$1 billion** in November 2017 and merged it with TikTok in August 2018, adding its 100 million users into TikTok's user base.[[55]](#55)[[56]](#56)
 
 On top of this, TikTok leveraged **algorithm-driven content recommendations** and **short-form video format** to fuel viral growth, creating the global phenomenon we know today.[[57]](#57)[[72]](#72) This short-form video format have made it extraordinarily popular across age groups, and among content creators as well as content consumers.
@@ -177,6 +285,18 @@ With this format, now anyone can become a content creator and share their conten
 TikTok also sparked a lot of controversies, from **privacy concerns** to the spread of **misinformation**, and even the **banning of the app** in some countries.[[58]](#58)
 
 ### Instagram Reels and YouTube Shorts
+
+<div style="text-align: center;">
+    <img
+        src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/shorts-logo.2e16d0ba.fill-1440x810.png"
+        alt="YouTube Shorts"
+        style="display:block; margin:10px auto; padding:10px; height:300px;"
+    >
+    <p style="text-align: center; font-size: 12px; color: #666;">
+        YouTube Shorts | 
+        Source: <a href="https://blog.youtube/news-and-events/introducing-youtube-shorts-fund/" target="_blank">blog.youtube</a>
+    </p>
+</div>
 
 [Meta](https://www.meta.com)'s Instagram countered TikTok's rise by launching **Reels** globally on **August 5, 2020** across 50+ countries, offering 15-second multi-clip videos with licensed music and AR effects.[[59]](#59)[[60]](#60)
 
