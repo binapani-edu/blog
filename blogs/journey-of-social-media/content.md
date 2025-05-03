@@ -194,6 +194,9 @@ With each new platform, we've redefined how we share our lives, build communitie
 
 ## References
 
+<details>
+<summary>click to expand and see all citations and references</summary>
+
 - <a id="1"></a>[1] [SixDegrees.com - Wikipedia](https://en.wikipedia.org/wiki/SixDegrees.com)
 - <a id="2"></a>[2] [The father of social networking - with Andrew Weinreich](https://mixergy.com/interviews/andrew-weinreich-sixdegrees/)
 - <a id="3"></a>[3] [SixDegrees.com - The Start of Social Media - Medium](https://medium.com/@emijones/sixdegrees-com-the-start-of-social-media-86e287d46e9e)
@@ -259,3 +262,5 @@ With each new platform, we've redefined how we share our lives, build communitie
 - <a id="63"></a>[63] [TikTok rival short-form videos app YouTube Shorts hits 6.5 bn daily views - Business Standard](https://www.business-standard.com/article/technology/tiktok-rival-short-form-videos-app-youtube-shorts-hits-6-5-bn-daily-views-121042800365_1.html)
 - <a id="64"></a>[64] [After TikTok, Instagram Reels; LinkedIn users to experience short video feature soon - India.com](https://www.india.com/technology/after-tiktok-instagram-reels-linkedin-users-to-experience-short-video-feature-soon-6819571/)
 - <a id="65"></a>[65] [Inside The Washington Post TikTok strategy - Milk Karten](https://www.milkkarten.net/p/inside-the-washington-post-tiktok)
+
+</details>
