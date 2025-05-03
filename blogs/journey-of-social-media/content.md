@@ -49,9 +49,9 @@ Launched in August 2003 by **Tom Anderson** and **Chris DeWolfe**, MySpace quick
 
 Its signature **'Top 8' friends list**, blogging tools, and embedded music players attracted artists and musicians seeking visibility and promoting their work. Its music integration helped launch artists like **Arctic Monkeys**, whose fans created a viral MySpace community sharing bootleg tracks, and **Lily Allen**, who used the platform to directly upload demos that became chart-topping hits. This demonstrated MySpace's unique capacity to **bypass traditional industry gatekeepers**. By August 2006, MySpace had over **100 million registered users**, surpassing Google as the most visited website in the U.S.
 
-Its high level of personalization and focus on music set it apart, making it a cultural and technological milestone and it was acquired by News Corporation for **$580 million**. The acquisition of MySpace provided significant revenue through a deal with Google worth **$900 million** - a three-year search and advertising partnership that effectively recouped News Corp's initial investment.
+Its high level of personalization and focus on music set it apart, making it a cultural and technological milestone and it was acquired by News Corporation for **\$580 million**. The acquisition of MySpace provided significant revenue through a deal with Google worth **\$900 million** - a three-year search and advertising partnership that effectively recouped News Corp's initial investment.
 
-However, post-2008 its dominance was rapidly eroded with the rise of Facebook, offering minimalist interface, cleaner design, better user experience, and enhanced privacy features. By the early 2010s, MySpace had rebranded as a music-focused platform but never regained its former position. News Corp later sold MySpace to Specific Media for **$35 million** in 2011.
+However, post-2008 its dominance was rapidly eroded with the rise of Facebook, offering minimalist interface, cleaner design, better user experience, and enhanced privacy features. By the early 2010s, MySpace had rebranded as a music-focused platform but never regained its former position. News Corp later sold MySpace to Specific Media for **\$35 million** in 2011.
 
 Despite its fall, MySpace paved the way for future social media platforms by showing the power of online communities, user-generated content, and personalized digital identities, making it a **cultural and technological milestone** in the development of social networking, before Facebook eventually overtook it.
 
@@ -76,7 +76,7 @@ The introduction of **LinkedIn Learning** further bolstered its educational offe
 
 By prioritizing workplace relevance, LinkedIn became indispensable for talent acquisition teams, businesses, enterprises, organizations and career aspirants, reshaping digital-era recruitment methodologies.
 
-Microsoft's 2016 acquisition for **$26.2 billion** accelerated LinkedIn's expansion, surpassing **900 million global members** (not daily active users). It continues leading professional engagement spheres, redefining organizational and individual growth strategies through networking and collaboration.
+Microsoft's 2016 acquisition for **\$26.2 billion** accelerated LinkedIn's expansion, surpassing **900 million global members** (not daily active users). It continues leading professional engagement spheres, redefining organizational and individual growth strategies through networking and collaboration.
 
 ### Facebook (2004)
 
@@ -113,7 +113,7 @@ Users could follow others, and tweets would appear in a feed, creating a dynamic
 
 Over time, Twitter grew into a critical tool for businesses, influencers, activists, real-time news, and political discourse, offering a direct line of communication to global audiences allowing users to share opinions, make announcements, and even organize events. While the platform faced challenges such as combating harassment, misinformation, and user growth, Twitter's impact on communication, particularly in shaping public opinion and sharing news, remains undeniable. Its simplicity and accessibility made it popular among celebrities, journalists, governments, and everyday users.
 
-Following **Elon Musk**'s **$44 billion acquisition** in 2022, the platform underwent a radical transformation, replacing its bird logo with an **X** in July 2023 and migrating its domain to [X.com](https://x.com) by May 2024, completing Musk's vision for an *'everything app'*.
+Following **Elon Musk**'s **\$44 billion acquisition** in 2022, the platform underwent a radical transformation, replacing its bird logo with an **X** in July 2023 and migrating its domain to [X.com](https://x.com) by May 2024, completing Musk's vision for an *'everything app'*.
 
 On March 31, 2023, Twitter open-sourced portions of its recommendation algorithm code as promised by Elon. It turns out the algorithm employs a **three-step process**: candidate sourcing, ranking via a 48-million-parameter neural network, and filtering, to curate a personalized 'For You' feed blending tweets from both followed accounts with relevant content discovered through real-time graph analysis.
 
@@ -127,7 +127,7 @@ Co-founded by Stanford graduates **Kevin Systrom** and **Mike Krieger** in 2010,
 
 This photo-sharing app brought **visual storytelling** to the forefront, allowing users to share their lives through stunning images.
 
-Meta's **$1 billion acquisition** in 2012 fueled Instagram's evolution into a multimedia commerce hub via features including:
+Meta's **\$1 billion acquisition** in 2012 fueled Instagram's evolution into a multimedia commerce hub via features including:
 
 - Ephemeral **Stories** (2016)
 - Long-form **IGTV** (2018)
@@ -146,7 +146,7 @@ Core innovations included:
 - **Lenses** (augmented reality filters)
 - **Discover** (news and entertainment content)
 
-Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a **$157.5 million settlement**. However, this didn't stop the app from becoming a massive success. From from 25 images/second in 2012 to **400 million daily snaps** by late 2013, outpacing Facebook's photo uploads at the time. Snapchat crossed the **one million users** threshold by the end of 2012 and grew to **34.8 million daily active users** by the end of 2013.
+Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a **\$157.5 million settlement**. However, this didn't stop the app from becoming a massive success. From from 25 images/second in 2012 to **400 million daily snaps** by late 2013, outpacing Facebook's photo uploads at the time. Snapchat crossed the **one million users** threshold by the end of 2012 and grew to **34.8 million daily active users** by the end of 2013.
 
 Snapchat **revolutionized communication** with its disappearing stories, making short-lived messages and moments an essential part of digital interaction, fostering authenticity and spontaneity.
 
@@ -168,7 +168,7 @@ In the 2020s, social media platforms like **TikTok**, **Instagram Reels**, and *
 
 ### TikTok
 
-The timeline for [TikTok](https://tiktok.com) is complicated. **ByteDance** launched **Douyin** (TikTok's Chinese version) in China during September 2016, later introducing TikTok globally in September 2017. ByteDance then went ahead acquiring **Musical.ly** for **$1 billion** in November 2017 and merged it with TikTok in August 2018, adding its 100 million users into TikTok's user base.
+The timeline for [TikTok](https://tiktok.com) is complicated. **ByteDance** launched **Douyin** (TikTok's Chinese version) in China during September 2016, later introducing TikTok globally in September 2017. ByteDance then went ahead acquiring **Musical.ly** for **\$1 billion** in November 2017 and merged it with TikTok in August 2018, adding its 100 million users into TikTok's user base.
 
 On top of this, TikTok leveraged **algorithm-driven content recommendations** and **short-form video format** to fuel viral growth, creating the global phenomenon we know today. This short-form video format have made it extraordinarily popular across age groups, and among content creators as well as content consumers.
 
