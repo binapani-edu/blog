@@ -61,7 +61,7 @@ Its core functionalities included:
 
 Friendster was unique for its focus on **real identities and social relationships**, encouraging connections through a *"circle of friends"* approach.[[7]](#7)
 
-While it was a **trendsetter** and directly inspired platforms like MySpace and Facebook, Friendster's downfall stemmed from server instability, technical glitches, poor user experience, and rivals outperforming it in usability and scalability.[[8]](#8)
+While it was a **trendsetter** and directly inspired platforms like MySpace and Facebook, Friendster's downfall stemmed from server instability, technical glitches, poor user experience, and rivals outperforming it in usability and scalability.[[8]](#8)[[9]](#9)
 
 After its decline as a social network, Friendster relaunched as a social gaming platform in June 2011, reaching over **115 million registered users**.[[5]](#5) However, the platform eventually suspended all services in 2015, citing "the evolving landscape in our challenging industry" and lack of user engagement.[[9]](#9)
 
@@ -324,7 +324,7 @@ With each new platform, we've redefined how we share our lives, build communitie
 - <a id="5"></a>[5] [How Friendster Died: The Untold Story - The Runway Ventures](https://www.therunway.ventures/p/friendster)
 - <a id="6"></a>[6] [Before Facebook there was… Friendster? - Harvard Digital Initiative](https://d3.harvard.edu/platform-digit/submission/before-facebook-there-was-friendster-yes-thats-right/)
 - <a id="7"></a>[7] [Why Six Degrees Failed as a Social Media Platform](https://akshatsinghbisht.com/why-six-degrees-failed-as-a-social-media-platform/)
-- <a id="8"></a>[8] [Wallflower at the Web Party - New York Times](https://web.archive.org/web/20070608182205/http://www.nytimes.com:80/2006/10/15/business/yourmoney/15friend.html)
+- <a id="8"></a>[8] [Wallflower at the Web Party - New York Times](https://www.nytimes.com/2006/10/15/business/yourmoney/15friend.html)
 - <a id="9"></a>[9] [How Friendster lost chance for a jackpot - NY Times](https://www.nytimes.com/2006/10/15/business/worldbusiness/15iht-friend.3160940.html)
 - <a id="10"></a>[10] [Myspace - Wikipedia](https://en.wikipedia.org/wiki/Myspace)
 - <a id="11"></a>[11] [Tom Anderson - Wikipedia](https://en.wikipedia.org/wiki/Tom_Anderson)
