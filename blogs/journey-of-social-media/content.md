@@ -12,7 +12,7 @@ Social media as we know it today didn't happen overnight. It's been a journey of
     <img
         src="https://www.webdesignmuseum.org/uploaded/fullscreen/sixdegrees-1998.png"
         alt="Six Degrees website - 1998"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -41,7 +41,7 @@ The early 2000s saw the rise of social networking sites that catered to differen
     <img
         src="https://www.webdesignmuseum.org/uploaded/fullscreen/friendster-2004.png"
         alt="Friendster's main page - 2024"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -77,7 +77,7 @@ After its decline as a social network, Friendster relaunched as a social gaming 
     <img
         src="https://www.webdesignmuseum.org/uploaded/timeline/myspace/myspace-2007.png"
         alt="MySpace home page - 2007"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -106,7 +106,7 @@ Despite its fall, MySpace paved the way for future social media platforms by sho
     <img
         src="https://staticwp.fliphtml5.com/learning-center/wp-content/uploads/2023/10/Digital-Content-Distribution-Platforms-Linkedin.png.webp"
         alt="LinkedIn login page - 2021"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -144,7 +144,7 @@ Microsoft's 2016 acquisition for **\$26.2 billion** accelerated LinkedIn's expan
     <img
         src="https://www.webdesignmuseum.org/uploaded/timeline/facebook/facebook-2010.png"
         alt="Facebook login page - 2010"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -180,7 +180,7 @@ Despite facing challenges such as privacy concerns, the spread of misinformation
     <img
         src="https://www.webdesignmuseum.org/uploaded/timeline/twitter/twitter-2019.jpg"
         alt="Twitter home page - 2019"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -217,7 +217,7 @@ The 2010s were all about **images**, **videos** and **media**.
     <img
         src="https://www.webdesignmuseum.org/uploaded/timeline/instagram/instagram-2013.jpg"
         alt="Instagram home page - 2013"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -246,7 +246,7 @@ With over **1 billion active users**[[43]](#43), Instagram remains a leading pla
     <img
         src="https://www.webdesignmuseum.org/uploaded/fullscreen/2012/snapchat-2012.jpg"
         alt="Snapchat website - 2012"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -292,7 +292,7 @@ In the 2020s, social media platforms like **TikTok**, **Instagram Reels**, and *
     <img
         src="https://www.webdesignmuseum.org/uploaded/fullscreen/2017/tiktok-2017.jpg"
         alt="TikTok website - 2017"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
@@ -317,7 +317,7 @@ TikTok also sparked a lot of controversies, from **privacy concerns** to the spr
     <img
         src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/shorts-logo.2e16d0ba.fill-1440x810.png"
         alt="YouTube Shorts"
-        height="300"
+        height="400"
     >
     <br>
     <sup>
