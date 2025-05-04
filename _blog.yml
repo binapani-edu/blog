@@ -9,6 +9,23 @@
   created: March 22, 2025
   updated: March 22, 2025
   tags:
-    - binapani
     - guide
     - tutorial
+    - binapani
+
+- slug: journey-of-social-media
+  title: "The Journey of Social Media Evolution"
+  thumbnail: /blogs/journey-of-social-media/assets/thumbnail.jpg
+  description: "Social media as we know it today didn't happen overnight. It's been a journey of innovation, creativity, and rapid changes that lead to the experience we're all familiar with today!"
+  authors:
+    - name: koyelism
+      profile: https://github.com/koyelism
+    - name: mratanusarkar
+      profile: https://github.com/mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/34891206?v=4
+  created: May 04, 2025
+  updated: May 04, 2025
+  tags:
+    - article
+    - history
+    - social media
