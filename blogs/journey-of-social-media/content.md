@@ -104,15 +104,15 @@ Despite its fall, MySpace paved the way for future social media platforms by sho
 
 <p align="center">
     <img
-        src="https://upload.wikimedia.org/wikipedia/en/9/91/LinkedIn_homepage.png"
-        alt="LinkedIn login page - 2024"
+        src="https://staticwp.fliphtml5.com/learning-center/wp-content/uploads/2023/10/Digital-Content-Distribution-Platforms-Linkedin.png.webp"
+        alt="LinkedIn login page - 2021"
         height="300"
     >
     <br>
     <sup>
-        LinkedIn login page - 2024 | Source: 
-        <a href="https://en.wikipedia.org/wiki/LinkedIn" target="_blank">
-            Wikipedia
+        LinkedIn login page - 2021 | Source: 
+        <a href="https://fliphtml5.com/learning-center/digital-content-distribution-platforms-channels/" target="_blank">
+            FlipHTML5
         </a>
     </sup>
 </p>
