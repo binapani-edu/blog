@@ -1,6 +1,6 @@
 # The Journey of Social Media Evolution
 
-## The Evolution of social media
+## The Evolution of Social Media
 
 Social media as we know it today didn't happen overnight. It's been a journey of **innovation**, **creativity**, and **rapid change**. Let's explore the journey of social media and how it evolved into the *endless scrolling experience* we're all familiar with today!
 
@@ -23,11 +23,11 @@ Social media as we know it today didn't happen overnight. It's been a journey of
     </sup>
 </p>
 
-Founded by **Andrew Weinreich** in 1997, **SixDegrees.com** pioneered online social networking by introducing user profiles, friend lists, connections, and view friends' networks. It was the **first true social networking site**, establishing a new paradigm for digital interaction that would later influence major platforms like Facebook and LinkedIn.[[1]](#1)
+Founded by **Andrew Weinreich** in 1997, **SixDegrees.com** pioneered online social networking by introducing user profiles, friend lists, connections, and viewing friends' networks. It was the **first true social networking site**, establishing a new paradigm for digital interaction that would later influence major platforms like Facebook and LinkedIn.[[1]](#1)
 
 The platform's name referenced the popular *"six degrees of separation"* concept, emphasizing the possibility of worldwide connections through just a handful of personal links.[[2]](#2) Although revolutionary, SixDegrees faced challenges attracting sustained user interest and generating sufficient income, ultimately shutting down operations in December 2000.[[3]](#3)[[7]](#7)
 
-Though SixDegrees was **ahead of its time**, it showed that people wanted to connect with each other online in a social networked way. It proved that creating online communities was a viable concept, even though the society were not fully ready for such a platform in the late 1990s.
+Though SixDegrees was **ahead of its time**, it showed that people wanted to connect with each other online in a social-networked way. It proved that creating online communities was a viable concept, even though society was not fully ready for such a platform in the late 1990s.
 
 Ultimately, SixDegrees served as a **crucial precursor** to today's social media landscape, and its fundamental approach of connecting individuals through mutual acquaintances and social connections became a blueprint that shaped numerous platforms that followed.[[4]](#4)
 
@@ -88,7 +88,7 @@ After its decline as a social network, Friendster relaunched as a social gaming 
     </sup>
 </p>
 
-**MySpace** sparked a wave of digital self-expression by allowing extensive profile customization with personal information and photos, users integrated blogs, ability to share music, fostering unprecedented creativity and freedom. MySpace also included messaging, comments, and groups, fostering a sense of community.[[10]](#10)
+**MySpace** sparked a wave of digital self-expression by allowing extensive profile customization with personal information and photos, user-integrated blogs, ability to share music, fostering unprecedented creativity and freedom. MySpace also included messaging, comments, and groups, fostering a sense of community.[[10]](#10)
 
 Launched in August 2003 by **Tom Anderson** and **Chris DeWolfe**, MySpace quickly became the world's most popular social networking site in the mid-2000s.[[11]](#11)[[26]](#26)
 
@@ -96,7 +96,7 @@ Its signature **'Top 8' friends list**, blogging tools, and embedded music playe
 
 Its high level of personalization and focus on music set it apart, making it a cultural and technological milestone and it was acquired by News Corporation for **580 million dollars**.[[14]](#14) The acquisition of MySpace provided significant revenue through a deal with Google worth **900 million dollars**, a three-year search and advertising partnership that effectively recouped News Corp's initial investment.[[15]](#15)[[24]](#24)[[25]](#25)[[12]](#12)
 
-However, post-2008 its dominance was rapidly eroded with the rise of Facebook, offering minimalist interface, cleaner design, better user experience, and enhanced privacy features. By the early 2010s, MySpace had rebranded as a music-focused platform but never regained its former position. News Corp later sold MySpace to Specific Media for **\$35 million** in 2011.[[16]](#16)
+However, post-2008 its dominance was rapidly eroded with the rise of Facebook, offering a minimalist interface, cleaner design, better user experience, and enhanced privacy features. By the early 2010s, MySpace had rebranded as a music-focused platform but never regained its former position. News Corp later sold MySpace to Specific Media for **\$35 million** in 2011.[[16]](#16)
 
 Despite its fall, MySpace paved the way for future social media platforms by showing the power of online communities, user-generated content, and personalized digital identities, making it a **cultural and technological milestone** in the development of social networking, before Facebook eventually overtook it.[[17]](#17)
 
@@ -119,9 +119,9 @@ Despite its fall, MySpace paved the way for future social media platforms by sho
 
 Professional networking made its debut, turning the digital world into a place for **career development** and **business connections**.
 
-[LinkedIn](https://linkedin.com)'s early development trace back to co-founder **Reid Hoffman**'s living room in 2002, with its formal launch occurring on May 5, 2003 by Hoffman along with Allen Blue, Konstantin Guericke, Eric Ly, and Jean-Luc Vaillant. It pioneered **professional-focused social networking platform**, providing a dedicated space for career management and business engagement.[[18]](#18)
+[LinkedIn](https://linkedin.com)'s early development can be traced back to co-founder **Reid Hoffman**'s living room in 2002, with its formal launch occurring on May 5, 2003, by Hoffman along with Allen Blue, Konstantin Guericke, Eric Ly, and Jean-Luc Vaillant. It pioneered **professional-focused social networking platform**, providing a dedicated space for career management and business engagement.[[18]](#18)
 
-Unlike other early social platforms focused on personal or entertainment-based connections, LinkedIn emphasized **real identities**, **formal networking**, and **career development**. Users crafted comprehensive profiles functioning as digital CVs and resumes, documenting professional backgrounds, academic credentials, work history, skills & competencies, and professional endorsements. This enabled professionals to connect with colleagues, mentors, and industry peers.[[19]](#19)
+Unlike other early social platforms focused on personal or entertainment-based connections, LinkedIn emphasized **real identities**, **formal networking**, and **career development**. Users crafted comprehensive profiles functioning as digital CVs and resume, documenting professional backgrounds, academic credentials, work history, skills & competencies, and professional endorsements. This enabled professionals to connect with colleagues, mentors, and industry peers.[[19]](#19)
 
 Core functionalities encompassed:
 
@@ -134,7 +134,7 @@ Core functionalities encompassed:
 
 The introduction of **LinkedIn Learning** further bolstered its educational offerings through career-oriented courses.[[20]](#20)[[73]](#73)
 
-By prioritizing workplace relevance, LinkedIn became indispensable for talent acquisition teams, businesses, enterprises, organizations and career aspirants, reshaping digital-era recruitment methodologies.[[21]](#21)
+By prioritizing workplace relevance, LinkedIn became indispensable for talent acquisition teams, businesses, enterprises, organizations, and career aspirants, reshaping digital-era recruitment methodologies.[[21]](#21)
 
 Microsoft's 2016 acquisition for **\$26.2 billion** accelerated LinkedIn's expansion, surpassing **900 million global members** (not daily active users). It continues leading professional engagement spheres, redefining organizational and individual growth strategies through networking and collaboration.[[22]](#22)[[23]](#23)
 
@@ -157,7 +157,7 @@ Microsoft's 2016 acquisition for **\$26.2 billion** accelerated LinkedIn's expan
 
 **The Giant Emerges!**
 
-Initially named "TheFacebook", the platform debuted in 2004 as a **Harvard-exclusive network** co-founded by **Mark Zuckerberg**, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. Later in 2005 after purchase of the domain facebook.com, it was renamed to [Facebook](https://facebook.com) and slowly expanded to other universities and eventually to the general public.[[28]](#28)
+Initially named "TheFacebook", the platform debuted in 2004 as a **Harvard-exclusive network** co-founded by **Mark Zuckerberg**, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. Later in 2005 after the purchase of the domain facebook.com, it was renamed to [Facebook](https://facebook.com) and slowly expanded to other universities and eventually to the general public.[[28]](#28)
 
 The platform enabled:
 
@@ -170,7 +170,7 @@ Its **2006 News Feed innovation**, aggregating real-time peer updates transforme
 
 Facebook also introduced the concept of **"Pages"** for businesses, celebrities, and public figures, allowing them to interact with fans directly.[[30]](#30)
 
-Over the years, strategic acquisitions including **Instagram (2012)**, **WhatsApp (2014)**, and **Oculus VR (2014)** diversified Facebook's ecosystem, expanding its influence in the social media landscape.[[28]](#28)[[69]](#69) The October 28, 2021 rebranding to **Meta** reflected company's vision and its ambitions beyond traditional social media into immersive virtual worlds termed as the *metaverse*.[[31]](#31)
+Over the years, strategic acquisitions including **Instagram (2012)**, **WhatsApp (2014)**, and **Oculus VR (2014)** diversified Facebook's ecosystem, expanding its influence in the social media landscape.[[28]](#28)[[69]](#69) October 28, 2021, rebranding to **Meta** reflected the company's vision and its ambitions beyond traditional social media into immersive virtual worlds termed as the *metaverse*.[[31]](#31)
 
 Despite facing challenges such as privacy concerns, the spread of misinformation, and competition from newer platforms, Facebook has stayed at the forefront of global social networking, with **billions of active users** worldwide.
 
@@ -228,7 +228,7 @@ The 2010s were all about **images**, **videos** and **media**.
     </sup>
 </p>
 
-Co-founded by Stanford graduates **Kevin Systrom** and **Mike Krieger** in 2010, [Instagram](https://instagram.com) emerged from their failed location-checkin app "Burbn" to dominate mobile photography through retro-inspired filters.[[39]](#39)
+Co-founded by Stanford graduates **Kevin Systrom** and **Mike Krieger** in 2010, [Instagram](https://instagram.com) emerged from their failed location-check-in app "Burbn" to dominate mobile photography through retro-inspired filters.[[39]](#39)
 
 This photo-sharing app brought **visual storytelling** to the forefront, allowing users to share their lives through stunning images.
 
@@ -257,7 +257,7 @@ With over **1 billion active users**[[43]](#43), Instagram remains a leading pla
     </sup>
 </p>
 
-Emerging from a Stanford University project, [Snapchat](https://snap.com) initially launched as **"Picaboo"** in iOS App Store in July 2011 under co-founders **Evan Spiegel**, **Bobby Murphy**, and **Reggie Brown**.[[44]](#44) Renamed Snapchat after trademark conflicts, the multimedia messaging app was known for its **disappearing messages** and innovative use of filters.
+Emerging from a Stanford University project, [Snapchat](https://snap.com) initially launched as **"Picaboo"** in the iOS App Store in July 2011 under co-founders **Evan Spiegel**, **Bobby Murphy**, and **Reggie Brown**.[[44]](#44) Renamed Snapchat after trademark conflicts, the multimedia messaging app was known for its **disappearing messages** and innovative use of filters.
 
 Core innovations included:
 
@@ -266,7 +266,7 @@ Core innovations included:
 - **Lenses** (augmented reality filters)
 - **Discover** (news and entertainment content)
 
-Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a **\$157.5 million settlement**.[[45]](#45) However, this didn't stop the app from becoming a massive success. From from 25 images/second in 2012 to **400 million daily snaps** by late 2013, outpacing Facebook's photo uploads at the time.[[46]](#46) Snapchat crossed the **one million users** threshold by the end of 2012 and grew to **34.8 million daily active users** by the end of 2013.[[47]](#47)
+Snapchat had a tough start facing legal challenges over its original name. Co-founder Reggie Brown's subsequent lawsuit alleging intellectual property theft resulted in a **\$157.5 million settlement**.[[45]](#45) However, this didn't stop the app from becoming a massive success. From 25 images/second in 2012 to **400 million daily snaps** by late 2013, outpacing Facebook's photo uploads at the time.[[46]](#46) Snapchat crossed the **one million users** threshold by the end of 2012 and grew to **34.8 million daily active users** by the end of 2013.[[47]](#47)
 
 Snapchat **revolutionized communication** with its disappearing stories, making short-lived messages and moments an essential part of digital interaction, fostering authenticity and spontaneity.
 
@@ -303,11 +303,11 @@ In the 2020s, social media platforms like **TikTok**, **Instagram Reels**, and *
     </sup>
 </p>
 
-The timeline for [TikTok](https://tiktok.com) is complicated. **ByteDance** launched **Douyin** (TikTok's Chinese version) in China during September 2016, later introducing TikTok globally in September 2017.[[54]](#54) ByteDance then went ahead acquiring **Musical.ly** for **\$1 billion** in November 2017 and merged it with TikTok in August 2018, adding its 100 million users into TikTok's user base.[[55]](#55)[[56]](#56)
+The timeline for [TikTok](https://tiktok.com) is complicated. **ByteDance** launched **Douyin** (TikTok's Chinese version) in China in September 2016, later introducing TikTok globally in September 2017.[[54]](#54) ByteDance then went ahead acquiring **Musical.ly** for **\$1 billion** in November 2017 and merged it with TikTok in August 2018, adding its 100 million users to TikTok's user base.[[55]](#55)[[56]](#56)
 
-On top of this, TikTok leveraged **algorithm-driven content recommendations** and **short-form video format** to fuel viral growth, creating the global phenomenon we know today.[[57]](#57)[[72]](#72) This short-form video format have made it extraordinarily popular across age groups, and among content creators as well as content consumers.
+On top of this, TikTok leveraged **algorithm-driven content recommendations** and **short-form video format** to fuel viral growth, creating the global phenomenon we know today.[[57]](#57)[[72]](#72) This short-form video format has made it extraordinarily popular across age groups, and among content creators as well as content consumers.
 
-With this format, now anyone can become a content creator and share their content with the world. And for the content consumers, it's a great way to discover new content and be entertained. Although this has sparked a lot of debates about the impact of this format on the society, and introduced what is known as **"Reel culture"** and **"Doom Scrolling"**, it's undeniable that it has changed the way we consume content and the way we have increased our "screen time" online.
+With this format, now anyone can become a content creator and share their content with the world. And for content consumers, it's a great way to discover new content and be entertained. Although this has sparked a lot of debates about the impact of this format on society, and introduced what is known as **"Reel culture"** and **"Doom Scrolling"**, it's undeniable that it has changed the way we consume content and the way we have increased our "screen time" online.
 
 TikTok also sparked a lot of controversies, from **privacy concerns** to the spread of **misinformation**, and even the **banning of the app** in some countries.[[58]](#58)
 
@@ -330,7 +330,7 @@ TikTok also sparked a lot of controversies, from **privacy concerns** to the spr
 
 [Meta](https://www.meta.com)'s Instagram countered TikTok's rise by launching **Reels** globally on **August 5, 2020** across 50+ countries, offering 15-second multi-clip videos with licensed music and AR effects.[[59]](#59)[[60]](#60)
 
-Capitalizing on India's 2020 TikTok ban, YouTube introduced **Shorts** in September 2020 as a beta in India.[[61]](#61) The platform then expanded to United States in March 2021, and later rolled out to 100+ countries by July 2021.[[62]](#62) The feature quickly gained popularity, reaching **6.5 billion daily views** by March 2021 according to Alphabet CEO Sundar Pichai.[[63]](#63) While TikTok later expanded to 3-minute videos in 2021, YouTube Shorts initially maintained its 60-second limit until 2024.
+Capitalizing on India's 2020 TikTok ban, YouTube introduced **Shorts** in September 2020 as a beta in India.[[61]](#61) The platform then expanded to the United States in March 2021 and later rolled out to 100+ countries by July 2021.[[62]](#62) The feature quickly gained popularity, reaching **6.5 billion daily views** by March 2021 according to Alphabet CEO Sundar Pichai.[[63]](#63) While TikTok later expanded to 3-minute videos in 2021, YouTube Shorts initially maintained its 60-second limit until 2024.
 
 This demonstrates how the **short-video format** has become the dominant format for social media platforms, and how it has become the default way for people to consume content currently. With the growing popularity and user engagement through endless scrolling, this short video format has been adopted by other platforms like Facebook, Snapchat, and even LinkedIn recently, which has expanded its vertical video capabilities for professional content.[[64]](#64) Some news platforms like the *New York Times* and the *Washington Post* have also adopted this format to keep up with the trend.[[65]](#65)
 
@@ -396,19 +396,19 @@ With each new platform, we've redefined how we share our lives, build communitie
 - <a id="47"></a>[47] [Timeline of Snapchat - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Snapchat)
 - <a id="48"></a>[48] [Snapchat Discover - Meltwater](https://www.meltwater.com/en/blog/snapchat-discover)
 - <a id="49"></a>[49] [Snapchat Snap Map: First Look - CNBC](https://www.cnbc.com/2017/06/21/snapchat-snap-map-first-look.html)
-- <a id="50"></a>[50] [Snapchat will let you store snaps and share them later with new 'Memories' feature - WXYZ](https://www.wxyz.com/news/snapchat-will-let-you-store-snaps-and-share-them-later-with-new-memories-feature)
+- <a id="50"></a>[50] [Snapchat will let you store snaps and share them later with the new 'Memories' feature - WXYZ](https://www.wxyz.com/news/snapchat-will-let-you-store-snaps-and-share-them-later-with-new-memories-feature)
 - <a id="51"></a>[51] [Snapchat launches a TikTok-like feed called Spotlight - TechCrunch](https://techcrunch.com/2020/11/23/snapchat-launches-a-tiktok-like-feed-called-spotlight-kick-started-by-paying-creators/)
 - <a id="52"></a>[52] [Introducing Lens Studio 2.0 - Snapchat](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360043021151-Introducing-Lens-Studio-2-0)
 - <a id="53"></a>[53] [Snapchat Statistics - Backlinko](https://backlinko.com/snapchat-users)
 - <a id="54"></a>[54] [TikTok - Wikipedia](https://en.wikipedia.org/wiki/TikTok)
 - <a id="55"></a>[55] [Musical.ly Is Going Away: Users to Be Shifted to TikTok - Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/musically-owner-bytedance-merges-app-tiktok-1131630/)
-- <a id="56"></a>[56] [Musical.ly, TikTok merge to create global platform - TechCrunch](https://techcrunch.com/2018/08/02/musically-tiktok/)
+- <a id="56"></a>[56] [Musical.ly, TikTok merge to create a global platform - TechCrunch](https://techcrunch.com/2018/08/02/musically-tiktok/)
 - <a id="57"></a>[57] [What Is TikTok? - Investopedia](https://www.investopedia.com/what-is-tiktok-4588933)
 - <a id="58"></a>[58] [TikTok - TechTarget Definition](https://www.techtarget.com/whatis/definition/TikTok)
 - <a id="59"></a>[59] [Instagram officially launches Reels, attempt to take down TikTok - GSMArena](https://www.gsmarena.com/instagram_officially_launches_reels_in_attempt_to_take_down_tiktok-news-44637.php)
 - <a id="60"></a>[60] [Instagram Reels launches to take on TikTok with 15-second videos - The Verge](https://www.theverge.com/2020/8/5/21354117/instagram-reels-tiktok-vine-short-videos-stories-explore-music-effects-filters)
 - <a id="61"></a>[61] [YouTube Shorts launched in India, hopes to fill spot vacated by TikTok ban - India Today](https://www.indiatoday.in/technology/news/story/youtube-shorts-launched-in-india-hopes-to-fill-spot-vacated-by-tiktok-ban-1721807-2020-09-14)
-- <a id="62"></a>[62] [YouTube Shorts, global roll out, TikTok, short-form video - The Verge](https://www.theverge.com/2021/7/13/22575063/youtube-shorts-global-roll-out-tiktok-short-form-video)
+- <a id="62"></a>[62] [YouTube Shorts, global roll-out, TikTok, short-form video - The Verge](https://www.theverge.com/2021/7/13/22575063/youtube-shorts-global-roll-out-tiktok-short-form-video)
 - <a id="63"></a>[63] [TikTok rival short-form videos app YouTube Shorts hits 6.5 bn daily views - Business Standard](https://www.business-standard.com/article/technology/tiktok-rival-short-form-videos-app-youtube-shorts-hits-6-5-bn-daily-views-121042800365_1.html)
 - <a id="64"></a>[64] [After TikTok, Instagram Reels; LinkedIn users to experience short video feature soon - India.com](https://www.india.com/technology/after-tiktok-instagram-reels-linkedin-users-to-experience-short-video-feature-soon-6819571/)
 - <a id="65"></a>[65] [Inside The Washington Post TikTok strategy - Milk Karten](https://www.milkkarten.net/p/inside-the-washington-post-tiktok)
@@ -417,10 +417,10 @@ With each new platform, we've redefined how we share our lives, build communitie
 - <a id="68"></a>[68] [Making it big on MySpace: The Arctic Monkeys story](https://aismartmarketing.com/making-it-big-on-myspace-the-arctic-monkeys-story/)
 - <a id="69"></a>[69] [WhatsApp: Best Facebook Purchase Ever?](https://www.investopedia.com/articles/investing/032515/whatsapp-best-facebook-purchase-ever.asp)
 - <a id="70"></a>[70] [Facebook bought Instagram because it was scared of Twitter and Google](https://www.cnbc.com/2019/09/24/facebook-bought-instagram-because-it-was-scared-of-twitter-and-google.html)
-- <a id="71"></a>[71] [TikTok reveals US, global user growth numbers for first time](https://www.cnbc.com/2020/08/24/tiktok-reveals-us-global-user-growth-numbers-for-first-time.html)
+- <a id="71"></a>[71] [TikTok reveals US, global user growth numbers for the first time](https://www.cnbc.com/2020/08/24/tiktok-reveals-us-global-user-growth-numbers-for-first-time.html)
 - <a id="72"></a>[72] [TikTok User Statistics (2023)](https://backlinko.com/tiktok-users)
 - <a id="73"></a>[73] [LinkedIn Learning: What It Is, How It Works, Pricing & Features](https://www.socialpilot.co/social-media-terms/linkedin-learning)
-- <a id="74"></a>[74] [YouTube Shorts gets 6.9 billion views daily, launches in US after successful India launch](https://trak.in/tags/business/2021/03/21/youtube-shorts-gets-6-9-billion-views-daily-launches-in-us-after-successful-india-launch/)
+- <a id="74"></a>[74] [YouTube Shorts gets 6.9 billion views daily, launches in the US after successful India launch](https://trak.in/tags/business/2021/03/21/youtube-shorts-gets-6-9-billion-views-daily-launches-in-us-after-successful-india-launch/)
 - <a id="75"></a>[75] [Instagram Statistics (2023)](https://www.businessofapps.com/data/instagram-statistics/)
 - <a id="76"></a>[76] [Bands & Fans: Understanding the dynamics between MySpace bands and their audiences](https://www.danah.org/papers/BandsAndFans.pdf)
 - <a id="77"></a>[77] [MySpace acts who found success on the Official Charts](https://www.officialcharts.com/chart-news/myspace-acts-who-found-success-on-the-official-charts__25882/)
