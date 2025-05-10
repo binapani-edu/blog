@@ -16,10 +16,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Find blog slug
+      - name: Validate and find blog slugs
         id: find-slug
         run: |
-          # Get changed files, handle potential errors
+          # Get changed files
           CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} 2>/dev/null || echo "")
           
           if [ -z "$CHANGED_FILES" ]; then
@@ -27,46 +27,67 @@ jobs:
             exit 0
           fi
           
-          # Initialize arrays for new and edited blogs
-          NEW_BLOGS=()
-          EDITED_BLOGS=()
+          # Step 1: Detect slugs from both sources
+          YAML_SLUGS=()
+          FOLDER_SLUGS=()
           
-          # Look for changes in blog folders
-          while IFS= read -r file; do
-            if [[ $file =~ ^blogs/([^/]+)/content\.md$ ]]; then
-              SLUG="${BASH_REMATCH[1]}"
-              if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$SLUG/"; then
-                EDITED_BLOGS+=("$SLUG")
-              else
-                NEW_BLOGS+=("$SLUG")
-              fi
-            fi
-          done <<< "$CHANGED_FILES"
-          
-          # Look for changes in _blog.yml
+          # Detect slugs from _blog.yml changes
           if echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
-            # Get all slugs from _blog.yml changes using a more precise pattern
             while IFS= read -r line; do
               if [[ $line =~ ^[[:space:]]*-[[:space:]]*slug:[[:space:]]*[\"']?([^\"']+)[\"']?$ ]]; then
-                SLUG="${BASH_REMATCH[1]}"
-                if [ -n "$SLUG" ]; then
-                  if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$SLUG/"; then
-                    EDITED_BLOGS+=("$SLUG")
-                  else
-                    NEW_BLOGS+=("$SLUG")
-                  fi
-                fi
+                YAML_SLUGS+=("${BASH_REMATCH[1]}")
               fi
             done < <(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml 2>/dev/null)
           fi
           
+          # Detect slugs from folder changes
+          while IFS= read -r file; do
+            if [[ $file =~ ^blogs/([^/]+)/content\.md$ ]]; then
+              FOLDER_SLUGS+=("${BASH_REMATCH[1]}")
+            fi
+          done <<< "$CHANGED_FILES"
+          
           # Remove duplicates and sort
-          NEW_BLOGS=($(printf "%s\n" "${NEW_BLOGS[@]}" | sort -u))
-          EDITED_BLOGS=($(printf "%s\n" "${EDITED_BLOGS[@]}" | sort -u))
+          YAML_SLUGS=($(printf "%s\n" "${YAML_SLUGS[@]}" | sort -u))
+          FOLDER_SLUGS=($(printf "%s\n" "${FOLDER_SLUGS[@]}" | sort -u))
+          
+          # Step 2: Validate slug consistency
+          if [ ${#YAML_SLUGS[@]} -ne ${#FOLDER_SLUGS[@]} ]; then
+            echo "error=true" >> $GITHUB_OUTPUT
+            echo "message=❌ Validation Error: Number of slugs in _blog.yml (${#YAML_SLUGS[@]}) doesn't match number of blog folders (${#FOLDER_SLUGS[@]})" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+          
+          # Check if all slugs match
+          for yaml_slug in "${YAML_SLUGS[@]}"; do
+            found=false
+            for folder_slug in "${FOLDER_SLUGS[@]}"; do
+              if [ "$yaml_slug" = "$folder_slug" ]; then
+                found=true
+                break
+              fi
+            done
+            if [ "$found" = false ]; then
+              echo "error=true" >> $GITHUB_OUTPUT
+              echo "message=❌ Validation Error: Slug mismatch found. The slug in _blog.yml must exactly match the folder name in blogs/ directory.\n\nFound in _blog.yml: \`${YAML_SLUGS[*]}\`\nFound in blogs/: \`${FOLDER_SLUGS[*]}\`" >> $GITHUB_OUTPUT
+              exit 1
+            fi
+          done
+          
+          # Step 3: Determine if blogs are new or edited
+          NEW_BLOGS=()
+          EDITED_BLOGS=()
+          
+          for slug in "${YAML_SLUGS[@]}"; do
+            if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$slug/"; then
+              EDITED_BLOGS+=("$slug")
+            else
+              NEW_BLOGS+=("$slug")
+            fi
+          done
           
           # Prepare message based on changes
           if [ ${#NEW_BLOGS[@]} -gt 0 ] && [ ${#EDITED_BLOGS[@]} -gt 0 ]; then
-            # Join arrays with comma and space
             NEW_BLOGS_STR=$(printf ",\`%s\`" "${NEW_BLOGS[@]}" | cut -c2-)
             EDITED_BLOGS_STR=$(printf ",\`%s\`" "${EDITED_BLOGS[@]}" | cut -c2-)
             echo "message=Multiple changes detected:\n\nNew blogs: ${NEW_BLOGS_STR}\n\nEdits in: ${EDITED_BLOGS_STR}" >> $GITHUB_OUTPUT
@@ -84,6 +105,7 @@ jobs:
           fi
 
       - name: Delete old preview comments
+        if: steps.find-slug.outputs.error != 'true'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -109,6 +131,7 @@ jobs:
             }
 
       - name: Comment preview link or status
+        if: steps.find-slug.outputs.error != 'true'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -140,6 +163,28 @@ jobs:
             
             body += ` ---\n\n`;
             body += `Useful Links | [Binapani Blog](https://www.binapani.com/blog) | [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)`;
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: body
+            });
+
+      - name: Comment validation error
+        if: steps.find-slug.outputs.error == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const message = '${{ steps.find-slug.outputs.message }}';
+            
+            let body = `## ❌ Blog Validation Failed\n\n${message}\n\n`;
+            body += `Please ensure that:\n`;
+            body += `1. The slug in _blog.yml exactly matches the folder name in blogs/ directory\n`;
+            body += `2. Each blog has both a folder in blogs/ and an entry in _blog.yml\n`;
+            body += `3. The folder name and slug are in kebab-case (lowercase with hyphens)\n\n`;
+            body += `Check the [contribution guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for more details.`;
             
             await github.rest.issues.createComment({
               owner: context.repo.owner,
