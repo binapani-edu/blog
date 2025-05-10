@@ -16,33 +16,27 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Install yq
+        run: |
+          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+
       - name: Detect blog changes
         id: detect-changes
         run: |
           # Get list of slugs from main branch _blog.yml
-          git show ${{ github.event.pull_request.base.sha }}:_blog.yml > main_blog.yml 2>/dev/null || echo "" > main_blog.yml
+          git show ${{ github.event.pull_request.base.sha }}:_blog.yml > main_blog.yml 2>/dev/null || echo "[]" > main_blog.yml
           
-          # Extract all slugs from main branch
-          MAIN_SLUGS=()
-          while IFS= read -r line; do
-            if [[ $line =~ ^[[:space:]]*-[[:space:]]*slug:[[:space:]]*[\"']?([^\"']+)[\"']?$ ]]; then
-              MAIN_SLUGS+=("${BASH_REMATCH[1]}")
-            fi
-          done < main_blog.yml
+          # Extract all slugs from main branch using yq
+          MAIN_SLUGS=$(yq e '.[].slug' main_blog.yml | sort) || MAIN_SLUGS=""
           
           # Extract all slugs from current _blog.yml
-          CURRENT_SLUGS=()
-          while IFS= read -r line; do
-            if [[ $line =~ ^[[:space:]]*-[[:space:]]*slug:[[:space:]]*[\"']?([^\"']+)[\"']?$ ]]; then
-              CURRENT_SLUGS+=("${BASH_REMATCH[1]}")
-            fi
-          done < _blog.yml
+          CURRENT_SLUGS=$(yq e '.[].slug' _blog.yml | sort) || CURRENT_SLUGS=""
           
-          # Find new and edited slugs
+          # Find new slugs (those in current but not in main)
           NEW_SLUGS=()
-          
-          for slug in "${CURRENT_SLUGS[@]}"; do
-            if ! echo "${MAIN_SLUGS[@]}" | grep -q "$slug"; then
+          for slug in $CURRENT_SLUGS; do
+            if ! echo "$MAIN_SLUGS" | grep -q "^$slug$"; then
               NEW_SLUGS+=("$slug")
             fi
           done
@@ -53,36 +47,31 @@ jobs:
           # Get changed files
           CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
           
-          for slug in "${CURRENT_SLUGS[@]}"; do
+          # For each slug in current but not new, check if it was edited
+          for slug in $CURRENT_SLUGS; do
             # Skip if it's a new slug
-            if echo "${NEW_SLUGS[@]}" | grep -q "$slug"; then
+            if [[ " ${NEW_SLUGS[@]} " =~ " ${slug} " ]]; then
               continue
             fi
             
-            # Check if content.md was changed
+            # Check if blog files were changed
             if echo "$CHANGED_FILES" | grep -q "^blogs/$slug/"; then
               EDITED_SLUGS+=("$slug")
+              continue
             fi
-          done
-          
-          # Also check if _blog.yml was modified for existing slugs
-          if echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
-            for slug in "${CURRENT_SLUGS[@]}"; do
-              # Skip if it's already in NEW_SLUGS or EDITED_SLUGS
-              if echo "${NEW_SLUGS[@]}" | grep -q "$slug" || echo "${EDITED_SLUGS[@]}" | grep -q "$slug"; then
-                continue
-              fi
+            
+            # Check if this slug's entry in _blog.yml was modified
+            if echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
+              # Get the yaml block for this slug from both versions
+              MAIN_ENTRY=$(git show ${{ github.event.pull_request.base.sha }}:_blog.yml | yq e ".[] | select(.slug == \"$slug\")" - 2>/dev/null) || MAIN_ENTRY=""
+              CURRENT_ENTRY=$(yq e ".[] | select(.slug == \"$slug\")" _blog.yml 2>/dev/null) || CURRENT_ENTRY=""
               
-              # Check if this slug entry was modified in _blog.yml
-              if git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml | grep -q "slug: $slug"; then
+              # If they differ, mark as edited
+              if [ "$MAIN_ENTRY" != "$CURRENT_ENTRY" ]; then
                 EDITED_SLUGS+=("$slug")
               fi
-            done
-          fi
-          
-          # Remove duplicates
-          NEW_SLUGS=($(echo "${NEW_SLUGS[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' '))
-          EDITED_SLUGS=($(echo "${EDITED_SLUGS[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' '))
+            fi
+          done
           
           # Format slugs for output
           if [ ${#NEW_SLUGS[@]} -gt 0 ]; then
