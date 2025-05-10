@@ -30,59 +30,85 @@ jobs:
           # Step 1: Detect slugs from both sources
           YAML_SLUGS=()
           FOLDER_SLUGS=()
+          CHANGED_SLUGS=()  # Track which slugs were actually changed
           
           # Detect slugs from _blog.yml changes
           if echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
+            # Get the diff of _blog.yml
+            YAML_DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml 2>/dev/null)
+            
+            # Extract slugs from the diff
             while IFS= read -r line; do
               if [[ $line =~ ^[[:space:]]*-[[:space:]]*slug:[[:space:]]*[\"']?([^\"']+)[\"']?$ ]]; then
-                YAML_SLUGS+=("${BASH_REMATCH[1]}")
+                SLUG="${BASH_REMATCH[1]}"
+                YAML_SLUGS+=("$SLUG")
+                CHANGED_SLUGS+=("$SLUG")
               fi
-            done < <(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml 2>/dev/null)
+            done <<< "$YAML_DIFF"
           fi
           
           # Detect slugs from folder changes
           while IFS= read -r file; do
             if [[ $file =~ ^blogs/([^/]+)/content\.md$ ]]; then
-              FOLDER_SLUGS+=("${BASH_REMATCH[1]}")
+              SLUG="${BASH_REMATCH[1]}"
+              FOLDER_SLUGS+=("$SLUG")
+              # Only add to CHANGED_SLUGS if not already there
+              if [[ ! " ${CHANGED_SLUGS[@]} " =~ " ${SLUG} " ]]; then
+                CHANGED_SLUGS+=("$SLUG")
+              fi
             fi
           done <<< "$CHANGED_FILES"
           
           # Remove duplicates and sort
           YAML_SLUGS=($(printf "%s\n" "${YAML_SLUGS[@]}" | sort -u))
           FOLDER_SLUGS=($(printf "%s\n" "${FOLDER_SLUGS[@]}" | sort -u))
+          CHANGED_SLUGS=($(printf "%s\n" "${CHANGED_SLUGS[@]}" | sort -u))
           
-          # Step 2: Validate slug consistency
-          if [ ${#YAML_SLUGS[@]} -ne ${#FOLDER_SLUGS[@]} ]; then
-            echo "error=true" >> $GITHUB_OUTPUT
-            echo "message=❌ Validation Error: Number of slugs in _blog.yml (${#YAML_SLUGS[@]}) doesn't match number of blog folders (${#FOLDER_SLUGS[@]})" >> $GITHUB_OUTPUT
-            exit 1
-          fi
-          
-          # Check if all slugs match
-          for yaml_slug in "${YAML_SLUGS[@]}"; do
-            found=false
-            for folder_slug in "${FOLDER_SLUGS[@]}"; do
-              if [ "$yaml_slug" = "$folder_slug" ]; then
-                found=true
+          # Step 2: Validate slug consistency for changed blogs only
+          for changed_slug in "${CHANGED_SLUGS[@]}"; do
+            # Check if slug exists in both YAML and folder
+            yaml_exists=false
+            folder_exists=false
+            
+            for yaml_slug in "${YAML_SLUGS[@]}"; do
+              if [ "$yaml_slug" = "$changed_slug" ]; then
+                yaml_exists=true
                 break
               fi
             done
-            if [ "$found" = false ]; then
+            
+            for folder_slug in "${FOLDER_SLUGS[@]}"; do
+              if [ "$folder_slug" = "$changed_slug" ]; then
+                folder_exists=true
+                break
+              fi
+            done
+            
+            if [ "$yaml_exists" = false ] || [ "$folder_exists" = false ]; then
               echo "error=true" >> $GITHUB_OUTPUT
-              echo "message=❌ Validation Error: Slug mismatch found. The slug in _blog.yml must exactly match the folder name in blogs/ directory.\n\nFound in _blog.yml: \`${YAML_SLUGS[*]}\`\nFound in blogs/: \`${FOLDER_SLUGS[*]}\`" >> $GITHUB_OUTPUT
+              echo "message=❌ Validation Error: Blog \`$changed_slug\` is missing in " >> $GITHUB_OUTPUT
+              if [ "$yaml_exists" = false ]; then
+                echo "message=${message}_blog.yml" >> $GITHUB_OUTPUT
+              fi
+              if [ "$folder_exists" = false ]; then
+                if [ "$yaml_exists" = false ]; then
+                  echo "message=${message} and " >> $GITHUB_OUTPUT
+                fi
+                echo "message=${message}blogs/ directory" >> $GITHUB_OUTPUT
+              fi
               exit 1
             fi
           done
           
-          # Step 3: Determine if blogs are new or edited
+          # Step 3: Determine if changed blogs are new or edited
           NEW_BLOGS=()
           EDITED_BLOGS=()
           
-          for slug in "${YAML_SLUGS[@]}"; do
-            if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$slug/"; then
-              EDITED_BLOGS+=("$slug")
+          for changed_slug in "${CHANGED_SLUGS[@]}"; do
+            if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$changed_slug/"; then
+              EDITED_BLOGS+=("$changed_slug")
             else
-              NEW_BLOGS+=("$slug")
+              NEW_BLOGS+=("$changed_slug")
             fi
           done
           
