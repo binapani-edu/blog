@@ -21,41 +21,61 @@ jobs:
         run: |
           # Get changed files, handle potential errors
           CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} 2>/dev/null || echo "")
-
+          
           if [ -z "$CHANGED_FILES" ]; then
             echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
             exit 0
           fi
-
-          # Look for new blog folders or changes in _blog.yml
-          if echo "$CHANGED_FILES" | grep -q "^blogs/.*/content.md$"; then
-            # Extract folder name from changed content.md
-            SLUG=$(echo "$CHANGED_FILES" | grep "^blogs/.*/content.md$" | head -n 1 | cut -d'/' -f2)
-            if [ -n "$SLUG" ]; then
-              echo "slug=$SLUG" >> $GITHUB_OUTPUT
-              # Check if this is a new blog or edit
+          
+          # Initialize arrays for new and edited blogs
+          NEW_BLOGS=()
+          EDITED_BLOGS=()
+          
+          # Look for changes in blog folders
+          while IFS= read -r file; do
+            if [[ $file =~ ^blogs/([^/]+)/content\.md$ ]]; then
+              SLUG="${BASH_REMATCH[1]}"
               if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$SLUG/"; then
-                echo "message=Edits in existing blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
+                EDITED_BLOGS+=("$SLUG")
               else
-                echo "message=New blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
+                NEW_BLOGS+=("$SLUG")
               fi
-            else
-              echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
             fi
-          elif echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
-            # If _blog.yml changed, get the last added/modified blog slug
-            SLUG=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml 2>/dev/null | grep -A 5 "slug:" | grep "slug:" | tail -n 1 | cut -d'"' -f2)
-            if [ -n "$SLUG" ]; then
-              echo "slug=$SLUG" >> $GITHUB_OUTPUT
-              # Check if this is a new blog or edit
-              if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$SLUG/"; then
-                echo "message=Edits in existing blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
-              else
-                echo "message=New blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
+          done <<< "$CHANGED_FILES"
+          
+          # Look for changes in _blog.yml
+          if echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
+            # Get all slugs from _blog.yml changes
+            while IFS= read -r slug; do
+              if [ -n "$slug" ]; then
+                if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$slug/"; then
+                  EDITED_BLOGS+=("$slug")
+                else
+                  NEW_BLOGS+=("$slug")
+                fi
               fi
-            else
-              echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
-            fi
+            done < <(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml 2>/dev/null | grep -A 5 "slug:" | grep "slug:" | cut -d'"' -f2)
+          fi
+          
+          # Remove duplicates and sort
+          NEW_BLOGS=($(printf "%s\n" "${NEW_BLOGS[@]}" | sort -u))
+          EDITED_BLOGS=($(printf "%s\n" "${EDITED_BLOGS[@]}" | sort -u))
+          
+          # Prepare message based on changes
+          if [ ${#NEW_BLOGS[@]} -gt 0 ] && [ ${#EDITED_BLOGS[@]} -gt 0 ]; then
+            # Join arrays with comma and space
+            NEW_BLOGS_STR=$(printf ",\`%s\`" "${NEW_BLOGS[@]}" | cut -c2-)
+            EDITED_BLOGS_STR=$(printf ",\`%s\`" "${EDITED_BLOGS[@]}" | cut -c2-)
+            echo "message=Multiple changes detected:\n\nNew blogs: ${NEW_BLOGS_STR}\n\nEdits in: ${EDITED_BLOGS_STR}" >> $GITHUB_OUTPUT
+            echo "slugs=${NEW_BLOGS[*]}" >> $GITHUB_OUTPUT
+          elif [ ${#NEW_BLOGS[@]} -gt 0 ]; then
+            NEW_BLOGS_STR=$(printf ",\`%s\`" "${NEW_BLOGS[@]}" | cut -c2-)
+            echo "message=New blogs detected: ${NEW_BLOGS_STR}" >> $GITHUB_OUTPUT
+            echo "slugs=${NEW_BLOGS[*]}" >> $GITHUB_OUTPUT
+          elif [ ${#EDITED_BLOGS[@]} -gt 0 ]; then
+            EDITED_BLOGS_STR=$(printf ",\`%s\`" "${EDITED_BLOGS[@]}" | cut -c2-)
+            echo "message=Edits in existing blogs detected: ${EDITED_BLOGS_STR}" >> $GITHUB_OUTPUT
+            echo "slugs=${EDITED_BLOGS[*]}" >> $GITHUB_OUTPUT
           else
             echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
           fi
@@ -70,12 +90,13 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.issue.number,
             });
-
+            
+            // Delete all comments from the bot that contain "Preview Blog"
             const previewComments = comments.filter(comment => 
-              comment.body.includes('Preview Blog') && 
-              comment.user.login === 'github-actions[bot]'
+              comment.user.login === 'github-actions[bot]' && 
+              comment.body.includes('Preview Blog')
             );
-
+            
             for (const comment of previewComments) {
               await github.rest.issues.deleteComment({
                 owner: context.repo.owner,
@@ -90,28 +111,33 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const message = '${{ steps.find-slug.outputs.message }}';
-            const slug = '${{ steps.find-slug.outputs.slug }}';
+            const slugs = '${{ steps.find-slug.outputs.slugs }}'.split(' ');
             const branch = context.payload.pull_request.head.ref;
             const owner = context.payload.pull_request.head.repo.owner.login;
             const repo = context.payload.pull_request.head.repo.name;
-
+            
             const blogListUrl = `https://www.binapani.com/draft/blog?preview=${branch}&owner=${owner}&repo=${repo}`;
-            const blogContentUrl = slug ? `https://www.binapani.com/draft/blog/${slug}?preview=${branch}&owner=${owner}&repo=${repo}` : '';
-
+            
             let body = `## 👀 Preview Blog\n\n${message}\n\n`;
-
-            if (!slug) {
+            
+            if (!slugs[0]) {
               body += `🔍 Please check the [guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog.\n\n`;
             } else {
               body += `## 🔍 Preview Links\n\n`;
               body += `📚 [Blog List Preview](${blogListUrl}) - your blog card in the list of all blogs\n`;
-              body += `📝 [Blog Content Preview](${blogContentUrl}) - your main blog content\n\n`;
+              
+              // Create content preview links for each blog
+              const contentLinks = slugs.map(slug => 
+                `[${slug}](${`https://www.binapani.com/draft/blog/${slug}?preview=${branch}&owner=${owner}&repo=${repo}`})`
+              ).join(', ');
+              
+              body += `📝 Blog Content Preview: ${contentLinks}\n\n`;
               body += `These links will be updated automatically when you push new changes.\n\n`;
             }
-
+            
             body += ` ---\n\n`;
             body += `Useful Links | [Binapani Blog](https://www.binapani.com/blog) | [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)`;
-
+            
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
