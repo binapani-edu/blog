@@ -86,16 +86,16 @@ jobs:
           
           # Determine message based on changes
           if [ ${#NEW_SLUGS[@]} -gt 0 ] && [ ${#EDITED_SLUGS[@]} -gt 0 ]; then
-            echo "message=Multiple changes detected:\n\nNew blogs: ${NEW_SLUGS_STR}\n\nEdits in: ${EDITED_SLUGS_STR}" >> $GITHUB_OUTPUT
+            echo "message=👀 Multiple changes detected:\n\n🟢 New blogs: ${NEW_SLUGS_STR}\n🟠 Edits in: ${EDITED_SLUGS_STR}" >> $GITHUB_OUTPUT
             echo "has_changes=true" >> $GITHUB_OUTPUT
           elif [ ${#NEW_SLUGS[@]} -gt 0 ]; then
-            echo "message=New blogs detected: ${NEW_SLUGS_STR}" >> $GITHUB_OUTPUT
+            echo "message=🟢 New blogs detected: ${NEW_SLUGS_STR}" >> $GITHUB_OUTPUT
             echo "has_changes=true" >> $GITHUB_OUTPUT
           elif [ ${#EDITED_SLUGS[@]} -gt 0 ]; then
-            echo "message=Edits in existing blogs detected: ${EDITED_SLUGS_STR}" >> $GITHUB_OUTPUT
+            echo "message=🟠 Edits in existing blogs detected: ${EDITED_SLUGS_STR}" >> $GITHUB_OUTPUT
             echo "has_changes=true" >> $GITHUB_OUTPUT
           else
-            echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
+            echo "message=⚪ No blog content changes detected!" >> $GITHUB_OUTPUT
             echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
@@ -135,12 +135,12 @@ jobs:
             const owner = context.payload.pull_request.head.repo.owner.login;
             const repo = context.payload.pull_request.head.repo.name;
             
-            let body = `## 👀 Preview Blog\n\n${message}\n\n`;
+            let body = `## Preview Blog\n\n${message}\n\n`;
             
             if (hasChanges) {
               const blogListUrl = `https://www.binapani.com/draft/blog?preview=${branch}&owner=${owner}&repo=${repo}`;
-              body += `## 🔍 Preview Links\n\n`;
-              body += `📚 [Blog List Preview](${blogListUrl}) - your blog card in the list of all blogs\n`;
+              body += `## Preview Links\n\n`;
+              body += `📚 See your blog listings: [Blog List Preview](${blogListUrl})\n`;
               
               // Create content preview links for each blog
               let slugs = [];
@@ -160,7 +160,7 @@ jobs:
                   `[${slug}](${`https://www.binapani.com/draft/blog/${slug}?preview=${branch}&owner=${owner}&repo=${repo}`})`
                 ).join(', ');
                 
-                body += `📝 Blog Content Preview: ${contentLinks}\n\n`;
+                body += `📝 See your blog content: ${contentLinks}\n\n`;
               }
               
               body += `These links will be updated automatically when you push new changes.\n\n`;
@@ -168,8 +168,9 @@ jobs:
               body += `🔍 Please check the [guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog.\n\n`;
             }
             
-            body += ` ---\n\n`;
-            body += `Useful Links | [Binapani Blog](https://www.binapani.com/blog) | [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)`;
+            body += `## Useful Links\n\n`;
+            body += `- Published Blogs: [Binapani Blog](https://www.binapani.com/blog)\n`;
+            body += `- Review Drafts: [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)\n`;
             
             await github.rest.issues.createComment({
               owner: context.repo.owner,
