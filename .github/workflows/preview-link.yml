@@ -14,19 +14,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch all history for proper diff
+          fetch-depth: 0
 
       - name: Find blog slug
         id: find-slug
         run: |
           # Get changed files, handle potential errors
           CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} 2>/dev/null || echo "")
-          
+
           if [ -z "$CHANGED_FILES" ]; then
-            echo "message=No blog content changes detected. Please check the [contribution guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog." >> $GITHUB_OUTPUT
+            echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
             exit 0
           fi
-          
+
           # Look for new blog folders or changes in _blog.yml
           if echo "$CHANGED_FILES" | grep -q "^blogs/.*/content.md$"; then
             # Extract folder name from changed content.md
@@ -35,12 +35,12 @@ jobs:
               echo "slug=$SLUG" >> $GITHUB_OUTPUT
               # Check if this is a new blog or edit
               if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$SLUG/"; then
-                echo "message=Changes detected in blog: \`$SLUG\`. You can preview your edits below." >> $GITHUB_OUTPUT
+                echo "message=Edits in existing blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
               else
-                echo "message=New blog detected: \`$SLUG\`. You can preview your blog below." >> $GITHUB_OUTPUT
+                echo "message=New blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
               fi
             else
-              echo "message=No blog content changes detected. Please check the [contribution guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog." >> $GITHUB_OUTPUT
+              echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
             fi
           elif echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
             # If _blog.yml changed, get the last added/modified blog slug
@@ -49,15 +49,15 @@ jobs:
               echo "slug=$SLUG" >> $GITHUB_OUTPUT
               # Check if this is a new blog or edit
               if git ls-tree -r --name-only ${{ github.event.pull_request.base.sha }} | grep -q "^blogs/$SLUG/"; then
-                echo "message=Changes detected in blog: \`$SLUG\`. You can preview your edits below." >> $GITHUB_OUTPUT
+                echo "message=Edits in existing blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
               else
-                echo "message=New blog detected: \`$SLUG\`. You can preview your blog below." >> $GITHUB_OUTPUT
+                echo "message=New blog detected: \`$SLUG\`" >> $GITHUB_OUTPUT
               fi
             else
-              echo "message=No blog content changes detected. Please check the [contribution guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog." >> $GITHUB_OUTPUT
+              echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
             fi
           else
-            echo "message=No blog content changes detected. Please check the [contribution guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog." >> $GITHUB_OUTPUT
+            echo "message=No blog content changes detected!" >> $GITHUB_OUTPUT
           fi
 
       - name: Delete old preview comments
@@ -70,12 +70,12 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.issue.number,
             });
-            
+
             const previewComments = comments.filter(comment => 
               comment.body.includes('Preview Blog') && 
               comment.user.login === 'github-actions[bot]'
             );
-            
+
             for (const comment of previewComments) {
               await github.rest.issues.deleteComment({
                 owner: context.repo.owner,
@@ -94,26 +94,27 @@ jobs:
             const branch = context.payload.pull_request.head.ref;
             const owner = context.payload.pull_request.head.repo.owner.login;
             const repo = context.payload.pull_request.head.repo.name;
-            
-            const draftBaseUrl = 'https://www.binapani.com/draft/blog';
-            const blogListUrl = `${draftBaseUrl}?preview=${branch}&owner=${owner}&repo=${repo}`;
-            const blogContentUrl = slug ? `${draftBaseUrl}/${slug}?preview=${branch}&owner=${owner}&repo=${repo}` : '';
-            
-            let body = `## Preview Blog\n\n${message}\n\n`;
-            
+
+            const blogListUrl = `https://www.binapani.com/draft/blog?preview=${branch}&owner=${owner}&repo=${repo}`;
+            const blogContentUrl = slug ? `https://www.binapani.com/draft/blog/${slug}?preview=${branch}&owner=${owner}&repo=${repo}` : '';
+
+            let body = `## 👀 Preview Blog\n\n${message}\n\n`;
+
             if (!slug) {
-              body += `Visit [Binapani Blog Preview](${draftBaseUrl}) to see how your changes will look like.`;
+              body += `🔍 Please check the [guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog.\n\n`;
             } else {
-              body += `### Preview Links\n\n`;
-              body += `- [Binapani Blog Preview](${draftBaseUrl}) - See how your changes will look like\n`;
-              body += `- [Blog List Preview](${blogListUrl}) - Preview your blog in the list\n`;
-              body += `- [Blog Content Preview](${blogContentUrl}) - Preview your blog content\n\n`;
-              body += `These links will be updated automatically when you push new changes.`;
+              body += `## 🔍 Preview Links\n\n`;
+              body += `📚 [Blog List Preview](${blogListUrl}) - your blog card in the list of all blogs\n`;
+              body += `📝 [Blog Content Preview](${blogContentUrl}) - your main blog content\n\n`;
+              body += `These links will be updated automatically when you push new changes.\n\n`;
             }
-            
+
+            body += ` ---\n\n`;
+            body += `Useful Links | [Binapani Blog](https://www.binapani.com/blog) | [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)`;
+
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
               body: body
-            }); 
+            });
