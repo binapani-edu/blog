@@ -29,3 +29,21 @@
     - article
     - history
     - social media
+
+- slug: gurukul-to-gclassroom
+  title: "From Gurukuls to Google Classrooms: Tracing India's Educational Journey"
+  thumbnail: /blogs/gurukul-to-gclassroom/assets/thumbnail.jpg
+  description: "A journey through India's educational history, from ancient Gurukuls to modern Google Classrooms, exploring the evolution of learning and its impact on society."
+  authors:
+    - name: Sumedha Bhaduri
+      profile: https://github.com/sume98
+      avatar: https://avatars.githubusercontent.com/u/52962291?v=4
+    - name: Atanu Sarkar
+      profile: https://github.com/mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/34891206?v=4
+  created: May 10, 2025
+  updated: May 11, 2025
+  tags:
+    - article
+    - history
+    - education
