@@ -1,0 +1,80 @@
+name: Blog Preview Link Commenter
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  comment-preview:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find blog slug
+        id: find-slug
+        run: |
+          # Get changed files
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+          
+          # Look for new blog folders or changes in _blog.yml
+          if echo "$CHANGED_FILES" | grep -q "^blogs/.*/content.md$"; then
+            # Extract folder name from changed content.md
+            SLUG=$(echo "$CHANGED_FILES" | grep "^blogs/.*/content.md$" | head -n 1 | cut -d'/' -f2)
+            echo "slug=$SLUG" >> $GITHUB_OUTPUT
+          elif echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
+            # If _blog.yml changed, get the last added/modified blog slug
+            SLUG=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} _blog.yml | grep -A 5 "slug:" | grep "slug:" | tail -n 1 | cut -d'"' -f2)
+            echo "slug=$SLUG" >> $GITHUB_OUTPUT
+          else
+            echo "No blog content changes found"
+            exit 0
+          fi
+
+      - name: Delete old preview comments
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            const previewComments = comments.filter(comment => 
+              comment.body.includes('Blog Preview Link') && 
+              comment.user.login === 'github-actions[bot]'
+            );
+            
+            for (const comment of previewComments) {
+              await github.rest.issues.deleteComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: comment.id,
+              });
+            }
+
+      - name: Comment preview link
+        uses: actions/github-script@v7
+        if: steps.find-slug.outputs.slug != ''
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const baseUrl = 'https://binapani.com/draft/blog';
+            const branch = context.payload.pull_request.head.ref;
+            const owner = context.payload.pull_request.head.repo.owner.login;
+            const repo = context.payload.pull_request.head.repo.name;
+            const slug = '${{ steps.find-slug.outputs.slug }}';
+            
+            const previewUrl = `${baseUrl}/${slug}?preview=${branch}&owner=${owner}&repo=${repo}`;
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `## Blog Preview Link\n\nYou can preview your blog post here:\n\n${previewUrl}\n\nThis link will be updated automatically when you push new changes.`
+            }); 
