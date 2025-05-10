@@ -1,0 +1,180 @@
+name: Blog Preview Link
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  comment-preview:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install yq
+        run: |
+          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+
+      - name: Detect blog changes
+        id: detect-changes
+        run: |
+          # Get list of slugs from main branch _blog.yml
+          git show ${{ github.event.pull_request.base.sha }}:_blog.yml > main_blog.yml 2>/dev/null || echo "[]" > main_blog.yml
+          
+          # Extract all slugs from main branch using yq
+          MAIN_SLUGS=$(yq e '.[].slug' main_blog.yml | sort) || MAIN_SLUGS=""
+          
+          # Extract all slugs from current _blog.yml
+          CURRENT_SLUGS=$(yq e '.[].slug' _blog.yml | sort) || CURRENT_SLUGS=""
+          
+          # Find new slugs (those in current but not in main)
+          NEW_SLUGS=()
+          for slug in $CURRENT_SLUGS; do
+            if ! echo "$MAIN_SLUGS" | grep -q "^$slug$"; then
+              NEW_SLUGS+=("$slug")
+            fi
+          done
+          
+          # Check for content changes in existing blogs
+          EDITED_SLUGS=()
+          
+          # Get changed files
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+          
+          # For each slug in current but not new, check if it was edited
+          for slug in $CURRENT_SLUGS; do
+            # Skip if it's a new slug
+            if [[ " ${NEW_SLUGS[@]} " =~ " ${slug} " ]]; then
+              continue
+            fi
+            
+            # Check if blog files were changed
+            if echo "$CHANGED_FILES" | grep -q "^blogs/$slug/"; then
+              EDITED_SLUGS+=("$slug")
+              continue
+            fi
+            
+            # Check if this slug's entry in _blog.yml was modified
+            if echo "$CHANGED_FILES" | grep -q "^_blog.yml$"; then
+              # Get the yaml block for this slug from both versions
+              MAIN_ENTRY=$(git show ${{ github.event.pull_request.base.sha }}:_blog.yml | yq e ".[] | select(.slug == \"$slug\")" - 2>/dev/null) || MAIN_ENTRY=""
+              CURRENT_ENTRY=$(yq e ".[] | select(.slug == \"$slug\")" _blog.yml 2>/dev/null) || CURRENT_ENTRY=""
+              
+              # If they differ, mark as edited
+              if [ "$MAIN_ENTRY" != "$CURRENT_ENTRY" ]; then
+                EDITED_SLUGS+=("$slug")
+              fi
+            fi
+          done
+          
+          # Format slugs for output
+          if [ ${#NEW_SLUGS[@]} -gt 0 ]; then
+            NEW_SLUGS_STR=$(printf ",\`%s\`" "${NEW_SLUGS[@]}" | cut -c2-)
+            echo "new_slugs=${NEW_SLUGS[*]}" >> $GITHUB_OUTPUT
+          fi
+          
+          if [ ${#EDITED_SLUGS[@]} -gt 0 ]; then
+            EDITED_SLUGS_STR=$(printf ",\`%s\`" "${EDITED_SLUGS[@]}" | cut -c2-)
+            echo "edited_slugs=${EDITED_SLUGS[*]}" >> $GITHUB_OUTPUT
+          fi
+          
+          # Determine message based on changes
+          if [ ${#NEW_SLUGS[@]} -gt 0 ] && [ ${#EDITED_SLUGS[@]} -gt 0 ]; then
+            echo "message=👀 Multiple changes detected:\n\n🟢 New blogs: ${NEW_SLUGS_STR}\n🟠 Edits in: ${EDITED_SLUGS_STR}" >> $GITHUB_OUTPUT
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          elif [ ${#NEW_SLUGS[@]} -gt 0 ]; then
+            echo "message=🟢 New blogs detected: ${NEW_SLUGS_STR}" >> $GITHUB_OUTPUT
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          elif [ ${#EDITED_SLUGS[@]} -gt 0 ]; then
+            echo "message=🟠 Edits in existing blogs detected: ${EDITED_SLUGS_STR}" >> $GITHUB_OUTPUT
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "message=⚪ No blog content changes detected!" >> $GITHUB_OUTPUT
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Delete old preview comments
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            // Delete all comments from the bot that contain "Preview Blog"
+            const previewComments = comments.filter(comment => 
+              comment.user.login === 'github-actions[bot]' && 
+              comment.body.includes('Preview Blog')
+            );
+            
+            for (const comment of previewComments) {
+              await github.rest.issues.deleteComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: comment.id,
+              });
+            }
+
+      - name: Comment preview link
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const message = '${{ steps.detect-changes.outputs.message }}';
+            const hasChanges = '${{ steps.detect-changes.outputs.has_changes }}' === 'true';
+            const branch = context.payload.pull_request.head.ref;
+            const owner = context.payload.pull_request.head.repo.owner.login;
+            const repo = context.payload.pull_request.head.repo.name;
+            
+            let body = `## Preview Blog\n\n${message}\n\n`;
+            
+            if (hasChanges) {
+              const blogListUrl = `https://www.binapani.com/draft/blog?preview=${branch}&owner=${owner}&repo=${repo}`;
+              body += `## Preview Links\n\n`;
+              body += `📚 See your blog listings: [Blog List Preview](${blogListUrl})\n`;
+              
+              // Create content preview links for each blog
+              let slugs = [];
+              
+              const newSlugs = '${{ steps.detect-changes.outputs.new_slugs }}'.trim();
+              if (newSlugs) {
+                slugs = slugs.concat(newSlugs.split(' '));
+              }
+              
+              const editedSlugs = '${{ steps.detect-changes.outputs.edited_slugs }}'.trim();
+              if (editedSlugs && !newSlugs) {
+                slugs = slugs.concat(editedSlugs.split(' '));
+              }
+              
+              if (slugs.length > 0) {
+                const contentLinks = slugs.map(slug => 
+                  `[${slug}](${`https://www.binapani.com/draft/blog/${slug}?preview=${branch}&owner=${owner}&repo=${repo}`})`
+                ).join(', ');
+                
+                body += `📝 See your blog content: ${contentLinks}\n\n`;
+              }
+              
+              body += `These links will be updated automatically when you push new changes.\n\n`;
+            } else {
+              body += `🔍 Please check the [guidelines](https://github.com/binapani-edu/blog/blob/main/README.md) for instructions on how to add your blog.\n\n`;
+            }
+            
+            body += `## Useful Links\n\n`;
+            body += `- Published Blogs: [Binapani Blog](https://www.binapani.com/blog)\n`;
+            body += `- Review Drafts: [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)\n`;
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: body
+            });
