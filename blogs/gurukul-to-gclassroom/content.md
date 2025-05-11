@@ -144,6 +144,13 @@ The **Indian Institute of Science (IISc)** was established in 1909 in Bangalore,
 
 Just before independence, **Homi J. Bhabha** established the **Tata Institute of Fundamental Research (TIFR)** in 1945, India's first dedicated nuclear research center. This institution would later become pivotal in shaping India's atomic energy program.
 
+Other crucial pre-independence research institutions that formed India's scientific backbone include:
+
+- **Indian Agricultural Research Institute (IARI)** established in 1905 as the Imperial Agricultural Research Institute in Pusa (Bihar), which later became the cornerstone of India's Green Revolution
+- **Indian Council of Medical Research (ICMR)** founded in 1911 as the Indian Research Fund Association, would later play a vital role in India's health research
+- **Indian Statistical Institute (ISI)** established in 1931 by P.C. Mahalanobis to apply statistics to economic planning, which designed India's Second Five-Year Plan model
+- **Council of Scientific & Industrial Research (CSIR)** founded in 1942 during WWII to solve industrial challenges, which later established a network of national laboratories across India
+
 ### Post-Independence Scientific Evolution
 
 After independence, these scientific institutions expanded rapidly under visionary leadership:
@@ -162,9 +169,12 @@ These institutions created a unique model of "Science for Society," focusing on 
 
 After gaining independence in 1947, India faced the monumental task of rebuilding and reshaping every aspect of society—including its education system. The vision was clear: **create an education system that would empower the masses, foster scientific temper, and reflect the diversity and values of a newly independent nation.**
 
-### 💡 Education Commissions and Early Policies
+### 💡 Education Commissions and Regulatory Bodies
 
 - **Radhakrishnan Commission (1948-49)**: Focused on university education and suggested reforms to improve higher education quality
+- **University Grants Commission (UGC) (1956)**: Standardized university education and funded institutions across the country
+- **All India Council for Technical Education (AICTE) (1945/1987)**: Regulates technical institutions and introduced accreditation systems
+- **National Council for Educational Research and Training (NCERT) (1961)**: Unified state curricula and published textbooks used by millions of students
 - **Kothari Commission (1964-66)**: Proposed the "10+2+3" education structure still used today and emphasized science education
 - **National Policy on Education 1968**: India's first education policy, it addressed equal educational opportunities, especially for women and rural areas
 - **National Policy on Education 1986 (revised 1992)**: Emphasized removing disparities and modernizing educational practices before NEP 2020
@@ -172,6 +182,10 @@ After gaining independence in 1947, India faced the monumental task of rebuildin
 ### Adult Literacy Initiatives
 
 To address India's literacy challenges, the government launched the **National Adult Education Program (1978)** and later the **National Literacy Mission (1988)**, aiming to make 80 million adults literate, especially focusing on women's literacy.
+
+### Medical Education Revolution
+
+The establishment of **All India Institute of Medical Sciences (AIIMS) Delhi in 1956** transformed medical education in India, introducing merit-based admission and integrating research with medical training. This model would later be replicated across the country with multiple AIIMS institutions.
 
 ### 💡 Major Developments:
 
@@ -182,6 +196,14 @@ To address India's literacy challenges, the government launched the **National A
 The concept of premere institutes for studying management and technology was introduced in 1961, beginning with **IIM Ahmedabad** co-founded by Vikram Sarabhai and Kasturbhai Lalbhai, blending Indian ethos with Harvard pedagogy.
 
 These institutions like **IISc**, **IISER**, **TIFR**, **IITs**, **NITs**, **IIITs**, **IIMs**, **AIIMS** and many more were slowly set up which provided *world-class education in engineering, management, technology, medicine, and many more.* They became the benchmark of excellence and *helped build India's reputation on the global academic stage.*
+
+### Literacy Movements and Universal Access
+
+To address India's literacy challenges, the government launched major initiatives:
+
+- **National Literacy Mission (1988)**: Aimed to make 80 million adults literate, raising India's literacy rate from 52% (1991) to 77% (2023)
+- **Sarva Shiksha Abhiyan (2001)**: Achieved 98% rural primary school access by 2018
+- **Right to Education Act (2009)**: Ensured education became a fundamental right for all children, introducing 25% reservation in private schools for disadvantaged groups
 
 ### Technological Self-Reliance
 
@@ -202,6 +224,15 @@ The **National Education Policy (NEP) 2020** marked a major shift in how educati
 > ***Time Period: 2000 CE to present***
 
 In recent years, education in India has seen a massive shift, **from the traditional blackboards in classrooms to the broadband-powered learning** we now experience. With the **rise of private schools,** the growing culture of coaching classes, and the boom of EdTech, *learning is no longer confined to just textbooks and chalk.*
+
+### India's Digital Education Ecosystem
+
+Before the pandemic accelerated digitization, India had already begun building its digital education infrastructure:
+
+- **NPTEL (2003)**: IITs and IISc created this pioneering platform offering thousands of engineering and science courses
+- **SWAYAM (2017)**: Government MOOC platform offering courses with credit transfer systems across disciplines
+- **DIKSHA (2017)**: National Teacher Platform supporting learning in multiple Indian languages
+- **National Testing Agency (2017)**: Standardized testing for millions of students applying to higher education
 
 ### The Pandemic Impact:
 
