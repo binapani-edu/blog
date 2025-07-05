@@ -6,11 +6,12 @@
 
 > ***Time Period: Spanning from ancient times to the present day***
 
-**Imagine this:** a calm morning in an ancient forest. Young boys sit cross-legged under a large banyan tree, listening to their guru. No books. No gadgets. Just spoken words, memorised prayers, and quiet discipline. In those Gurukuls, learning wasn't just about lessons, but it was about shaping character, building focus, and connecting deeply with life.
+**Imagine this:** a serene morning in an old forest. Under a big banyan tree, young boys listen to their guru while sitting cross-legged. Not a book. No electronics. Only verbal communication, recited prayers, and silent self-control. Learning in those Gurukuls involved more than just memorizing facts; it also involved developing one's character, sharpening one's focus, and forging a close bond with reality.
 
-Now, **fast forward to today:** A teenager rubs her eyes, wraps herself in a blanket, and logs into Google Classroom. Her teacher greets her from a tiny window on the screen. There are notifications pinging, a patchy Wi-Fi signal, and maybe a sibling making noise in the background. It is far from perfect but it's still learning.
+Let's fast-forward to the present day: A teenager covers herself with a blanket, rubs her eyes, and opens Google Classroom. From a small window on the screen, her teacher welcomes her. The Wi-Fi signal is erratic, notifications are pinging, and there may be a sibling making background noise. It is still learning, but it is far from flawless.
 
-Education in India has always changed with the times. It reflects what the society values, whether it's wisdom, discipline, job skills, or technology. But it also shows what we struggle with access, equality, and connection.
+India's schools have always changed with the times. It shows what people in the society value, like wisdom, discipline, job skills, or technology. But it also shows how hard it is for us to get to things, be equal, and connect with others.
+
 
 **So how did we go from sacred scripts under trees to screens and code in virtual rooms?** In this blog, let's explore that journey, the evolution, resilience, and reform of Indian education. **Because understanding where we came from might just help us see where we are headed.**
 
@@ -18,13 +19,13 @@ Education in India has always changed with the times. It reflects what the socie
 
 > ***Time Period: Indus Valley Civilization (~3300 BCE to 1300 BCE)***
 
-Before the age of Gurukuls, India's earliest civilizations had already developed sophisticated systems of knowledge transfer. **In the ancient cities of Harappa and Mohenjo-daro**, evidence suggests organized education existed around practical skills needed for the thriving urban society.
+Before Gurukuls, India's first civilizations had already come up with advanced ways to share knowledge. Evidence suggests that organized education existed **in the ancient cities of Harappa and Mohenjo-daro** to teach people the practical skills they needed to live in a thriving city.
 
-Children and young adults learned the essentials of **urban planning**, **hydraulic engineering**, and **metallurgy** through direct apprenticeship. **Knowledge was practical** and focused on immediate societal needs. The remarkable uniformity of weights, measures, and even construction techniques across Indus Valley sites suggests systematic training and education.
+Through direct apprenticeship, kids and young adults learned the basics of **urban planning, hydraulic engineering, and metallurgy**. Knowledge was useful and focused on the needs of society at the time. The fact that weights, measures, and even building methods are so similar across Indus Valley sites suggests that people were trained and educated in a systematic way.
 
 This early education wasn't confined to technical skills. **The earliest forms of writing** (the still-undeciphered Indus script) point to a society that valued record-keeping and possibly had specialized scribes who passed their knowledge to the next generation.
 
-These **pre-Vedic knowledge systems laid the foundation** for the more structured educational approaches that would follow in the Vedic period.
+These **systems of knowledge before the Vedic period** set the stage for the more organised ways of teaching that would come later.
 
 ## The Gurukul Way: Learning with Life
 
@@ -36,11 +37,12 @@ Students lived with their teacher, or guru, and followed a life of discipline, s
 
 In these ancient Indian schools, everything was taught through memory and conversation. Students would listen to chants, repeat verses, and slowly build knowledge. *They learned spiritual ideas, stories from the Vedas and epics, life skills like farming or archery, and deep values like truth, respect, and patience.* **Education was seen as a lifelong journey, not just a way to get a job.**
 
-But Gurukuls weren't for everyone. Entry often depended on caste or family status. **Many groups, especially girls and lower castes, were left out of this system.** It's one of the biggest truths we can't ignore.
+
+However, Gurukul was not for everyone. Caste or family status frequently determined admission. **This system excluded many groups, particularly lower castes and girls.** It's one of the biggest truths we cannot deny.
 
 A famous example? **Sage Sandipani's Gurukul, where Lord Krishna and Sudama studied together.** It shows how even divine stories are rooted in the same system of learning we once followed.
 
-**This was India's first classroom**, a world where the mind, body, and spirit were all part of education.
+**This was the first classroom** in India, where education encompassed the mind, body, and spirit.
 
 
 ## From Forests to Halls: India's First Universities
@@ -55,6 +57,8 @@ As time moved on, learning stepped out of the forest and into something bigger, 
 - It was one of the **earliest known residential universities** in the world. 
 - Monks, scholars, and seekers traveled from **China**, **Korea**, **Tibet**, and even further, drawn by India's wisdom and its peaceful way of learning. 
 - The **Chinese monk Xuanzang** studied here and wrote about its grand halls and wise teachers.
+
+Nalanda flourished for almost a thousand years under the support of the Gupta, Pushyabhuti, and Pala dynasties before Muhammad Bakhtiyar Khilji destroyed it in 1200 CE. Its role in bringing Sanskrit texts to East Asia and influencing Mahayana and Vajrayana Buddhism is indicative of its worldwide influence.
 
 Similarly, **Takshashila**, even older university, was known for practical subjects like **politics**, **surgery**, and **economics**. Learning here wasn't about memorizing facts; it was about discussion, debate, and understanding how the world works.
 
@@ -253,7 +257,7 @@ COVID-19 forced schools and colleges to *adapt quickly to online learning.* Sudd
 
 ### EdTech Revolution:
 
-Platforms like **BYJU'S**, **Unacademy**, **Physics Wallah**, and many others began offering *online learning in regional languages, making education more accessible across the country.* **Online learning** brought great flexibility so students could learn from anywhere, at their own pace. It also made education more affordable for some.
+Platforms like **BYJU'S**, **Unacademy**, and many others began offering *online learning in regional languages, making education more accessible across the country.* **Online learning** brought great flexibility so students could learn from anywhere, at their own pace. It also made education more affordable for some.
 
 ### Challenges of Digital Education:
 
