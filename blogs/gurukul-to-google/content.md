@@ -14,7 +14,7 @@ India's schools have always changed with the times. It shows what people in soci
 
 <p align="center">
     <img
-        src="./assets/evolution-of-indian-education-system.png"
+        src="/blogs/gurukul-to-google/assets/evolution-of-indian-education-system.png"
         alt="Evolution of Indian Education System: From Gurukuls, Nalanda, Takshashila, Islamic Madrasas, Colonial British Era, to Post Independence Reforms and NEP 2020"
         height="700"
     >
@@ -245,6 +245,21 @@ This approach, often described as "**Macaulayism**", ingrained order, discipline
 Years after independence, this blueprint still persists. Even today's Indian education system continues to follow the colonial lines, and **excel at producing "corporate-ready" graduates**, skilled at following instructions but often hesitant to challenge established norms. The result is evident: despite India's massive youth population, the country lags significantly in research output and innovation metrics, with relatively few world-class research institutions compared to nations that prioritised intellectual autonomy in their educational models.
 
 ### Indigenous Response and Educational Reform
+
+<p align="center">
+    <img
+        src="https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/21/1d/55/211d5536-ed3d-1e89-66ed-67a3e676c254/df797fa1-0023-4f43-8e36-6bca79b6dbcd_cover_image.jpg/1200x675wz.jpg"
+        alt="Indian Social and Educational Reformers: Biography of Raja Ram Mohan Roy/Biography of Jotiba Phule/Biography of Acharya Vinoba Bhave/Biography of Pt. Madan Mohan Malviya/Biography of Gopal Krishna Gokhale/Biography of Ishwar Chandra Vidyasagar. Visionaries Who Shaped Our Society. By Sanjay Goyal"
+        height="400"
+    >
+    <br>
+    <sup>
+        Indian Social and Educational Reformers - book by Sanjay Goyal | Source: 
+        <a href="https://books.apple.com/gb/book/indian-social-and-educational-reformers-biography/id6443368465" target="_blank">
+            Apple Books
+        </a>
+    </sup>
+</p>
 
 While many embraced British education, others worked to reform it or create alternatives. **Raja Ram Mohan Roy** advocated for Western scientific education while preserving Indian cultural values. **Ishwar Chandra Vidyasagar** reformed Bengali education and worked for women's education. **Jyotirao Phule** fought for access to education for lower castes and women.
 
