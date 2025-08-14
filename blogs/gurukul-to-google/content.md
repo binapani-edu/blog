@@ -12,12 +12,40 @@ Let's fast-forward to the present day: A teenager covers herself with a blanket,
 
 India's schools have always changed with the times. It shows what people in society value, like wisdom, discipline, job skills, or technology. But it also shows how hard it is for us to access opportunities, be equal, and connect with others.
 
+<p align="center">
+    <img
+        src="./assets/evolution-of-indian-education-system.png"
+        alt="Evolution of Indian Education System: From Gurukuls, Nalanda, Takshashila, Islamic Madrasas, Colonial British Era, to Post Independence Reforms and NEP 2020"
+        height="700"
+    >
+    <br>
+    <sup>
+        Indian Education System Timeline
+    </sup>
+</p>
 
-**So how did we go from sacred scripts under trees to screens and code in virtual rooms?** In this article, let's explore the journey, the evolution, resilience, and reform of Indian education. **Because understanding where we came from helps us see where we are headed.**
+**So how did we go from sacred scripts under trees to screens and code in virtual rooms?**
+
+In this article, let's explore the journey, the evolution, resilience, and reform of Indian education. **Because understanding where we came from helps us see where we are headed.**
 
 ## The Roots: Pre-Vedic Learning Systems
 
 > **📅 Period**: ***Indus Valley Civilization (~3300 BCE to 1300 BCE)***
+
+<p align="center">
+    <img
+        src="https://www.worldhistory.org/img/r/p/1500x1500/12856.jpg.webp"
+        alt="Archaeological site of Mohenjo-daro"
+        height="400"
+    >
+    <br>
+    <sup>
+        Mohenjo-daro by Andrzej Nowojewski | Source: 
+        <a href="https://www.worldhistory.org/Indus_Valley_Civilization/" target="_blank">
+            World History Encyclopedia
+        </a>
+    </sup>
+</p>
 
 Before Gurukuls, India's first civilisations had already developed advanced ways to share knowledge. Evidence suggests that a formal education system existed in the **ancient cities of Harappa and Mohenjo-daro** to teach people the practical skills they needed to live in a thriving town.
 
@@ -31,6 +59,21 @@ These **systems of knowledge before the Vedic period** set the stage for the mor
 
 > **📅 Period**: ***Vedic Era (~1500 BCE to 500 BCE)***
 
+<p align="center">
+    <img
+        src="https://vediconcepts.org/wp-content/uploads/2022/05/ancient-gurukul-system-of-education.png"
+        alt="Gurukuls mentioned in Ramayana & Mahabharata"
+        height="400"
+    >
+    <br>
+    <sup>
+        Vedic age gurukul system of education | Source: 
+        <a href="https://vediconcepts.org/gurukul-education-system/" target="_blank">
+            Vediconcepts
+        </a>
+    </sup>
+</p>
+
 Long before classrooms had benches and boards, there were **Gurukuls**. Gurukuls were quiet places where learning happened under the open sky. A Gurukul was usually set in nature, far from cities and distractions.
 
 Students lived with their teacher, or guru, and followed a life of discipline, simplicity, and learning. **It wasn't just about reading or writing; it was about becoming a better human being.**
@@ -40,14 +83,31 @@ In these ancient Indian schools, everything was taught through memory and conver
 
 However, Gurukul was not for everyone. Caste or family status frequently determined admission. **This system excluded many groups, notably lower castes and girls.** It's one of the most significant truths we cannot deny.
 
-A famous example? **Sage Sandipani's Gurukul, where Lord Krishna and Sudama studied together.** It shows how even divine stories are rooted in the same system of learning we once followed.
+### 💡 A famous example?
 
-**This was the first classroom** in India, where education encompassed the mind, body, and spirit.
+- **Sage Sandipani's Gurukul**, where Lord Krishna and Sudama studied together.
+- It shows how even **divine stories** are rooted in the same system of learning we once followed.
+- **This was the first classroom** in India, where education encompassed the mind, body, and spirit.
 
 
 ## From Forests to Halls: India's First Universities
 
 > **📅 Period**: ***Classical Period (~500 BCE to 1200 CE)***
+
+<p align="center">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg"
+        alt="Mesmerizing view of Temple No.- 3 at Archaeological Site of Nalanda Mahavihara, Nalanda (Bihar)."
+        height="400"
+    >
+    <br>
+    <sup>
+        The ruins of Nalanda Mahavihara | Source: 
+        <a href="https://en.wikipedia.org/wiki/Nalanda_mahavihara" target="_blank">
+            Wikipedia
+        </a>
+    </sup>
+</p>
 
 As time moved on, learning stepped out of the forest and into something bigger, **structured universities**. Places like **Nalanda and Takshashila** became centres of deep, organised knowledge. They weren't just schools; they were full-fledged learning cities, with libraries, hostels, lecture halls, and thousands of students.
 
@@ -63,6 +123,21 @@ Nalanda flourished for almost a thousand years under the support of the Gupta, P
 Similarly, **Takshashila**, an even older university, was known for practical subjects like **politics**, **surgery**, and **economics**. Learning here wasn't about memorising facts; it was about discussion, debate, and understanding how the world works.
 
 ### A Network of Ancient Learning Centres
+
+<p align="center">
+    <img
+        src="https://vedictribe.com/wp-content/uploads/2020/10/seven-ancient-universities-of-India.jpg"
+        alt="Seven ancient universities of India: Nalanda, Takshashila, Vikramashila, Valabhi, Pushpagiri, Odantapuri, Somapura, and other Universities."
+        height="400"
+    >
+    <br>
+    <sup>
+        Seven Universities of Ancient India | Source: 
+        <a href="https://vedictribe.com/indian-history/seven-universities-of-ancient-india/" target="_blank">
+            Vedic Tribe
+        </a>
+    </sup>
+</p>
 
 India's ancient education system flourished beyond these two famous centres. **Vikramashila University**, founded in the 8th century by King Dharmapala of the Pala dynasty, became a renowned centre for Tantric Buddhism with more than 1,000 students and 100 teachers.
 
@@ -82,6 +157,21 @@ But the legacy remained. These ancient universities showed the world that India 
 
 > **📅 Period**: ***Medieval Period (~1200 CE to 1700 CE)***
 
+<p align="center">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Razmnama_1599%2C_translation_bureau.jpg"
+        alt="Akbar’s Maktab Khana: Hindu and Muslim scholars discuss the Mahabharat translation. (Razmnama, c. 1599)"
+        height="600"
+    >
+    <br>
+    <sup>
+        Hindu and Muslim scholars discuss the Mahabharat translation | Source: 
+        <a href="https://en.wikipedia.org/wiki/Razmnama" target="_blank">
+            Wikipedia
+        </a>
+    </sup>
+</p>
+
 With the rise of the **Delhi Sultanate** and later **The Mughals**, India's education system entered a new chapter. *The sacred chants and Sanskrit verses made space for Persian poetry, Arabic philosophy, and Islamic theology*. **Learning was still deeply respected then.**
 
 The heart of education shifted to **madrasas**, Islamic schools that taught subjects like **logic**, **law**, **grammar**, **mathematics**, **astronomy**, and **religious studies**. These weren't just **places of worship**, but they were **centres of scholarship and culture**. *Teachers and scholars debated philosophy, wrote beautiful poetry, and translated ancient texts into new languages.*
@@ -92,11 +182,24 @@ Yet, even as **formal madrasas grew**, many village communities continued their 
 
 It was a **period of blend of faith and logic, religion and reason, tradition and change.**
 
-![evolution of indian education system](./assets/evolution-of-indian-education-system.png)
-
 ## The British Blueprint: The Birth of Modern Schools
 
 > **📅 Period**: ***Colonial Era (~1700 CE to 1947 CE)***
+
+<p align="center">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/02/Giovanni_Migliara_-_Confalonieri_e_Pellico_alla_applicazione_del_metodo_Lancaster-Bell_di_mutuo_insegnamento_-_aquarello.jpg"
+        alt="Count Confalonieri and Silvio Pellico attend a demonstration of the Bell–Lancaster method in the Piedmont, Italy (1860s)."
+        height="400"
+    >
+    <br>
+    <sup>
+        A demonstration of the monitorial system | Source: 
+        <a href="https://en.wikipedia.org/wiki/Monitorial_system" target="_blank">
+            Wikipedia
+        </a>
+    </sup>
+</p>
 
 **The British Empire** brought sweeping changes to India, not just in politics and economics, but in education too. *The colonial government saw education as a tool for control—but it also laid the foundations for India's modern schooling system.* This was when **the first formal schools, colleges, and universities began to take shape.**
 
@@ -123,6 +226,21 @@ The British education system wasn't just about introducing new subjects or the E
 > "The British had established their colony in India through the changed education system. When they couldn't enslave India, they decided to do it through psychological slavery."
 
 This approach, often described as "**Macaulayism**", ingrained order, discipline, and deference to authority, while **systematically dismantling** indigenous knowledge systems and the traditional gurukul model that encouraged holistic learning and critical thought. In their place arose a system that prioritised rote learning, rigid examinations, and a structure that rewarded memorisation, compliance, and unquestioning acceptance of Western knowledge - traits antithetical to innovation and research.
+
+<p align="center">
+    <img
+        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzvU3tBzwE4Om-ycKnfTEiqbJ0OhDoHJ2BEgxpuZRqe4VLVk_jzA7FdbpLtkXq7WfnAoSjk31GhDlyNyMj8I2MNPCG7BqYtr4NwlHx45RQ1BjEddaA8UpjXv6K1kdZ3tum3i6XRRz_120-/s0/Examination+Room+-+Calcutta+%28Kolkata%29+December+1970.jpg"
+        alt="Student Examination Room - Calcutta (Kolkata) December 1970, by Photographer: Larry Burrows"
+        height="400"
+    >
+    <br>
+    <sup>
+        Students in Examination Room - Calcutta 1970 | Source: 
+        <a href="https://www.oldindianphotos.in/2009/04/student-examination-room-calcutta.html" target="_blank">
+            Old Indian Photos
+        </a>
+    </sup>
+</p>
 
 Years after independence, this blueprint still persists. Even today's Indian education system continues to follow the colonial lines, and **excel at producing "corporate-ready" graduates**, skilled at following instructions but often hesitant to challenge established norms. The result is evident: despite India's massive youth population, the country lags significantly in research output and innovation metrics, with relatively few world-class research institutions compared to nations that prioritised intellectual autonomy in their educational models.
 
@@ -240,7 +358,7 @@ Before the pandemic accelerated digitisation, India had already begun building i
 
 ### The Pandemic Impact:
 
-COVID-19 forced schools and colleges to *adapt quickly to online learning.* Suddenly, platforms like **Microsoft Teams**, **Google Meet**, **Zoom**, and other video conferencing tools became the new normal and teachers started conducting classes over video calls. Apps like **Google Classroom**, **Telegram** and **WhatsApp** became tools for sharing notes, assignments, and resources. Students and teachers alike had to get used to **virtual classrooms**, and for many, this was a big adjustment.
+COVID-19 forced schools and colleges to *adapt quickly to online learning.* Suddenly, platforms like **Microsoft Teams**, **Google Meet**, **Zoom**, and other video conferencing tools became the new normal, and teachers started conducting classes over video calls. Apps like **Google Classroom**, **Telegram**, and **WhatsApp** became tools for sharing notes, assignments, and resources. Students and teachers alike had to get used to **virtual classrooms**, and for many, this was a big adjustment.
 
 #### 💡 Institutional Adaptations:
 
@@ -299,7 +417,7 @@ We'd love to hear your thoughts. Share how the evolution of education has shaped
 
 ---
 
-### References
+## References
 
 - [Britannica - Gurukul Education](https://www.britannica.com/topic/gurukul) 
 - [NCERT Ancient Indian Education (general reference) UNESCO - Nalanda University](https://whc.unesco.org/en/list/1502/) 
@@ -313,3 +431,5 @@ We'd love to hear your thoughts. Share how the evolution of education has shaped
 - [Britannica - Wood's Dispatch](https://www.britannica.com/event/Woods-Dispatch)
 - [Wikipedia - Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology)
 - [Government of India Ministry of Education (general reference) NEP 2020 Document](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf)
+- [Schools of Empire Project - Colonial Schools in India](https://www.schoolsofempireproject.org/colonialschoolsinindia)
+- [Vedic Tribe - Seven Universities of Ancient India](https://vedictribe.com/indian-history/seven-universities-of-ancient-india/)
