@@ -273,6 +273,21 @@ By the time India gained independence in 1947, *the country's educational landsc
 
 > **📅 Period**: ***Pre-Independence (1900s to 1947) to Post-Independence***
 
+<p align="center">
+    <img
+        src="https://th-i.thgim.com/public/news/cities/bangalore/aiede8/article31881180.ece/alternates/FREE_1200/14BGSCIENCE"
+        alt="Main building of Indian Institute of Science (IISc), Bangalore - India's premier research institution established in 1909"
+        height="400"
+    >
+    <br>
+    <sup>
+        One of the oldest buildings of IISc, Bangalore | Source: 
+        <a href="https://www.thehindu.com/news/cities/bangalore/a-constellation-of-institutions/article31881183.ece" target="_blank">
+            The Hindu
+        </a>
+    </sup>
+</p>
+
 While the colonial education system focused on creating administrators, a parallel movement to establish **indigenous scientific institutions** began in the early 20th century, laying the foundation for India's research ecosystem.
 
 ### Pre-Independence Research Foundations
@@ -290,9 +305,24 @@ Other crucial pre-independence research institutions that formed India's scienti
 
 ### Post-Independence Scientific Evolution
 
+<p align="center">
+    <img
+        src="https://img-cdn.publive.online/filters:format(webp)/english-betterindia/media/post_attachments/uploads/2019/12/Page-28-top.jpg"
+        alt="Dr. Vikram Sarabhai, the father of India’s space program, is with YJ Rao (wearing spectacles), examining the RH-75"
+        height="500"
+    >
+    <br>
+    <sup>
+        YJ Rao shows Vikram Sarabhai the RH-75 | Source: 
+        <a href="https://thebetterindia.com/204852/india-isro-historic-pictures-thumba-mangalyaan-vikram-sarabhai-kalam-pslv/" target="_blank">
+            The Better India
+        </a>
+    </sup>
+</p>
+
 After independence, these scientific institutions expanded rapidly under visionary leadership:
 
-- The **Atomic Energy Establishment** (later renamed **Bhabha Atomic Research Centre**) emerged from TIFR in 1948, with Bhabha's "Three-Stage Nuclear Program" making India self-reliant in atomic energy.
+- The **Atomic Energy Establishment** (later renamed **Bhabha Atomic Research Centre**) emerged from TIFR in 1948, with **Dr. Homi J. Bhabha's** "Three-Stage Nuclear Program"** making India self-reliant in atomic energy.
 
 - **Vikram Sarabhai**, mentored by Bhabha, established **INCOSPAR** (Indian National Committee for Space Research) in 1962, which launched India's space program with the Thumba rocket station in 1963. This later transformed into **ISRO** in 1969, with **Abdul Kalam** on the founding team.
 
@@ -303,6 +333,21 @@ These institutions created a unique model of "Science for Society," focusing on 
 ## New Beginnings: Shaping India's Education System Post-Independence
 
 > **📅 Period**: ***Post-Independence (1947 CE to present)***
+
+<p align="center">
+    <img
+        src="https://international.iitkgp.ac.in/static/website/img/history/1024px-IIT_Kharagpur_Old_Building_1951.jpg"
+        alt="IIT Kharagpur Old Building 1951 - India's first IIT established in 1951, symbolizing post-independence educational excellence"
+        height="400"
+    >
+    <br>
+    <sup>
+        IIT Kharagpur Old Building 1951 | Source: 
+        <a href="https://international.iitkgp.ac.in/history-iitkgp/" target="_blank">
+            IIT Kharagpur
+        </a>
+    </sup>
+</p>
 
 After gaining independence in 1947, India faced the monumental task of rebuilding and reshaping every aspect of society—including its education system. The vision was clear: **create an education system that would empower the masses, foster scientific temper, and reflect the diversity and values of a newly independent nation.**
 
@@ -336,6 +381,21 @@ These institutions like **IISc**, **IISER**, **TIFR**, **IITs**, **NITs**, **III
 
 ### Literacy Movements and Universal Access
 
+<p align="center">
+    <img
+        src="https://www.mapsofindia.com/ci-moi-images/my-india/2013/12/Sarva-Shiksha-Abhiyan.jpg"
+        alt="Sarva Shiksha Abhiyan - Government of India's initiative to make education accessible to all"
+        height="400"
+    >
+    <br>
+    <sup>
+        Rural School Children in India | Source: 
+        <a href="https://www.mapsofindia.com/my-india/government/sarva-shiksha-abhiyan" target="_blank">
+            Map of India
+        </a>
+    </sup>
+</p>
+
 To address India's literacy challenges, the government launched major initiatives:
 
 - **National Literacy Mission (1988)**: Aimed to make 80 million adults literate, raising India's literacy rate from 52% (1991) to 77% (2023)
@@ -359,6 +419,21 @@ The **National Education Policy (NEP) 2020** marked a significant shift in how e
 ## The Digital Shift: From Blackboards to Broadband
 
 > **📅 Period**: ***2000 CE to present***
+
+<p align="center">
+    <img
+        src="https://www.idreameducation.org/wp-content/uploads/2023/11/government-initiatives-for-digital-education-in-india-1024x569.webp"
+        alt="Government initiatives for digital education in India"
+        height="400"
+    >
+    <br>
+    <sup>
+        Digital Education in India | Source: 
+        <a href="https://www.idreameducation.org/blog/digital-education-in-india-the-current-state/" target="_blank">
+            iDream Education
+        </a>
+    </sup>
+</p>
 
 In recent years, education in India has seen a massive shift, **from the traditional blackboards in classrooms to the broadband-powered learning** we now experience. With the **rise of private schools,** the growing culture of coaching classes, and the boom of EdTech, *learning is no longer confined to just textbooks and chalk.*
 
@@ -390,6 +465,21 @@ COVID-19 forced schools and colleges to *adapt quickly to online learning.* Sudd
 
 ### EdTech Revolution:
 
+<p align="center">
+    <img
+        src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9KD0l87rKZv2_qKaXPuHCVm51pD0LnOfnjmc4U-QyoPvbWMXEQEntCpgPA-GT1Otqo_xDSE5nlR6FivnhKIEAMglBqMaf-_sXhxa6tQu3WVf9ZgL1DQzBw1umRn0UuWtw4qY0vA?key=1bIOEXRTjkM20RvZ4nLpmQ"
+        alt="Top EdTech Companies in India That Are Revolutionizing Learning"
+        height="400"
+    >
+    <br>
+    <sup>
+        Top EdTech Companies in India | Source: 
+        <a href="https://www.oasisintschool.net/top-edtech-companies-in-india-that-are-revolutionizing-learning/" target="_blank">
+            Oasis International School
+        </a>
+    </sup>
+</p>
+
 Platforms like **BYJU'S**, **Unacademy**, and many others began offering *online learning in regional languages, making education more accessible across the country.* **Online learning** brought great flexibility so students could learn from anywhere, at their own pace. It also made education more affordable for some.
 
 ### Challenges of Digital Education:
@@ -397,6 +487,21 @@ Platforms like **BYJU'S**, **Unacademy**, and many others began offering *online
 **But the digital shift isn't without its challenges.** Too much screen time leads to screen fatigue. And *while technology opened doors for some, it also created a digital divide, with rural areas and low-income students often unable to access the necessary tools and internet connection.* Still, the shift towards digital education has undoubtedly changed the landscape of learning in India.
 
 ## NEP 2020 and the Future of Education
+
+<p align="center">
+    <img
+        src="https://cdn.prod.website-files.com/620ed79721f9271deec09721/623078feff0ec73c1292369b_HolonIQ-2020-India-and-South-Asia-EdTech-100-1248x720.png"
+        alt="HolonIQ 2020 India and South Asia EdTech 100"
+        height="400"
+    >
+    <br>
+    <sup>
+        Top EdTech Companies and Online Learning Platforms 2020 | Source: 
+        <a href="https://www.holoniq.com/notes/2020-india-south-asia-edtech-100-now" target="_blank">
+            Holon IQ
+        </a>
+    </sup>
+</p>
 
 **In 2020, India introduced the National Education Policy (NEP),** a bold step toward reshaping the education system. *The new policy focuses on holistic learning, meaning it's not just about academic knowledge but also about building life skills, creativity, and emotional intelligence.* **The goal is to create well-rounded individuals, ready for the future.**
 
@@ -409,6 +514,21 @@ Platforms like **BYJU'S**, **Unacademy**, and many others began offering *online
 - **Balanced Approach:** Bringing together **Indian knowledge systems with global education standards**, creating a unique and balanced approach to learning.
 
 ## Bridging Wisdom with Innovation: Conclusion
+
+<p align="center">
+    <img
+        src="https://vedicwaves.wordpress.com/wp-content/uploads/2016/10/download.png"
+        alt="How to Integrate the Ancient Educational System with the Modern Educational System"
+        height="400"
+    >
+    <br>
+    <sup>
+        Modern Indian Classroom - Blending Tradition and Innovation | Source: 
+        <a href="https://vedicwaves.wordpress.com/2016/10/01/how-to-integrate-the-ancient-educational-system-with-the-modern-educational-system/" target="_blank">
+            Blog by Dr. Raj Kumar, INADS
+        </a>
+    </sup>
+</p>
 
 When we look at the journey of education in India, it's amazing to see how it has come full circle. From the ancient wisdom shared under banyan trees in the gurukuls to the modern digital classrooms powered by technology, the essence of learning has always remained the same. At its heart, **education in India has always been about growth, understanding, and building character.**
 
