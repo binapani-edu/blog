@@ -383,15 +383,15 @@ These institutions like **IISc**, **IISER**, **TIFR**, **IITs**, **NITs**, **III
 
 <p align="center">
     <img
-        src="https://www.mapsofindia.com/ci-moi-images/my-india/2013/12/Sarva-Shiksha-Abhiyan.jpg"
-        alt="Sarva Shiksha Abhiyan - Government of India's initiative to make education accessible to all"
+        src="https://www.millenniumpost.in/h-upload/2023/10/16/737644-school-2986811280.webp"
+        alt="Survey on state education achievement starts on Nov 3"
         height="400"
     >
     <br>
     <sup>
         Rural School Children in India | Source: 
         <a href="https://www.mapsofindia.com/my-india/government/sarva-shiksha-abhiyan" target="_blank">
-            Map of India
+            millenniumpost
         </a>
     </sup>
 </p>
