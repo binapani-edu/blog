@@ -554,17 +554,152 @@ We'd love to hear your thoughts. Share how the evolution of education has shaped
 
 ## References
 
-- [Britannica - Gurukul Education](https://www.britannica.com/topic/gurukul) 
-- [NCERT Ancient Indian Education (general reference) UNESCO - Nalanda University](https://whc.unesco.org/en/list/1502/) 
-- [Wikipedia - Nalanda](https://en.wikipedia.org/wiki/Nalanda)
-- [Wikipedia - Takshashila](https://en.wikipedia.org/wiki/Takshashila)
-- [Britannica - Madrasa](https://www.britannica.com/topic/madrasa)
-- [Cambridge Journal - Madrasas in Indian History](https://www.cambridge.org/core/journals/modern-asian-studies/article/madrasas-in-indian-history/)
-- [Darul Uloom Deoband History](https://www.darululoom-deoband.com/)
-- [Vajiram & Ravi - British Education System in India](https://vajiramandravi.com/quest-upsc-notes/british-education-system-in-india/)
-- [Wikipedia - University of Calcutta History](https://en.wikipedia.org/wiki/History_of_the_University_of_Calcutta)
-- [Britannica - Wood's Dispatch](https://www.britannica.com/event/Woods-Dispatch)
-- [Wikipedia - Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology)
-- [Government of India Ministry of Education (general reference) NEP 2020 Document](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf)
-- [Schools of Empire Project - Colonial Schools in India](https://www.schoolsofempireproject.org/colonialschoolsinindia)
-- [Vedic Tribe - Seven Universities of Ancient India](https://vedictribe.com/indian-history/seven-universities-of-ancient-india/)
+<details>
+<summary>click to expand and see all citations, references and further reading materials</summary>
+
+### Pre-Vedic and Indus Valley Civilization
+
+1. [Mohenjo-daro History, Facts & Location - Study.com](https://study.com/academy/lesson/mohenjo-daro-facts-civilization-religion.html)
+2. [Indus Valley Civilisation - Wikipedia](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)
+3. [Indus civilization | History, Location, Map, Artifacts - Britannica](https://www.britannica.com/topic/Indus-civilization)
+4. [SATHEE - Educational Contributions of Punjab](https://sathee.iitk.ac.in/outreach/punjab/punjab-contribution/)
+5. [Archaeological Ruins at Moenjodaro - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/138/)
+
+### Vedic Era and Gurukul System
+
+6. [The Gurukul System: Ancient Pedagogical Practices and Contemporary Relevance - IJFMR](https://www.ijfmr.com/papers/2024/6/32743.pdf)
+7. [Sandipani - Wikipedia](https://en.wikipedia.org/wiki/Sandipani)
+8. [The Gurukul System - Vediconcepts](https://vediconcepts.org/gurukul-education-system/)
+9. [Kul | Joint Family, Lineage & Heredity | Britannica](https://www.britannica.com/topic/kul-Indian-family-unit)
+10. [Gurukul System & SDG4 - JETIR Journal (2025)](https://www.jetir.org/papers/JETIR2507365.pdf)
+11. [Britannica - Gurukul Education](https://www.britannica.com/topic/gurukul)
+
+### Classical Period - Ancient Universities (Nalanda, Takshashila, and Other Mahaviharas)
+
+12. [Nalanda mahavihara - Wikipedia](https://en.wikipedia.org/wiki/Nalanda_mahavihara)
+13. [Wikipedia - Nalanda](https://en.wikipedia.org/wiki/Nalanda)
+14. [Nalanda | History & Facts - Britannica](https://www.britannica.com/topic/Nalanda)
+15. [Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1502/)
+16. [Xuanzang (Hsüan-tsang) (602—664) - Internet Encyclopedia of Philosophy](https://iep.utm.edu/xuanzang/)
+17. [Xuanzang - Wikipedia](https://en.wikipedia.org/wiki/Xuanzang)
+18. [Xuanzang: The Monk who Brought Buddhism East - Asia Society](https://asiasociety.org/xuanzang-monk-who-brought-buddhism-east)
+19. [Nalanda ancient university India global scholars - India Today](https://www.indiatoday.in/education-today/gk-current-affairs/story/nalanda-ancient-university-india-global-scholars-64-subjects-2809603-2025-10-29)
+20. [Takshashila University History - Taksha Institute](https://taksha.org/about/history/)
+21. [Taxila University - Wikipedia](https://en.wikipedia.org/wiki/Taxila)
+22. [Wikipedia - Takshashila](https://en.wikipedia.org/wiki/Takshashila)
+23. [Taxila University, History, Founder, Features - Vajiram & Ravi](https://vajiramandravi.com/upsc-exam/taxila-university/)
+24. [Vikramashila - Wikipedia](https://en.wikipedia.org/wiki/Vikramashila)
+25. [Vikramashila University - Vajiram & Ravi](https://vajiramandravi.com/current-affairs/vikramshila-university/)
+26. [Vikramshila: An International University of the Past - Social Research Foundation](http://www.socialresearchfoundation.com/upoadreserchpapers/5/270/1909241040411st%20har%20kishun.pdf)
+27. [The Odantapurī University - Wisdom Library](https://www.wisdomlib.org/history/essay/education-in-ancient-india/d/doc1211425.html)
+28. [Ancient Education Centres of India - UPSC Notes - Lotus Arise](https://lotusarise.com/ancient-education-centres-of-india/)
+29. [Valabhi University - Wikipedia](https://en.wikipedia.org/wiki/Valabhi_University)
+30. [Seven Universities of Ancient India - Vedic Tribe](https://vedictribe.com/indian-history/seven-universities-of-ancient-india/)
+31. [SATHEE - Educational Contributions of Karnataka](https://sathee.iitk.ac.in/outreach/karnataka/karanatka-contribution/)
+32. [Top Five Universities or Mahaviharas in Ancient Eastern India - Mizanur Mizan Blog](https://www.mizanurrmizan.info/2022/07/
+top-five-universities-or-mahaviharas-in_30.html)
+33. [Nalanda University Indeed Vandalised - New Age Islam](https://www.newageislam.com/spiritual-meditations/sumit-paul-new-age-islam/
+nalanda-university-indeed-vandalised-incinerated-marauding-turkish-invaders/d/130681)
+
+### Islamic Education and Madrasa Era
+
+34. [Razmnama - Wikipedia](https://en.wikipedia.org/wiki/Razmnama)
+35. [Madrasa - Wikipedia](https://en.wikipedia.org/wiki/Madrasa)
+36. [Britannica - Madrasa](https://www.britannica.com/topic/madrasa)
+37. [Cambridge Journal - Madrasas in Indian History](https://www.cambridge.org/core/journals/modern-asian-studies/article/madrasas-in-indian-history/)
+38. [Darul Uloom Deoband History](https://www.darululoom-deoband.com/)
+
+### Colonial Era Education
+
+39. [Minute on Indian Education by Thomas Babington Macaulay - BYJUS](https://byjus.com/free-ias-prep/this-day-in-history-feb02/)
+40. [Lord Macaulay's Minute (1835) - UPSC with Nikhil](https://prepp.in/news/e-492-lord-macaulays-minute-1835-modern-india-history-notes)
+41. [Macaulayism - Wikipedia](https://en.wikipedia.org/wiki/Macaulayism)
+42. [Beyond Macaulay: Education in India, 1780–1860 - Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1080/0046760X.2021.1879282)
+43. [Wood's Despatch (1854) Hunter Education Commission - Insights on India](https://www.insightsonindia.com/modern-indian-history/social-policies/education-policies/woods-dispatch-1854-hunter-education-commission-1882-83/)
+44. [Wood's Dispatch - Britannica](https://www.britannica.com/event/Woods-Dispatch)
+45. [Indian Education Commission, 1882 (Hunter Commission) - RTU Assam](https://rtuassam.ac.in/online/staff/classnotes/files/1756967086.pdf)
+46. [Hunter Commission Report – UPSC Modern History Notes - BYJUS](https://byjus.com/free-ias-prep/hunter-commission-report/)
+47. [The Role of Education in Shaping the Indian Middle Class During British Rule - IJELS](https://ijels.com/detail/the-role-of-education-in-shaping-the-indian-middle-class-during-the-british-rule-a-research-review/)
+48. [The Impact of British Colonial Rule on the Indian Education System - IJCIAR](https://ijciar.com/index.php/journal/article/view/188)
+49. [Vajiram & Ravi - British Education System in India](https://vajiramandravi.com/quest-upsc-notes/british-education-system-in-india/)
+50. [University of Calcutta | History, Colleges, & Alumni | Britannica](https://www.britannica.com/topic/University-of-Calcutta)
+51. [Wikipedia - University of Calcutta History](https://en.wikipedia.org/wiki/History_of_the_University_of_Calcutta)
+52. [Schools of Empire Project - Colonial Schools in India](https://www.schoolsofempireproject.org/colonialschoolsinindia)
+
+### Educational Reformers
+
+53. [Raja Ram Mohan Roy - Wikipedia](https://en.wikipedia.org/wiki/Raja_Ram_Mohan_Roy)
+54. [Raja Ram Mohan Roy - Vajiram & Ravi](https://vajiramandravi.com/upsc-exam/raja-ram-mohan-roy/)
+55. [Ishwar Chandra Vidyasagar - IJSDR](https://ijsdr.org/papers/IJSDR2307194.pdf)
+56. [Mahatma Jyotirao Phule (1827-1890) And The Struggle For Dalit Rights - IJFMR](https://www.ijfmr.com/research-paper.php?id=39626)
+57. [Jyotirao Phule's fight for equality: India's first girls' school and beyond - India Today](https://www.indiatoday.in/education-today/gk-current-affairs/story/jyotirao-phules-fight-for-equality-indias-first-girls-school-and-beyond-2641823-2024-11-28)
+
+### Scientific Research Institutions (Pre-Independence)
+
+58. [About IISc History - Indian Institute of Science](https://www.iisc.ac.in/about/general-information/about-heritage/)
+59. [Indian Institute of Science - Wikipedia](https://en.wikipedia.org/wiki/Indian_Institute_of_Science)
+60. [History - Indian Institute of Science](https://iisc.ac.in/history/)
+61. [Homi Bhabha - Master Builder of Nuclear India - Physics Today](https://physicstoday.aip.org/features/homi-bhabha-master-builder-of-nuclear-india)
+62. [TIFR and BARC History - Nuclear Fuel Complex India](https://www.nfc.gov.in/history.html)
+63. [Tata Institute of Fundamental Research - Wikipedia](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research)
+64. [Indian Agricultural Research Institute - Wikipedia](https://en.wikipedia.org/wiki/Indian_Agricultural_Research_Institute)
+65. [Indian Council of Medical Research - Wikipedia](https://en.wikipedia.org/wiki/Indian_Council_of_Medical_Research)
+66. [P.C. Mahalanobis | Biography, Education, & Facts | Britannica](https://www.britannica.com/biography/P-C-Mahalanobis)
+67. [Council of Scientific and Industrial Research - Wikipedia](https://en.wikipedia.org/wiki/Council_of_Scientific_and_Industrial_Research)
+
+### Post-Independence Scientific Evolution
+
+68. [India's Three-Stage Nuclear Power Programme - PMF IAS](https://www.pmfias.com/indias-three-stage-nuclear-power-programme/)
+69. [Bhabha Atomic Research Centre (BARC): About us](https://barc.gov.in/about/)
+70. [Vikram Sarabhai - Father of the Indian Space Program - Vajiram & Ravi](https://vajiramandravi.com/upsc-exam/vikram-sarabhai/)
+71. [Genesis - Indian Space Research Organisation](https://www.isro.gov.in/genesis.html)
+72. [The Rocket Boys who fired up India's space ambitions - India Today](https://www.indiatoday.in/history-of-it/story/rocket-boys-chandryaan-3-homi-bhabha-vikram-sarabhai-apj-abdul-kalam-space-mission-2426625-2023-08-25)
+73. [Defence Research and Development Organisation (DRDO) - ClearIAS](https://www.clearias.com/defence-research-development-organisation-drdo/)
+74. [Integrated Guided Missile Development Programme (IGMDP) - Vajiram & Ravi](https://vajiramandravi.com/upsc-exam/integrated-guided-missile-development-programme/)
+75. [India's Missile Program: Silent Escalation with Global Impact - CSCR](https://cscr.pk/explore/themes/defense-security/indias-missile-program-silent-escalation-with-global-impact/)
+
+### Post-Independence Education System
+
+76. [About IITs - IIT System](https://www.iitsystem.ac.in/about)
+77. [About IITKGP History - IIT Kharagpur](https://www.iitkgp.ac.in/about-iitkgp-history)
+78. [Indian Institutes of Technology - Wikipedia](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology)
+79. [All India Institute of Medical Sciences, New Delhi - Wikipedia](https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_New_Delhi)
+80. [AIIMS Act, 1956: Its Provisions and How It Shaped Medical Education - ZOCTO](https://zocto.in/aiims-act-1956-its-provisions-and-how-it-shaped-medical-education/)
+81. [National Council of Educational Research and Training - Wikipedia](https://en.wikipedia.org/wiki/National_Council_of_Educational_Research_and_Training)
+82. [NCERT Full Form and History - GK Today](https://www.gktoday.in/national-council-of-educational-research-and-training/)
+83. [Kothari Commission (1964-66) - GeeksforGeeks](https://www.geeksforgeeks.org/upsc/kothari-commission/)
+84. [The Kothari Commission: Blueprint for a National System of Education](https://deled.institute/contemporary-indian-society-education/kothari-commission-national-education-system/)
+85. [National Adult Education Programme and Literacy Mission - PIB](https://www.pib.gov.in/newsite/erelcontent.aspx?relid=42161)
+86. [Right of Children to Free and Compulsory Education Act, 2009 - Wikipedia](https://en.wikipedia.org/wiki/Right_of_Children_to_Free_and_Compulsory_Education_Act,_2009)
+87. [The Right to Education Act in India: Success and Challenges - Broken Chalk](https://brokenchalk.org/the-right-to-education-act-in-india-success-and-challenges-in-implementation/)
+88. [Right of Children to Free and Compulsory Education Act, 2009 - Vikaspedia](https://education.vikaspedia.in/viewcontent/education/policies-and-schemes/right-to-education/right-of-children-to-free-and-compulsory-education-act-2009-right-to-education-act?lgn=en)
+89. [The Persistent Challenge of Illiteracy in India: A 75 Year Perspective - IJFMR](https://www.ijfmr.com/papers/2024/4/25768.pdf)
+90. [Journey of Free and Compulsory Elementary Education in India - IJFMR](https://www.ijfmr.com/papers/2022/6/1058.pdf)
+
+### Digital Education and NEP 2020
+
+91. [Implementation Strategies of Higher Education Part of NEP 2020 - Srinivas Publication](https://srinivaspublication.com/wp-content/uploads/2020/12/21.-Strategies-to-Implement-NEP-2020_Fullpaper.pdf)
+92. [Salient Features of National Education Policy (NEP) 2020 - PIB](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1847066)
+93. [A Study on the Salient Features of NEP 2020 with Reference to Science Education - IJFMR](https://www.ijfmr.com/papers/2024/4/26071.pdf)
+94. [Government of India Ministry of Education - NEP 2020 Document](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf)
+95. [DIKSHA and SWAYAM: Powering India's Digital Education Revolution - Campus Reporter](https://campusreporter.in/education/diksha-and-swayam-powering-indias-digital-education-revolution/)
+96. [Role of Government Initiatives In Digital Education In India - Vidyalaya](https://www.vidyalaya.org.in/digital-education-in-india/)
+97. [Swayam – NPTEL Courses](https://onlinecourses.nptel.ac.in/)
+98. [National Programme on Technology Enhanced Learning - Wikipedia](https://en.wikipedia.org/wiki/National_Programme_on_Technology_Enhanced_Learning)
+99. [The only option? Distance learning in North India during the COVID - Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2189734)
+100. [Access denied: Education in rural India during Covid-19 | BERA](https://www.bera.ac.uk/blog/access-denied-education-in-rural-india-during-covid-19)
+
+### Educational Philosophy and Quotes
+
+101. [Rabindranath Tagore's Philosophy on Indian Education - IJARSCT](http://ijarsct.co.in/mayi2.html)
+102. [The Highest Education is That Which - Insights on India](https://www.insightsonindia.com/2025/08/18/the-highest-education-is-that-which-does-not-merely-give-us-information-but-makes-our-life-in-harmony-with-all-existence-rabindranath-tagore/)
+103. [Top 25 Quotes by Rabindranath Tagore - AZ Quotes](https://www.azquotes.com/author/14414-Rabindranath_Tagore)
+104. [The Highest Education Quote - Goodreads](https://www.goodreads.com/quotes/298002-the-highest-education-is-that-which-does-not-merely-give)
+105. [Return to Earth | Lapham's Quarterly](https://www.laphamsquarterly.org/education/return-earth)
+
+### Additional Academic Sources
+
+106. [Changes in Library and Information Science from Ancient Time to Present - IJARSCT](http://ijarsct.co.in/jani1.html)
+107. [Legends of Education in Indian Universities - Vajiram & Ravi](https://vajiramandravi.com/upsc-exam/)
+
+</details>
