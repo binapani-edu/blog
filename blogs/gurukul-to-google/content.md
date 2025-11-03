@@ -1,4 +1,4 @@
-# From Gurukuls to Google Classrooms: Tracing India's Educational Journey
+# Gurukul to Google: India's Education Evolution
 
 **From Trees to Screens:** *A visual journey through India's educational evolution from ancient wisdom to digital learning*
 
