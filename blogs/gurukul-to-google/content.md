@@ -6,11 +6,11 @@
 
 > **📅 Period**: ***spanning from ancient times to the present day***
 
-**Imagine this:** a serene morning in an old forest. Under a big banyan tree, young boys listen to their guru while sitting cross-legged. Not a book. No electronics. Only verbal communication, recited prayers, and silent self-control. Learning in those Gurukuls involved more than just memorising facts; it also involved developing one's character, sharpening one's focus, and forging a close bond with reality.
+**Imagine this:** a serene morning in an old forest. Under a big banyan tree, young boys sit cross-legged, listening to their guru. Not a book. No electronics. Only verbal communication, recited prayers, and silent self-control. Learning in those Gurukuls involved more than just memorising facts; it also involved developing one's character, sharpening one's focus, and forging a close bond with reality.
 
 Let's fast-forward to the present day: A teenager covers herself with a blanket, rubs her eyes, and opens Google Classroom. From a small window on the screen, her teacher welcomes her. The Wi-Fi signal is erratic, notifications are pinging, and there may be a sibling making background noise. It is still learning, but it is far from flawless.
 
-India's schools have always changed with the times. It shows what people in society value, like wisdom, discipline, job skills, or technology. But it also shows how hard it is for us to access opportunities, be equal, and connect with others.
+India's schools have always changed with the times. It reveals what people in society value, such as wisdom, discipline, job skills, or technology. However, it also highlights the challenges we face in accessing opportunities, achieving equality, and connecting with others.
 
 <p align="center">
     <img
@@ -53,7 +53,7 @@ Through direct apprenticeship, kids and young adults learned the basics of **urb
 
 This early education wasn't confined to technical skills. **The earliest forms of writing** (the still-undeciphered Indus script) point to a society that valued record-keeping and possibly had specialised scribes who passed their knowledge to the next generation.
 
-These **systems of knowledge before the Vedic period** set the stage for the more organised ways of teaching that would come later.
+These **systems of knowledge before the Vedic Period** set the stage for the more organised ways of teaching that would come later.
 
 ## The Gurukul Way: Learning with Life
 
@@ -78,7 +78,7 @@ Long before classrooms had benches and boards, there were **Gurukuls**. Gurukuls
 
 Students lived with their teacher, or guru, and followed a life of discipline, simplicity, and learning. **It wasn't just about reading or writing; it was about becoming a better human being.**
 
-In these ancient Indian schools, everything was taught through memory and conversation. Students would listen to chants, repeat verses, and slowly build knowledge. *They learned spiritual ideas, stories from the Vedas and epics, life skills like farming or archery, and deep values like truth, respect, and patience.* **Education was seen as a lifelong journey, not just a way to get a job.**
+In these ancient Indian schools, everything was taught through memory and conversation. Students would listen to chants, repeat the verses, and gradually build their knowledge. *They learned spiritual ideas, stories from the Vedas and epics, life skills like farming or archery, and deep values like truth, respect, and patience.* **Education was seen as a lifelong journey, not just a way to get a job.**
 
 
 However, Gurukul was not for everyone. Caste or family status frequently determined admission. **This system excluded many groups, notably lower castes and girls.** It's one of the most significant truths we cannot deny.
@@ -118,9 +118,9 @@ As time moved on, learning stepped out of the forest and into something bigger, 
 - Monks, scholars, and seekers travelled from **China**, **Korea**, **Tibet**, and even further, drawn by India's wisdom and its peaceful way of learning. 
 - The **Chinese monk Xuanzang** studied here and wrote about its grand halls and wise teachers.
 
-Nalanda flourished for almost a thousand years under the support of the Gupta, Pushyabhuti, and Pala dynasties before Muhammad Bakhtiyar Khilji destroyed it in 1200 CE. Its role in bringing Sanskrit texts to East Asia and influencing Mahayana and Vajrayana Buddhism is indicative of its worldwide influence.
+Nalanda flourished for almost a thousand years under the support of the Gupta, Pushyabhuti, and Pala dynasties before it was destroyed by Muhammad Bakhtiyar Khilji in 1200 CE. Its role in bringing Sanskrit texts to East Asia and influencing Mahayana and Vajrayana Buddhism is indicative of its profound influence worldwide.
 
-Similarly, **Takshashila**, an even older university, was known for practical subjects like **politics**, **surgery**, and **economics**. Learning here wasn't about memorising facts; it was about discussion, debate, and understanding how the world works.
+Similarly, **Takshashila**, an even older university, was renowned for its practical subjects, including **politics**, **surgery**, and **economics**. Learning here wasn't about memorising facts; it was about discussion, debate, and understanding how the world works.
 
 ### A Network of Ancient Learning Centres
 
@@ -141,9 +141,9 @@ Similarly, **Takshashila**, an even older university, was known for practical su
 
 India's ancient education system flourished beyond these two famous centres. **Vikramashila University**, founded in the 8th century by King Dharmapala of the Pala dynasty, became a renowned centre for Tantric Buddhism with more than 1,000 students and 100 teachers.
 
-**Odantapuri**, established in the 8th century, was considered India's second-oldest university, housing around 12,000 students according to Tibetan records. **Valabhi University** in present-day Gujarat (600-1400 CE) specialised in Hinayana Buddhism and secular subjects, with Chinese traveller Yijing noting its education was comparable to Nalanda.
+**Odantapurī**, established in the 8th century, was considered India's second-oldest university, housing around 12,000 students according to Tibetan records. **Valabhi University** in present-day Gujarat (600-1400 CE) specialized in Hinayana Buddhism and secular subjects, with the Chinese traveler Yijing noting that its education was comparable to that of Nalanda.
 
-These five major mahaviharas: **Nalanda**, **Vikramashila**, **Odantapuri**, **Somapura**, and **Jagaddala** formed an interconnected network of higher learning. Scholars would often move between these institutions, creating a vibrant ecosystem of knowledge exchange.
+These five major mahaviharas: **Nalanda**, **Vikramashila**, **Odantapurī**, **Somapura**, and **Jagaddala** formed an interconnected network of higher learning. Scholars would often move between these institutions, creating a vibrant ecosystem of knowledge exchange.
 
 ### Buddhist and Jain Educational Traditions
 
@@ -555,7 +555,7 @@ We'd love to hear your thoughts. Share how the evolution of education has shaped
 ## References
 
 <details>
-<summary>click to expand and see all citations, references and further reading materials</summary>
+<summary>click to expand and see all citations, references, and further reading materials</summary>
 
 ### Pre-Vedic and Indus Valley Civilization
 
@@ -687,7 +687,7 @@ nalanda-university-indeed-vandalised-incinerated-marauding-turkish-invaders/d/13
 97. [Swayam – NPTEL Courses](https://onlinecourses.nptel.ac.in/)
 98. [National Programme on Technology Enhanced Learning - Wikipedia](https://en.wikipedia.org/wiki/National_Programme_on_Technology_Enhanced_Learning)
 99. [The only option? Distance learning in North India during the COVID - Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2189734)
-100. [Access denied: Education in rural India during Covid-19 | BERA](https://www.bera.ac.uk/blog/access-denied-education-in-rural-india-during-covid-19)
+100. [Education in rural India during Covid-19 | BERA](https://www.bera.ac.uk/blog/access-denied-education-in-rural-india-during-covid-19)
 
 ### Educational Philosophy and Quotes
 
