@@ -29,3 +29,21 @@
     - article
     - history
     - social media
+
+- slug: gurukul-to-google
+  title: "Gurukul to Google: India's Education Evolution"
+  thumbnail: /blogs/gurukul-to-google/assets/thumbnail.jpg
+  description: "A journey through India's educational history, from ancient Gurukuls to modern digital era of Google, exploring the evolution of learning and its impact on society."
+  authors:
+    - name: Sumedha Bhaduri
+      profile: https://github.com/sume98
+      avatar: https://avatars.githubusercontent.com/u/52962291?v=4
+    - name: Atanu Sarkar
+      profile: https://github.com/mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/34891206?v=4
+  created: May 10, 2025
+  updated: November 18, 2025
+  tags:
+    - article
+    - history
+    - education
