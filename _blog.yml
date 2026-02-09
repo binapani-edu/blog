@@ -18,7 +18,7 @@
   thumbnail: /blogs/journey-of-social-media/assets/thumbnail.jpg
   description: "Social media as we know it today didn't happen overnight. It's been a journey of innovation, creativity, and rapid changes that lead to the experience we're all familiar with today!"
   authors:
-    - name: koyelism
+    - name: Koyeli Sujit Mitra
       profile: https://github.com/koyelism
     - name: mratanusarkar
       profile: https://github.com/mratanusarkar
@@ -47,3 +47,20 @@
     - article
     - history
     - education
+
+- slug: autism-and-communication
+  title: "Autism and Communication: Bridging the Gap with Clarity, Empathy, and Inclusion"
+  thumbnail: /blogs/autism-and-communication/assets/thumbnail.jpg
+  description: "Exploring communication differences between autistic and neurotypical individuals, the Double Empathy Problem, and practical ways to build bridges of understanding through clarity, empathy, and inclusive communication."
+  authors:
+    - name: Koyeli Sujit Mitra
+      profile: https://github.com/koyelism
+    - name: Atanu Sarkar
+      profile: https://github.com/mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/34891206?v=4
+  created: February 09, 2026
+  updated: February 09, 2026
+  tags:
+    - blog
+    - autism
+    - communication
