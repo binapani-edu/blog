@@ -7,19 +7,16 @@ Communication differences are a natural part of how autistic people experience a
 What matters most is not how someone communicates, but that their voice (in whatever form it takes) is heard, respected, and valued. In the end, fundamentally, communication is the exchange of information and ideas between two individuals.
 
 <p align="center">
-    <iframe
-        src="https://www.instagram.com/p/C1CfPl5MGUy/embed"
-        title="Autistic & non-autistic communication. Different brains are not lesser, different communication is not lesser. Communication breakdowns occur by both parties not communicating in the same way."
+    <img
+        src="/blogs/autism-and-communication/assets/autism-and-communication.jpg"
+        alt="Autistic & non-autistic communication. Different brains are not lesser, different communication is not lesser. Communication breakdowns occur by both parties not communicating in the same way."
         height="400"
-        frameborder="0"
-        scrolling="no"
-        loading="lazy"
-    ></iframe>
+    >
     <br>
     <sup>
         Autistic & non-autistic communication | Source: 
-        <a href="https://www.instagram.com/hat.talks.uk" target="_blank">
-            hat.talks.uk
+        <a href="https://www.instagram.com/p/C1CfPl5MGUy/" target="_blank">
+            @hat.talks.uk
         </a>
     </sup>
 </p>
@@ -68,15 +65,15 @@ These terms are not labels of ability—they simply describe different ways of e
 
 <p align="center">
     <img
-        src="https://instagram.fccu31-2.fna.fbcdn.net/v/t51.29350-15/472835502_982679887052121_3807813180020119887_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjEwODB4MTA4MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.fccu31-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QGBDr9T1LDThbXVva-NIe1d5PtPGNCVqs1wmF6l6Q8d7NU8MebcQkRVGMZM_IK6BDc&_nc_ohc=E0JGnmRBBrEQ7kNvwHUajrn&_nc_gid=tCWUdORnzaMAkPJsMFYsqQ&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MzU0MDQ2NzM3NDUxNDI4MjIyMA%3D%3D.3-ccb7-5&oh=00_AfstjdreSi89UpL4LxTW90XdJjer6kJze5DIIcXDwT5wbQ&oe=69955338&_nc_sid=22de04"
+        src="/blogs/autism-and-communication/assets/neurodivergent-and-neurotypical.jpg"
         alt="This infographic breaks down the basics: neurotypical, neurodivergent, and the beautiful spectrum in between."
         height="400"
     >
     <br>
     <sup>
-        Dr Damian Milton's Double Empathy Problem | Source: 
-        <a href="https://neurodivergentinsights.com/the-double-empathy-problem/" target="_blank">
-            Neurodivergent Insights
+        Neurotypical, Neurodivergent, and the spectrum in between | Source: 
+        <a href="https://www.instagram.com/p/DEiRFGkyJ7s/" target="_blank">
+            @theneurodivergentot
         </a>
     </sup>
 </p>
