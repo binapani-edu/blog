@@ -66,7 +66,7 @@ These terms are not labels of ability—they simply describe different ways of e
 <p align="center">
     <img
         src="/blogs/autism-and-communication/assets/neurodivergent-and-neurotypical.jpg"
-        alt="This infographic breaks down the basics: neurotypical, neurodivergent, and the beautiful spectrum in between."
+        alt="Let's talk neurodiversity! This infographic breaks down the basics: neurotypical, neurodivergent, and the beautiful spectrum in between. About 20% of the population is neurodivergent. That means 1 in 5 people experience the world differently! Screw the 'norm'. Let's celebrate the strength and resilience of neurodivergent individuals who navigate a world that wasn't designed for them."
         height="400"
     >
     <br>
