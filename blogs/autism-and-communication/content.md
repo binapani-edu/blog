@@ -122,6 +122,21 @@ Overlapping voices and fast exchanges can make processing spoken language overwh
 
 Expectations about eye contact, turn-taking, or small talk are often assumed rather than explained.
 
+<p align="center">
+    <img
+        src="/blogs/autism-and-communication/assets/asd-communication-roadblocks.jpg"
+        alt="Common communication roadblocks for autistic people: idioms and metaphors, implied meanings, sarcasm, tone-based meaning, vague instructions, rapid topic shifts, group conversations, and unspoken social rules."
+        height="400"
+    >
+    <br>
+    <sup>
+        Common communication roadblocks for autistic people | Source: 
+        <a href="https://binapani.com/" target="_blank">
+            Binapani
+        </a>
+    </sup>
+</p>
+
 Autistic people may find neurotypical social rules confusing, while neurotypical people may misinterpret autistic communication styles. The gap is mutual—not one-sided.
 
 This means responsibility for better communication belongs to everyone. Communication is most effective when both people are able to exchange not just words, but intent, meaning, and understanding.
@@ -139,16 +154,16 @@ Listening beyond tone, delivery style, or social convention allows us to hear th
 Small shifts in communication style can make a meaningful difference.
 
 - Be literal and direct
-  > Say exactly what you mean. Instead of “Keep an eye on the time,” try “Please tell me when it is 3:00 PM.”
+    Say exactly what you mean. Instead of “Keep an eye on the time,” try “Please tell me when it is 3:00 PM.”
 
 - Provide context
-  > Explain the reason behind a request to create a clearer mental picture.
+    Explain the reason behind a request to create a clearer mental picture.
 
 - Allow processing time
-  > Pause after asking a question to allow time for response.
+    Pause after asking a question to allow time for response.
 
 - Reframe ‘bluntness’ as clarity
-  > Try to receive direct communication at face value rather than searching for hidden intent.
+    Try to receive direct communication at face value rather than searching for hidden intent.
 
 
 ## The Future of Autism Communication Support
