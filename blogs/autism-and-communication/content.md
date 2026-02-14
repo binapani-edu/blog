@@ -148,23 +148,39 @@ When we broaden our understanding of communication, we create space for inclusio
 
 Listening beyond tone, delivery style, or social convention allows us to hear the content of what is being shared—and that is where real connection begins.
 
+<p align="center">
+    <img
+        src="https://hattalks.uk/wp-content/uploads/2022/12/3D574730-82A1-406A-A2D8-539A26F6B24D.png"
+        alt="Neurodivergent Listening Styles Visual. A replacement of the Active Listening posters we see for neurotypical children. This visual highlights how neurodivergent children listen and learn in different ways, which should be accepted."
+        height="400"
+    >
+    <br>
+    <sup>
+        Neurodivergent Listening Styles | Source: 
+        <a href="https://hattalks.uk/resources/" target="_blank">
+            @hat.talks.uk
+        </a>
+    </sup>
+</p>
+
 
 ## How to Practice Inclusive Communication
 
 Small shifts in communication style can make a meaningful difference.
 
-- Be literal and direct:
+1. Be literal and direct:
   - Say exactly what you mean. Instead of “Keep an eye on the time,” try “Please tell me when it is 3:00 PM.”
 
-- Provide context:
+2. Provide context:
   - Explain the reason behind a request to create a clearer mental picture.
 
-- Allow processing time:
+3. Allow processing time:
   - Pause after asking a question to allow time for response.
 
-- Reframe ‘bluntness’ as clarity:
+4. Reframe ‘bluntness’ as clarity:
   - Try to receive direct communication at face value rather than searching for hidden intent.
 
+> We came across this beautiful "Tips for communicating with autistic people" from [@hat.talks.uk](https://hattalks.uk/resources/): [[download pdf](https://hattalks.uk/wp-content/uploads/2022/12/Tips-for-Communicating-with-Autistic-People.pdf)], feel free to check it out!
 
 ## The Future of Autism Communication Support
 
