@@ -153,16 +153,20 @@ Listening beyond tone, delivery style, or social convention allows us to hear th
 
 Small shifts in communication style can make a meaningful difference.
 
-- Be literal and direct
+- Be literal and direct:
+
     Say exactly what you mean. Instead of “Keep an eye on the time,” try “Please tell me when it is 3:00 PM.”
 
-- Provide context
+- Provide context:
+
     Explain the reason behind a request to create a clearer mental picture.
 
-- Allow processing time
+- Allow processing time:
+
     Pause after asking a question to allow time for response.
 
-- Reframe ‘bluntness’ as clarity
+- Reframe ‘bluntness’ as clarity:
+
     Try to receive direct communication at face value rather than searching for hidden intent.
 
 
