@@ -3,7 +3,7 @@
   thumbnail: /blogs/binapani-blog-guide/assets/thumbnail.jpg
   description: "A step-by-step guide on writing, formatting, and publishing blogs for Binapani, including metadata setup, PR process, and technical steps with plenty of helpful tips along the way."
   authors:
-    - name: mratanusarkar
+    - name: Atanu Sarkar
       profile: https://github.com/mratanusarkar
       avatar: https://avatars.githubusercontent.com/u/34891206?v=4
   created: March 22, 2025
@@ -18,9 +18,10 @@
   thumbnail: /blogs/journey-of-social-media/assets/thumbnail.jpg
   description: "Social media as we know it today didn't happen overnight. It's been a journey of innovation, creativity, and rapid changes that lead to the experience we're all familiar with today!"
   authors:
-    - name: koyelism
+    - name: Koyeli Sujit Mitra
       profile: https://github.com/koyelism
-    - name: mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/207853455?v=4
+    - name: Atanu Sarkar
       profile: https://github.com/mratanusarkar
       avatar: https://avatars.githubusercontent.com/u/34891206?v=4
   created: May 04, 2025
@@ -47,3 +48,21 @@
     - article
     - history
     - education
+
+- slug: autism-and-communication
+  title: "Autism and Communication: Bridging the Gap with Clarity, Empathy, and Inclusion"
+  thumbnail: /blogs/autism-and-communication/assets/thumbnail.png
+  description: "Exploring communication differences between autistic and neurotypical individuals, the Double Empathy Problem, and practical ways to build bridges of understanding through clarity, empathy, and inclusive communication."
+  authors:
+    - name: Koyeli Sujit Mitra
+      profile: https://github.com/koyelism
+      avatar: https://avatars.githubusercontent.com/u/207853455?v=4
+    - name: Atanu Sarkar
+      profile: https://github.com/mratanusarkar
+      avatar: https://avatars.githubusercontent.com/u/34891206?v=4
+  created: February 14, 2026
+  updated: February 14, 2026
+  tags:
+    - blog
+    - autism
+    - communication
