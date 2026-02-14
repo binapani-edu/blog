@@ -190,3 +190,18 @@ Autism communication is not about teaching people to “fit in.” It is about m
 
 In a world that often values speed and uniformity, autistic communication invites us to slow down, listen carefully, and connect with authenticity.
 
+<p align="center">
+    <img
+        src="/blogs/autism-and-communication/assets/boy-inbetween-crowd.png"
+        alt="A boy standing in between a crowd of people, looking confused."
+        height="400"
+    >
+    <br>
+    <sup>
+        Source: 
+        <a href="https://gemini.google.com/" target="_blank">
+            Generated using Gemini
+        </a>
+    </sup>
+</p>
+
