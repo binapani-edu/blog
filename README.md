@@ -46,7 +46,9 @@ repo for [Binapani blog posts](https://binapani.com/blog)
    - **Optimize your images** before adding them to keep the repository lightweight:
      - Use compression tools like [TinyPNG](https://tinypng.com/) or [ILoveIMG](https://www.iloveimg.com/compress-image)
      - Aim for a maximum file size of 300KB per image when possible
-     - Create thumbnails with dimensions 1300x650 for consistency
+     - Create thumbnails with dimensions 1200x630 (1.91:1 ratio, the [Open Graph standard](https://ogp.me/) for best social media previews)
+     - Supported thumbnail formats: JPG and PNG
+     - Keep thumbnail file size **under 600KB** for overall best link preview compatibility
 
 4. **Code snippets**: Use proper Markdown code blocks with language specification:
    
