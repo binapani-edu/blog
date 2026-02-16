@@ -91,7 +91,9 @@ Images can transform your blog from good to great:
 - **Optimize before uploading** to keep the repository lightweight:
   - Use tools like [TinyPNG](https://tinypng.com/) or [ILoveIMG](https://www.iloveimg.com/compress-image)
   - Aim for a maximum file size of 300KB per image when possible
-  - Create thumbnails with consistent dimensions (1300x650, or roughly 20:9 ratio is recommended)
+  - Create thumbnails with consistent dimensions (1200x630 at 1.91:1 ratio is the recommended [Open Graph standard](https://ogp.me/) for best social media previews)
+  - Supported thumbnail formats: JPG and PNG
+  - Keep thumbnail file size **under 600KB** for overall best link preview compatibility
 
 - **Add helpful captions** to provide context for your images:
   ```markdown
