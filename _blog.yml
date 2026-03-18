@@ -66,3 +66,18 @@
     - blog
     - autism
     - communication
+
+- slug: neuroscience-of-curiosity
+  title: "Curiosity and Cognition: The Brain Science Behind Learning"
+  thumbnail: /blogs/neuroscience-of-curiosity/assets/thumbnail.jpg
+  description: "A step-by-step guide on writing, formatting, and publishing blogs for Binapani, including metadata setup, PR process, and technical steps with plenty of helpful tips along the way."
+  authors:
+    - name: Simble Saju
+      profile: https://github.com/simblesaju
+      avatar: https://avatars.githubusercontent.com/u/268877194?v=4
+  created: March 28, 2026
+  updated: March 28, 2026
+  tags:
+    - blog
+    - neuroscience
+    - curiosity
