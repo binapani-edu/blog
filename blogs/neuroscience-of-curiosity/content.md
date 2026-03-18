@@ -4,7 +4,7 @@
 
 Curiosity plays a crucial role in how humans learn and evolve. From a young age, the urge to explore and discover shapes our understanding of the world around us. However, curiosity is not just a personal trait; it is closely related to the basic cognitive functions of the brain.
 
-Neuroscience research suggests that states of curiosity engage reward-related and memory-related brain systems, which supports learning. This means that when we are curious, our mind becomes more receptive and adept at absorbing new information, resulting in a richer learning experience.
+Neuroscience research suggests that states of curiosity engage reward-related and memory-related brain systems, which support learning. This means that when we are curious, our mind becomes more receptive and adept at absorbing new information, resulting in a richer learning experience.
 
 This blog explores the science behind curiosity and its impact on how we think, learn, and retain knowledge.
 
@@ -25,8 +25,6 @@ According to this perspective, curiosity is sparked when we encounter something 
 #### 3. Biological Survival Mechanism (Evolutionary Perspective)
 
 From an evolutionary perspective, curiosity may have adaptive value by encouraging exploration and information seeking. Early humans may have benefited from exploring their surroundings to locate resources and avoid potential threats. Research suggests that curiosity is associated with activity in reward-related neural systems, including dopaminergic pathways, which can motivate individuals to seek new information. However, these mechanisms are complex and not directly comparable to basic physiological needs such as hunger.[[3]](#3)
-
-Curiosity can be viewed from several different perspectives, each explaining its role in human thinking and behavior. It is not confined to academic or theoretical learning alone, but extends beyond that into everyday life. Curiosity also has roots in our basic survival instincts, guiding us to explore, question, and understand the world around us. While the level of curiosity may differ from person to person, it remains an important trait that supports learning, decision-making, and overall growth.
 
 ## The Brain and Curiosity
 
@@ -55,13 +53,28 @@ Curiosity encourages learners to engage more deeply with content rather than rel
 
 When individuals are curious, they are more likely to connect new information with existing knowledge, which strengthens understanding and improves recall. This explains why topics that spark curiosity are often remembered more easily than those learned passively.
 
-It encourages individuals to explore, ask questions, and discover new information. Questioning why things are done a certain way leads to deeper understanding and more meaningful learning. This does not have to be technical learning; it can come from everyday experiences, such as finding better or more efficient ways to complete routine tasks. The human brain naturally tends toward curiosity, constantly seeking to understand and explore the world around it.
+It encourages individuals to question how and why things are done, leading to deeper understanding. This process is not limited to formal or technical contexts; even everyday activities can become opportunities to refine thinking and discover more efficient ways of doing things.
 
 ## Encouraging Educational Curiosity
 
-Encouraging educational curiosity is vital for creating meaningful learning experiences. Approaches that inspire students need to be designed by the education system to help them think independently and explore more options. The learning process becomes more active when students are given the freedom to express their ideas and explore topics.
+<p align="center">
+    <img
+        src="/blogs/neuroscience-of-curiosity/assets/curiosity-student.png"
+        alt="An illustration of a student engaged in learning"
+        height="400"
+    >
+    <br>
+    <sup>
+        Student engaged in learning | Source: 
+          <a href="https://pixabay.com/vectors/boys-studying-children-student-1844435/" target="_blank">
+            Image by Pixabay
+        </a>
+    </sup>
+</p>
 
-One effective way to promote curiosity is by encouraging open-ended questioning. Questions that do not have a single correct answer stimulate deeper thinking and allow students to explore multiple perspectives. Additionally, incorporating real-world problems into lessons helps learners understand the practical relevance of what they study, which further increases their interest and engagement.
+Encouraging educational curiosity is essential for creating meaningful learning experiences. The education system should adopt approaches that inspire students to think independently and explore different possibilities. Learning becomes more active when students are given the freedom to express their ideas and engage with topics more deeply.
+
+One effective way to promote curiosity is through open-ended questioning. Questions without a single correct answer encourage deeper thinking and allow students to consider multiple perspectives. Additionally, incorporating real-world problems into lessons helps learners see the practical relevance of what they study, further enhancing their interest and engagement.
 
 Creating a supportive learning environment also plays a key role. When students feel comfortable expressing curiosity without fear of making mistakes, they are more likely to participate and experiment with new ideas. Research suggests that autonomy-supportive learning environments enhance intrinsic motivation and are likely to support curiosity-promoting classroom practices.[[5]](#5)
 
@@ -69,7 +82,7 @@ By focusing on curiosity-driven approaches, education can shift from passive inf
 
 ## Conclusion
 
-From a neuroscientific perspective, curiosity is associated with reward-related processes and improved memory, which supports effective learning. In education, it encourages a shift from passive memorization to active learning, where students question, analyze, and explore ideas more deeply. This not only strengthens understanding but also promotes independent thinking.
+From a neuroscientific perspective, curiosity is associated with reward-related processes and improved memory, which supports effective learning. In education, it encourages a shift from passive memorization to active learning, where students question, analyze, and explore ideas more deeply. This strengthens understanding while promoting independent thinking.
 
 By fostering curiosity in learning environments, educators can help students become more engaged and develop a lasting interest in learning beyond the classroom.
 
