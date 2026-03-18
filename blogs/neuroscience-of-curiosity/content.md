@@ -4,9 +4,9 @@
 
 Curiosity plays a crucial role in how humans learn and evolve. From a young age, the urge to explore and discover shapes our understanding of the world around us. However, curiosity is not just a personal trait; it is closely related to the basic cognitive functions of the brain.
 
-Neuroscience research suggests that states of curiosity engage reward-related and memory-related brain systems, which can support learning. This means that when we are curious, our mind becomes more receptive and adept at absorbing new information, resulting in a richer learning experience.
+Neuroscience research suggests that states of curiosity engage reward-related and memory-related brain systems, which supports learning. This means that when we are curious, our mind becomes more receptive and adept at absorbing new information, resulting in a richer learning experience.
 
-In this blog, we will go over the science behind curiosity and its impact on how we think, learn, and retain knowledge.
+This blog explores the science behind curiosity and its impact on how we think, learn, and retain knowledge.
 
 ## What Is Curiosity?
 
@@ -55,7 +55,7 @@ Curiosity encourages learners to engage more deeply with content rather than rel
 
 When individuals are curious, they are more likely to connect new information with existing knowledge, which strengthens understanding and improves recall. This explains why topics that spark curiosity are often remembered more easily than those learned passively.
 
-It encourages individuals to explore, ask questions, and discover new information.Questioning why things are done a certain way leads to deeper understanding and more meaningful learning. This does not have to be technical learning; it can come from everyday experiences, such as finding better or more efficient ways to complete routine tasks. The human brain naturally tends toward curiosity, constantly seeking to understand and explore the world around it.
+It encourages individuals to explore, ask questions, and discover new information. Questioning why things are done a certain way leads to deeper understanding and more meaningful learning. This does not have to be technical learning; it can come from everyday experiences, such as finding better or more efficient ways to complete routine tasks. The human brain naturally tends toward curiosity, constantly seeking to understand and explore the world around it.
 
 ## Encouraging Educational Curiosity
 
