@@ -53,7 +53,7 @@ Curiosity encourages learners to engage more deeply with content rather than rel
 
 When individuals are curious, they are more likely to connect new information with existing knowledge, which strengthens understanding and improves recall. This explains why topics that spark curiosity are often remembered more easily than those learned passively.
 
-It encourages individuals to question how and why things are done, leading to deeper understanding. This process is not limited to formal or technical contexts; even everyday activities can become opportunities to refine thinking and discover more efficient ways of doing things.
+It encourages individuals to question how and why things are done, leading to a deeper understanding. This process is not limited to formal or technical contexts; even everyday activities can become opportunities to refine thinking and discover more efficient ways of doing things.
 
 ## Encouraging Educational Curiosity
 
