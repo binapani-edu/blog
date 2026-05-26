@@ -51,7 +51,7 @@ Instead of simply consuming information, students actively participate in the le
     <br>
     <sup>
         Students interacting with interactive touch table | Source: 
-        <a href="https://in.pinterest.com/pin/931682241686939572" target="_blank">
+        <a href="https://tr.pinterest.com/pin/606860118584557692" target="_blank">
             Pinterest
         </a>
     </sup>
