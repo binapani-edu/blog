@@ -81,3 +81,18 @@
     - blog
     - neuroscience
     - curiosity
+
+- slug: screen-time-vs-smart-learning
+  title: "Screen Time vs Smart Learning: Finding the Balance"
+  thumbnail: /blogs/screen-time-vs-smart-learning/assets/thumbnail.jpg
+  description: "Exploring the balance between passive screen time and purposeful smart learning for children's education."
+  authors:
+    - name: Aritri Ghosh
+      profile: https://www.linkedin.com/in/aritri-ghosh-bb148a1b3/
+      avatar: https://raw.githubusercontent.com/binapani-edu/blog/6b340e37a7114a16dc4fc7148ca5b8fe1f9d0616/blogs/screen-time-vs-smart-learning/assets/author-aritri-ghosh.jpg
+  created: May 21, 2026
+  updated: May 21, 2026
+  tags:
+    - blog
+    - screen time
+    - smart learning
