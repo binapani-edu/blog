@@ -82,11 +82,11 @@ Combine online lessons with activities like drawing, reading, storytelling, or h
 
 ### 5. Monitor Emotional and Learning Needs
 
-Every child learns differently. Personalised learning approaches help children stay motivated without feeling overwhelmed.
+Every child learns differently. Personalized learning approaches help children stay motivated without feeling overwhelmed.
 
 ## Technology as a Learning Partner
 
-When used correctly, technology can become a powerful learning companion, especially for students who need [personalised](https://binapani.com/blog/autism-and-communication) or adaptive support.
+When used correctly, technology can become a powerful learning companion, especially for students who need [personalized](https://binapani.com/blog/autism-and-communication) or adaptive support.
 
 <p align="center">
     <img
@@ -107,7 +107,7 @@ For [neurodivergent](https://binapani.com/blog/neuroscience-of-curiosity) learne
 
 - Flexible learning speeds  
 - Visual communication support  
-- Reduced pressure learning environments  
+- Reduced-pressure learning environments  
 - Better engagement through interactive content
 
 This creates a more inclusive and accessible learning experience for all learners.
@@ -118,4 +118,4 @@ The conversation should not be about "screen time vs learning". Instead, it shou
 
 Smart learning is about creating experiences where children learn with curiosity, confidence, and engagement, while maintaining a healthy balance between digital and real-world experiences.
 
-As education continues to evolve, the future belongs to platforms that combine innovation, personalization, and accessibility to support every learner’s journey.
+As education continues to evolve, the future belongs to platforms that combine innovation, personalization, and accessibility to support every learner's journey.
