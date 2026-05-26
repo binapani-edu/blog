@@ -6,7 +6,7 @@ In today's digital world, screens have become a part of everyday learning. From 
     <img
         src="https://i1-c.pinimg.com/1200x/e9/7c/fc/e97cfc921feb5fdf0537c6ca6fccf9c7.jpg"
         alt="A teacher leads an interactive smart classroom where children use tablets and robotics tools for collaborative, technology-enabled learning."
-        height="300"
+        height="100"
     >
     <br>
     <sup>
@@ -46,7 +46,7 @@ Instead of simply consuming information, students actively participate in the le
     <img
         src="https://i.pinimg.com/736x/b2/b3/cf/b2b3cfa53d85f39fe75c93d9aaf86211.jpg"
         alt="A group of children gather closely around a large, brightly lit interactive touch-screen table displaying colorful educational content. They collaborate enthusiastically, pointing at the digital screen and using styluses to interact with the media together."
-        height="300"
+        height="100"
     >
     <br>
     <sup>
@@ -92,7 +92,7 @@ When used correctly, technology can become a powerful learning companion, especi
     <img
         src="https://i1-c.pinimg.com/1200x/01/4d/ad/014dad0ca478c27a00a67d9e21ee8ded.jpg"
         alt="Image with text: IT'S OK TO BE DIFFERENT, above three smiling lightbulbs. The outer bulbs are plain blue, while the center bulb has a colorful puzzle piece pattern."
-        height="300"
+        height="100"
     >
     <br>
     <sup>
