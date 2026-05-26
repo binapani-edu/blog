@@ -2,6 +2,21 @@
 
 In today's digital world, screens have become a part of everyday learning. From online classes and educational videos to AI-powered [learning platforms](https://academy.binapani.com), technology is transforming the way children learn and grow. But with increasing screen exposure, many parents and educators often ask an important question: *Is all screen time harmful?*
 
+<p align="center">
+    <img
+        src="https://i1-c.pinimg.com/1200x/e9/7c/fc/e97cfc921feb5fdf0537c6ca6fccf9c7.jpg"
+        alt="A teacher leads an interactive smart classroom where children use tablets and robotics tools for collaborative, technology-enabled learning."
+        height="400"
+    >
+    <br>
+    <sup>
+        Empowering students through digital learning | Source: 
+        <a href="" target="_blank">
+            Pinterest
+        </a>
+    </sup>
+</p>
+
 The answer lies in understanding the difference between passive screen time and smart learning.
 
 
@@ -26,6 +41,22 @@ Smart learning goes beyond watching content online. It involves:
 - Real-time progress tracking for students and parents
 
 Instead of simply consuming information, students actively participate in the learning process.
+
+<p align="center">
+    <img
+        src="https://i.pinimg.com/736x/b2/b3/cf/b2b3cfa53d85f39fe75c93d9aaf86211.jpg"
+        alt="A group of children gather closely around a large, brightly lit interactive touch-screen table displaying colorful educational content. They collaborate enthusiastically, pointing at the digital screen and using styluses to interact with the media together."
+        height="400"
+    >
+    <br>
+    <sup>
+        Students interacting with interactive touch table | Source: 
+        <a href="" target="_blank">
+            Pinterest
+        </a>
+    </sup>
+</p>
+
 
 ## Why Balance Matters
 
@@ -56,6 +87,21 @@ Every child learns differently. Personalised learning approaches help children s
 ## Technology as a Learning Partner
 
 When used correctly, technology can become a powerful learning companion, especially for students who need [personalised](https://binapani.com/blog/autism-and-communication) or adaptive support.
+
+<p align="center">
+    <img
+        src="https://i1-c.pinimg.com/1200x/01/4d/ad/014dad0ca478c27a00a67d9e21ee8ded.jpg"
+        alt="Image with text: IT'S OK TO BE DIFFERENT, above three smiling lightbulbs. The outer bulbs are plain blue, while the center bulb has a colorful puzzle piece pattern."
+        height="400"
+    >
+    <br>
+    <sup>
+        Embracing uniqueness and diversity | Source: 
+        <a href="" target="_blank">
+            Pinterest
+        </a>
+    </sup>
+</p>
 
 For [neurodivergent](https://binapani.com/blog/neuroscience-of-curiosity) learners and children with unique learning styles, digital learning tools can provide:
 
