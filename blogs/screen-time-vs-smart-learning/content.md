@@ -11,7 +11,7 @@ In today's digital world, screens have become a part of everyday learning. From 
     <br>
     <sup>
         Empowering students through digital learning | Source: 
-        <a href="" target="_blank">
+        <a href="https://in.pinterest.com/pin/931682241686939572" target="_blank">
             Pinterest
         </a>
     </sup>
@@ -51,7 +51,7 @@ Instead of simply consuming information, students actively participate in the le
     <br>
     <sup>
         Students interacting with interactive touch table | Source: 
-        <a href="" target="_blank">
+        <a href="https://in.pinterest.com/pin/931682241686939572" target="_blank">
             Pinterest
         </a>
     </sup>
@@ -97,7 +97,7 @@ When used correctly, technology can become a powerful learning companion, especi
     <br>
     <sup>
         Embracing uniqueness and diversity | Source: 
-        <a href="" target="_blank">
+        <a href="https://in.pinterest.com/pin/10203536651494622" target="_blank">
             Pinterest
         </a>
     </sup>
