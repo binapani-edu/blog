@@ -96,3 +96,18 @@
     - blog
     - screen time
     - smart learning
+
+- slug: nobel-prize-in-physics
+  title: "Nobel Prize in Physics ?"
+  thumbnail: /blogs/screen-time-vs-smart-learning/assets/img2.jpeg
+  description: "Francis Halzen's recent nobel prize win and his contributions over the years."
+  authors:
+    - name: Pritish Dutta
+      profile: https://www.linkedin.com/in/pritish-dutta/
+      avatar: https://avatars.githubusercontent.com/u/75317312?v=4
+  created: November 4, 2026
+  updated: November 4, 2026
+  tags:
+    - Nobel Prize
+    - Physics
+    - Francis Halzen
