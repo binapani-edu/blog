@@ -1,0 +1,85 @@
+name: Post Blog Preview Comment
+
+on:
+  workflow_run:
+    workflows: ["Blog Preview Link"]
+    types:
+      - completed
+
+jobs:
+  post-comment:
+    runs-on: ubuntu-latest
+    if: >
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success'
+    permissions:
+      pull-requests: write
+      issues: write
+      contents: read
+    steps:
+      - name: Download preview artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: preview-comment
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Post comment to pull request
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            
+            if (!fs.existsSync('pr_number.txt') || !fs.existsSync('comment_body.md')) {
+              core.setFailed('Missing required preview artifact files.');
+              return;
+            }
+            
+            const issueNumber = parseInt(fs.readFileSync('pr_number.txt', 'utf8').trim(), 10);
+            if (isNaN(issueNumber) || issueNumber <= 0) {
+              core.setFailed('Invalid PR issue number found in artifact.');
+              return;
+            }
+            
+            const body = fs.readFileSync('comment_body.md', 'utf8');
+            
+            // Delete old preview comments from github-actions[bot]
+            try {
+              const { data: comments } = await github.rest.issues.listComments({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+              });
+              
+              const previewComments = comments.filter(comment => 
+                comment.user.login === 'github-actions[bot]' && 
+                comment.body.includes('Preview Blog')
+              );
+              
+              for (const comment of previewComments) {
+                try {
+                  await github.rest.issues.deleteComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    comment_id: comment.id,
+                  });
+                } catch (delError) {
+                  console.warn(`Could not delete old comment ${comment.id}: ${delError.message}`);
+                }
+              }
+            } catch (listError) {
+              console.warn(`Could not list existing comments: ${listError.message}`);
+            }
+            
+            // Post new preview comment
+            try {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: body
+              });
+            } catch (postError) {
+              core.setFailed(`Failed to post preview comment: ${postError.message}`);
+            }
