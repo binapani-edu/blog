@@ -1,26 +1,19 @@
 name: Blog Preview Link
 
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, synchronize, reopened]
 
 jobs:
   comment-preview:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: write
-      issues: write
       contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
-
-      - name: Fetch base branch
-        run: |
-          git fetch origin ${{ github.event.pull_request.base.ref }}
 
       - name: Install yq
         run: |
@@ -105,42 +98,18 @@ jobs:
             echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Delete old preview comments
+      - name: Generate preview comment content
         uses: actions/github-script@v7
+        env:
+          MESSAGE: ${{ steps.detect-changes.outputs.message }}
+          HAS_CHANGES: ${{ steps.detect-changes.outputs.has_changes }}
+          NEW_SLUGS: ${{ steps.detect-changes.outputs.new_slugs }}
+          EDITED_SLUGS: ${{ steps.detect-changes.outputs.edited_slugs }}
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { data: comments } = await github.rest.issues.listComments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-            });
-            
-            // Delete all comments from the bot that contain "Preview Blog"
-            const previewComments = comments.filter(comment => 
-              comment.user.login === 'github-actions[bot]' && 
-              comment.body.includes('Preview Blog')
-            );
-            
-            for (const comment of previewComments) {
-              try {
-                await github.rest.issues.deleteComment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  comment_id: comment.id,
-                });
-              } catch (error) {
-                console.warn(`Could not delete comment ${comment.id}: ${error.message}`);
-              }
-            }
-
-      - name: Comment preview link
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const message = '${{ steps.detect-changes.outputs.message }}';
-            const hasChanges = '${{ steps.detect-changes.outputs.has_changes }}' === 'true';
+            const fs = require('fs');
+            const message = process.env.MESSAGE || '';
+            const hasChanges = process.env.HAS_CHANGES === 'true';
             const branch = context.payload.pull_request.head.ref;
             const owner = context.payload.pull_request.head.repo.owner.login;
             const repo = context.payload.pull_request.head.repo.name;
@@ -148,28 +117,24 @@ jobs:
             let body = `## Preview Blog\n\n${message}\n\n`;
             
             if (hasChanges) {
-              const blogListUrl = `https://www.binapani.com/draft/blog?preview=${branch}&owner=${owner}&repo=${repo}`;
+              const blogListUrl = `https://www.binapani.com/draft/blog?preview=${encodeURIComponent(branch)}&owner=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}`;
               body += `## Preview Links\n\n`;
               body += `📚 See your blog listings: [Blog List Preview](${blogListUrl})\n`;
               
-              // Create content preview links for each blog
               let slugs = [];
-              
-              const newSlugs = '${{ steps.detect-changes.outputs.new_slugs }}'.trim();
+              const newSlugs = (process.env.NEW_SLUGS || '').trim();
               if (newSlugs) {
-                slugs = slugs.concat(newSlugs.split(' '));
+                slugs = slugs.concat(newSlugs.split(/\s+/));
               }
-              
-              const editedSlugs = '${{ steps.detect-changes.outputs.edited_slugs }}'.trim();
+              const editedSlugs = (process.env.EDITED_SLUGS || '').trim();
               if (editedSlugs && !newSlugs) {
-                slugs = slugs.concat(editedSlugs.split(' '));
+                slugs = slugs.concat(editedSlugs.split(/\s+/));
               }
               
               if (slugs.length > 0) {
                 const contentLinks = slugs.map(slug => 
-                  `[${slug}](${`https://www.binapani.com/draft/blog/${slug}?preview=${branch}&owner=${owner}&repo=${repo}`})`
+                  `[${slug}](https://www.binapani.com/draft/blog/${encodeURIComponent(slug)}?preview=${encodeURIComponent(branch)}&owner=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)})`
                 ).join(', ');
-                
                 body += `📝 See your blog content: ${contentLinks}\n\n`;
               }
               
@@ -182,13 +147,14 @@ jobs:
             body += `- Published Blogs: [Binapani Blog](https://www.binapani.com/blog)\n`;
             body += `- Review Drafts: [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)\n`;
             
-            try {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
-            } catch (error) {
-              core.warning(`Could not post preview comment: ${error.message}`);
-            }
+            fs.writeFileSync('comment_body.md', body);
+            fs.writeFileSync('pr_number.txt', String(context.issue.number));
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-comment
+          path: |
+            pr_number.txt
+            comment_body.md
+          retention-days: 1
