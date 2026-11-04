@@ -1,7 +1,7 @@
 name: Blog Preview Link
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened]
 
 jobs:
@@ -15,7 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
+
+      - name: Fetch base branch
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }}
 
       - name: Install yq
         run: |
@@ -118,11 +123,15 @@ jobs:
             );
             
             for (const comment of previewComments) {
-              await github.rest.issues.deleteComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                comment_id: comment.id,
-              });
+              try {
+                await github.rest.issues.deleteComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  comment_id: comment.id,
+                });
+              } catch (error) {
+                console.warn(`Could not delete comment ${comment.id}: ${error.message}`);
+              }
             }
 
       - name: Comment preview link
@@ -173,9 +182,13 @@ jobs:
             body += `- Published Blogs: [Binapani Blog](https://www.binapani.com/blog)\n`;
             body += `- Review Drafts: [Binapani Blog Preview Tool](https://www.binapani.com/draft/blog)\n`;
             
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: body
-            });
+            try {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            } catch (error) {
+              core.warning(`Could not post preview comment: ${error.message}`);
+            }
